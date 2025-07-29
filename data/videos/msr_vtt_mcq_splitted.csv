@@ -1,0 +1,1001 @@
+,correct_answer,caption_0,caption_1,caption_2,caption_3,correct_answer_template,image_path
+0,1,"('marching,', 'pokemon')","('dancing and pokemon', '')","('', 'feature dancing')","('marching', '')",positive,video9838.mp4
+1,0,"('working and technology', '')","('', 'feature working')","('arguing,', 'technology')","('arguing', '')",positive,video7233.mp4
+2,0,"('talking,', 'fire')","('fire,', 'talking')","('', 'feature woman')","('fire', '')",hybrid,video8680.mp4
+3,1,"('', 'feature animation')","('cabinet,', 'person')","('person,', 'cabinet')","('person', '')",hybrid,video7768.mp4
+4,3,"('painting', '')","('', 'feature craft')","('painting,', 'creating')","('craft and creating', '')",positive,video7020.mp4
+5,3,"('card game,', 'racing')","('', 'feature video game')","('card game', '')","('video game and racing', '')",positive,video7506.mp4
+6,2,"('', 'feature fashion show')","('backstage,', 'animated models')","('animated models,', 'backstage')","('backstage', '')",hybrid,video7141.mp4
+7,1,"('soccer', '')","('', 'feature soccer')","('', 'feature baseball')","('soccer,', 'music')",negative,video7150.mp4
+8,3,"('punches', '')","('', 'feature martial arts')","('punches,', 'kicks')","('kicks,', 'punches')",hybrid,video9685.mp4
+9,1,"('', 'feature man')","('describing rubber,', 'singing')","('singing', '')","('singing,', 'describing rubber')",hybrid,video7575.mp4
+10,0,"('', 'feature football')","('football', '')","('football,', 'playing video game')","('', 'feature minecraft')",negative,video7366.mp4
+11,1,"('bike', '')","('car,', 'bike')","('', 'feature driving')","('bike,', 'car')",hybrid,video7965.mp4
+12,0,"('talking,', 'cooking')","('cooking,', 'talking')","('', 'feature gossip')","('cooking', '')",hybrid,video8494.mp4
+13,0,"('character,', 'console')","('', 'feature video game')","('console', '')","('console,', 'character')",hybrid,video7203.mp4
+14,0,"('speaking,', 'swimming')","('', 'feature man in suit')","('swimming,', 'speaking')","('swimming', '')",hybrid,video8908.mp4
+15,2,"('cat,', 'owners')","('cat', '')","('', 'feature cat')","('', 'feature dogs playing dead')",negative,video9034.mp4
+16,0,"('kitchen,', 'dancing')","('dancing,', 'kitchen')","('dancing', '')","('', 'feature talking')",hybrid,video9517.mp4
+17,1,"('', 'feature bottle')","('', 'feature laughter')","('laughter,', 'rolling')","('laughter', '')",negative,video9324.mp4
+18,0,"('', 'feature celebration')","('celebration', '')","('celebration,', 'rally')","('', 'feature protest')",negative,video8416.mp4
+19,0,"('rock music and performance', '')","('violence,', 'performance')","('violence', '')","('', 'feature rock music')",positive,video8978.mp4
+20,0,"('', 'feature cooking')","('cooking,', 'fixing car')","('', 'feature car')","('cooking', '')",negative,video7820.mp4
+21,0,"('wrestling and men', '')","('chess,', 'men')","('', 'feature wrestling')","('chess', '')",positive,video8470.mp4
+22,3,"('parade', '')","('parade,', 'speaking')","('', 'feature protest')","('', 'feature parade')",negative,video9404.mp4
+23,3,"('peace,', 'fighting')","('', 'feature cartoon')","('peace', '')","('fighting,', 'peace')",hybrid,video9208.mp4
+24,2,"('', 'feature singing')","('silence', '')","('', 'feature silence')","('silence,', 'boy')",negative,video7236.mp4
+25,3,"('', 'feature dinosaur')","('action,', 'movie')","('action', '')","('dinosaur and movie', '')",positive,video7355.mp4
+26,0,"('', 'feature cooking')","('cooking,', 'grey s anatomy')","('cooking', '')","('', 'feature man holding baby')",negative,video8800.mp4
+27,0,"('court,', 'football')","('football,', 'court')","('football', '')","('', 'feature basketball')",hybrid,video8668.mp4
+28,2,"('mexican,', 'cooking')","('', 'feature chinese')","('cooking,', 'mexican')","('mexican', '')",hybrid,video7823.mp4
+29,1,"('baking,', 'serving')","('cooking and serving', '')","('baking', '')","('', 'feature cooking')",positive,video7973.mp4
+30,0,"('highlights,', 'tennis')","('tennis,', 'highlights')","('', 'feature sports')","('tennis', '')",hybrid,video9605.mp4
+31,0,"('', 'feature negative emotions')","('negative emotions,', 'digital letters')","('', 'feature mobile phones')","('negative emotions', '')",negative,video7418.mp4
+32,0,"('nasa and scrolling text', '')","('', 'feature nasa')","('image', '')","('image,', 'scrolling text')",positive,video7562.mp4
+33,0,"('crafts and ribbons', '')","('painting,', 'ribbons')","('', 'feature crafts')","('painting', '')",positive,video7909.mp4
+34,2,"('bird', '')","('', 'feature pets')","('', 'feature bird')","('bird,', 'celebrities')",negative,video9828.mp4
+35,1,"('', 'feature digging')","('', 'feature mud')","('mud,', 'sand')","('mud', '')",negative,video9338.mp4
+36,1,"('dog,', 'talking')","('talking,', 'dog')","('', 'feature cow')","('dog', '')",hybrid,video9776.mp4
+37,1,"('', 'feature rooftop')","('man,', 'climbing')","('climbing', '')","('climbing,', 'man')",hybrid,video7468.mp4
+38,0,"('', 'feature tile')","('tile', '')","('tile,', 'installation')","('', 'feature flooring')",negative,video8250.mp4
+39,2,"('hitting', '')","('hitting,', 'baseball')","('', 'feature hitting')","('', 'feature spinning')",negative,video8049.mp4
+40,1,"('crying', '')","('', 'feature crying')","('crying,', 'laughing')","('', 'feature baby')",negative,video7570.mp4
+41,1,"('men', '')","('runway and models', '')","('men,', 'models')","('', 'feature runway')",positive,video9308.mp4
+42,3,"('basketball', '')","('', 'feature gun')","('basketball,', 'movie')","('gun and movie', '')",positive,video9784.mp4
+43,3,"('', 'feature eharmony')","('marriage,', 'online dating')","('marriage', '')","('online dating,', 'marriage')",hybrid,video9607.mp4
+44,2,"('calm,', 'band')","('', 'feature music')","('band,', 'calm')","('calm', '')",hybrid,video7135.mp4
+45,0,"('adding toppings,', 'baking')","('baking', '')","('', 'feature making pizza')","('baking,', 'adding toppings')",hybrid,video9873.mp4
+46,3,"('', 'feature batman')","('joker', '')","('joker,', 'fighting')","('', 'feature joker')",negative,video8249.mp4
+47,0,"('intimacy and romance', '')","('', 'feature intimacy')","('violence,', 'romance')","('violence', '')",positive,video7682.mp4
+48,0,"('man and talking', '')","('listening,', 'talking')","('listening', '')","('', 'feature man')",positive,video7412.mp4
+49,0,"('speed,', 'art')","('art,', 'speed')","('art', '')","('', 'feature car')",hybrid,video7765.mp4
+50,2,"('balloon', '')","('balloon,', 'man flying')","('drone and man flying', '')","('', 'feature drone')",positive,video8125.mp4
+51,0,"('medication,', 'fighting')","('', 'feature communication')","('fighting,', 'medication')","('fighting', '')",hybrid,video9833.mp4
+52,3,"('', 'feature car')","('racing', '')","('racing,', 'testing')","('testing,', 'racing')",hybrid,video7110.mp4
+53,2,"('dancing', '')","('', 'feature singing')","('slide show,', 'dancing')","('dancing,', 'slide show')",hybrid,video8937.mp4
+54,3,"('basketball', '')","('basketball,', 'videogame')","('', 'feature football')","('videogame,', 'basketball')",hybrid,video8817.mp4
+55,2,"('waking up,', 'cartoon')","('waking up', '')","('', 'feature waking up')","('', 'feature falling asleep')",negative,video7160.mp4
+56,1,"('accident,', 'travel')","('', 'feature accident')","('', 'feature people')","('accident', '')",negative,video8306.mp4
+57,2,"('', 'feature origami')","('sculpture,', 'paper')","('origami and paper', '')","('sculpture', '')",positive,video9301.mp4
+58,1,"('', 'feature video game')","('', 'feature playing sports')","('playing sports', '')","('playing sports,', 'driving car')",negative,video8468.mp4
+59,2,"('', 'feature motorcycle')","('cooking,', 'talking')","('', 'feature cooking')","('cooking', '')",negative,video9809.mp4
+60,3,"('', 'feature pizza')","('cake', '')","('cake,', 'cook')","('cook,', 'cake')",hybrid,video8910.mp4
+61,0,"('', 'feature romance')","('romance', '')","('', 'feature nasa')","('romance,', 'report')",negative,video7431.mp4
+62,2,"('baking,', 'broth')","('', 'feature cooking')","('', 'feature baking')","('baking', '')",negative,video7376.mp4
+63,3,"('', 'feature fishing')","('diving', '')","('diving,', 'boating')","('fishing and boating', '')",positive,video7681.mp4
+64,2,"('singing,', 'editing')","('', 'feature computer tutorial')","('', 'feature singing')","('singing', '')",negative,video8921.mp4
+65,3,"('mobile homes', '')","('mobile homes,', 'stilt houses')","('', 'feature beach houses')","('beach houses and stilt houses', '')",positive,video8426.mp4
+66,3,"('', 'feature car commercial')","('motorcycle,', 'car dealership')","('motorcycle', '')","('', 'feature motorcycle')",negative,video8651.mp4
+67,3,"('', 'feature fashion')","('food', '')","('food,', 'magazine')","('fashion and magazine', '')",positive,video8806.mp4
+68,0,"('music,', 'baseball')","('baseball,', 'music')","('', 'feature basketball')","('baseball', '')",hybrid,video8253.mp4
+69,0,"('', 'feature piano')","('piano', '')","('piano,', 'surfboards')","('', 'feature beach balls')",negative,video8339.mp4
+70,2,"('', 'feature woman')","('silence,', 'talking')","('talking,', 'silence')","('silence', '')",hybrid,video7364.mp4
+71,1,"('', 'feature thawing food')","('food safety,', 'frying food')","('frying food,', 'food safety')","('frying food', '')",hybrid,video8247.mp4
+72,1,"('fighting,', 'discussing')","('discussing,', 'fighting')","('fighting', '')","('', 'feature sitting')",hybrid,video8821.mp4
+73,3,"('person', '')","('person,', 'car driving')","('', 'feature virtual reality')","('car driving,', 'person')",hybrid,video8473.mp4
+74,0,"('cartoon and characters', '')","('', 'feature cartoon')","('science,', 'characters')","('science', '')",positive,video8676.mp4
+75,3,"('', 'feature refrigerator')","('disorganization', '')","('disorganization,', 'organization')","('refrigerator and organization', '')",positive,video8495.mp4
+76,1,"('soccer,', 'playing')","('minecraft and playing', '')","('soccer', '')","('', 'feature minecraft')",positive,video8797.mp4
+77,1,"('rain,', 'sky')","('', 'feature rain')","('rain', '')","('', 'feature rocket')",negative,video9774.mp4
+78,3,"('teamwork,', 'fighting')","('teamwork', '')","('', 'feature soccer')","('', 'feature teamwork')",negative,video9681.mp4
+79,3,"('alien', '')","('', 'feature space')","('alien,', 'planet')","('space and planet', '')",positive,video9807.mp4
+80,2,"('danger,', 'car')","('', 'feature guitar')","('guitar and car', '')","('danger', '')",positive,video9228.mp4
+81,2,"('', 'feature photoshop')","('golf,', 'tutorial')","('photoshop and tutorial', '')","('golf', '')",positive,video9812.mp4
+82,1,"('unpacking', '')","('packing and trip', '')","('', 'feature packing')","('unpacking,', 'trip')",positive,video8796.mp4
+83,1,"('swimming,', 'commentary')","('commentary,', 'swimming')","('', 'feature wrestling')","('swimming', '')",hybrid,video8440.mp4
+84,1,"('man,', 'product')","('', 'feature man')","('man', '')","('', 'feature woman')",negative,video9347.mp4
+85,2,"('', 'feature football')","('basketball,', 'play')","('', 'feature basketball')","('basketball', '')",negative,video9647.mp4
+86,2,"('television,', 'couple')","('', 'feature dancing')","('dancing and couple', '')","('television', '')",positive,video8807.mp4
+87,1,"('pasta,', 'chicken')","('man and chicken', '')","('pasta', '')","('', 'feature man')",positive,video7799.mp4
+88,0,"('confess and church', '')","('fight', '')","('', 'feature confess')","('fight,', 'church')",positive,video7686.mp4
+89,1,"('losing', '')","('shooting,', 'losing')","('losing,', 'shooting')","('', 'feature basketball')",hybrid,video9019.mp4
+90,1,"('missing,', 'playing')","('basketball and playing', '')","('missing', '')","('', 'feature basketball')",positive,video7112.mp4
+91,3,"('', 'feature two women')","('disagreement', '')","('disagreement,', 'talking')","('two women and talking', '')",positive,video7751.mp4
+92,0,"('', 'feature book')","('book', '')","('book,', 'audience')","('', 'feature late show')",negative,video8482.mp4
+93,3,"('film', '')","('', 'feature museum')","('film,', 'talking')","('', 'feature film')",negative,video9244.mp4
+94,2,"('eating', '')","('', 'feature calcium')","('', 'feature eating')","('eating,', 'drinking')",negative,video8067.mp4
+95,2,"('screening,', 'washing')","('', 'feature machinery')","('washing,', 'screening')","('screening', '')",hybrid,video9735.mp4
+96,3,"('music,', 'television')","('music', '')","('', 'feature idea')","('', 'feature music')",negative,video9024.mp4
+97,1,"('piano,', 'guitar')","('ukulele and guitar', '')","('piano', '')","('', 'feature ukulele')",positive,video7547.mp4
+98,2,"('', 'feature men')","('women,', 'talking')","('', 'feature women')","('women', '')",negative,video7175.mp4
+99,1,"('', 'feature fashion')","('fashion and models', '')","('cars', '')","('cars,', 'models')",positive,video7669.mp4
+100,0,"('crying,', 'laughing')","('', 'feature hugging')","('laughing', '')","('laughing,', 'crying')",hybrid,video7590.mp4
+101,2,"('soup,', 'stew')","('', 'feature meat dish')","('stew,', 'soup')","('soup', '')",hybrid,video8300.mp4
+102,3,"('girl', '')","('girl,', 'boy')","('', 'feature photo')","('', 'feature girl')",negative,video7830.mp4
+103,3,"('helicopter', '')","('', 'feature paper airplane')","('helicopter,', 'folding')","('', 'feature helicopter')",negative,video8688.mp4
+104,3,"('violence,', 'nil')","('violence', '')","('', 'feature nil')","('nil and nil', '')",positive,video9239.mp4
+105,1,"('walking,', 'racing')","('racing,', 'walking')","('', 'feature car')","('walking', '')",hybrid,video9328.mp4
+106,0,"('running,', 'hurdle')","('', 'feature track')","('hurdle,', 'running')","('hurdle', '')",hybrid,video8264.mp4
+107,1,"('happiness,', 'cartoons')","('squidward and cartoons', '')","('happiness', '')","('', 'feature squidward')",positive,video9814.mp4
+108,0,"('fried food and cooking', '')","('vegetables,', 'cooking')","('', 'feature fried food')","('vegetables', '')",positive,video8056.mp4
+109,3,"('man', '')","('', 'feature woman/lady/person')","('man,', 'kitchen')","('', 'feature man')",negative,video9307.mp4
+110,2,"('soccer', '')","('soccer,', 'beach')","('', 'feature soccer')","('', 'feature singing')",negative,video7917.mp4
+111,1,"('political debate', '')","('commercial,', 'political debate')","('political debate,', 'commercial')","('', 'feature late show')",hybrid,video7754.mp4
+112,1,"('', 'feature rhinoceros')","('rhinoceros and field', '')","('aggression,', 'field')","('aggression', '')",positive,video8244.mp4
+113,0,"('performing,', 'painting')","('painting,', 'performing')","('painting', '')","('', 'feature band')",hybrid,video7461.mp4
+114,3,"('game', '')","('', 'feature brochure')","('game,', 'movie')","('brochure and movie', '')",positive,video8684.mp4
+115,2,"('', 'feature fighting')","('love,', 'woman')","('fighting and woman', '')","('love', '')",positive,video9623.mp4
+116,0,"('', 'feature gaming')","('gaming', '')","('', 'feature computer')","('gaming,', 'connecting')",negative,video9770.mp4
+117,1,"('', 'feature mario game')","('playing,', 'tennis')","('tennis', '')","('tennis,', 'playing')",hybrid,video8459.mp4
+118,1,"('', 'feature mixing spices')","('', 'feature baking')","('baking', '')","('baking,', 'assortment of ingredients')",negative,video9689.mp4
+119,2,"('swimming pool,', 'race track')","('swimming pool', '')","('race track,', 'swimming pool')","('', 'feature race cars')",hybrid,video7214.mp4
+120,0,"('driving,', 'bicycle')","('', 'feature car')","('bicycle,', 'driving')","('bicycle', '')",hybrid,video7616.mp4
+121,2,"('', 'feature building')","('inside,', 'chinese temple')","('building and chinese temple', '')","('inside', '')",positive,video8741.mp4
+122,2,"('microwave', '')","('', 'feature cooking')","('', 'feature microwave')","('microwave,', 'pan')",negative,video8751.mp4
+123,0,"('', 'feature park')","('park,', 'animation')","('park', '')","('', 'feature cupid')",negative,video7365.mp4
+124,0,"('pitcher and baseball', '')","('cricket,', 'baseball')","('cricket', '')","('', 'feature pitcher')",positive,video9021.mp4
+125,2,"('hulk', '')","('', 'feature captain america')","('', 'feature hulk')","('hulk,', 'bridge')",negative,video8319.mp4
+126,0,"('barn,', 'cats')","('', 'feature horses')","('cats', '')","('cats,', 'barn')",hybrid,video8327.mp4
+127,1,"('', 'feature hugging')","('dancing,', 'argument')","('argument,', 'dancing')","('argument', '')",hybrid,video9801.mp4
+128,2,"('', 'feature band')","('swimming,', 'performing')","('', 'feature swimming')","('swimming', '')",negative,video9243.mp4
+129,3,"('cooking', '')","('', 'feature machinery')","('cooking,', 'explaining')","('machinery and explaining', '')",positive,video9368.mp4
+130,0,"('', 'feature frying')","('', 'feature mixing')","('frying,', 'bowl')","('frying', '')",negative,video9731.mp4
+131,1,"('baking', '')","('', 'feature baking')","('', 'feature cooking')","('baking,', 'chef')",negative,video7695.mp4
+132,2,"('', 'feature cooking')","('fine dining', '')","('cooking and culture', '')","('fine dining,', 'culture')",positive,video8836.mp4
+133,3,"('swimming', '')","('swimming,', 'people')","('', 'feature waterfall')","('waterfall and people', '')",positive,video8335.mp4
+134,3,"('', 'feature talking about appliances')","('washing dishes', '')","('washing dishes,', 'best buy')","('best buy,', 'washing dishes')",hybrid,video7563.mp4
+135,0,"('children and laughing', '')","('', 'feature children')","('crying', '')","('crying,', 'laughing')",positive,video7970.mp4
+136,2,"('dessert', '')","('dessert,', 'chef')","('chef,', 'dessert')","('', 'feature cooking')",hybrid,video8662.mp4
+137,0,"('painting fingernails and nail polish', '')","('', 'feature painting fingernails')","('toenails,', 'nail polish')","('toenails', '')",positive,video9025.mp4
+138,2,"('cure', '')","('cure,', 'condition')","('', 'feature cure')","('', 'feature woman')",negative,video9782.mp4
+139,0,"('director of data science and interview', '')","('person,', 'interview')","('', 'feature director of data science')","('person', '')",positive,video9901.mp4
+140,2,"('', 'feature pushing')","('driving', '')","('cartoon characters,', 'driving')","('driving,', 'cartoon characters')",hybrid,video7912.mp4
+141,3,"('father', '')","('father,', 'children')","('', 'feature mother')","('children,', 'father')",hybrid,video8348.mp4
+142,0,"('', 'feature music')","('music,', 'explanation')","('', 'feature biotechnology')","('music', '')",negative,video9119.mp4
+143,0,"('', 'feature human')","('', 'feature water')","('human', '')","('human,', 'mars')",negative,video9620.mp4
+144,1,"('basketball', '')","('man and woman', '')","('basketball,', 'woman')","('', 'feature man')",positive,video8974.mp4
+145,2,"('', 'feature avengers movie')","('captain america', '')","('', 'feature captain america')","('captain america,', 'chris hemsworth')",negative,video9742.mp4
+146,0,"('couple and kiss', '')","('fighting', '')","('', 'feature couple')","('fighting,', 'kiss')",positive,video8653.mp4
+147,2,"('parade,', 'watching fireworks')","('', 'feature fireworks')","('fireworks and watching fireworks', '')","('parade', '')",positive,video9779.mp4
+148,2,"('education,', 'fighting')","('education', '')","('fighting,', 'education')","('', 'feature playing')",hybrid,video9035.mp4
+149,3,"('crashing', '')","('crashing,', 'safety')","('', 'feature space')","('safety,', 'crashing')",hybrid,video9609.mp4
+150,1,"('music,', 'stage')","('dancer and stage', '')","('music', '')","('', 'feature dancer')",positive,video7351.mp4
+151,0,"('', 'feature violence')","('violence', '')","('', 'feature making love')","('violence,', 'couple')",negative,video7592.mp4
+152,1,"('gaming', '')","('explaining,', 'gaming')","('gaming,', 'explaining')","('', 'feature operating system')",hybrid,video8328.mp4
+153,3,"('cooking', '')","('cooking,', 'nail art')","('', 'feature make-up')","('make-up and nail art', '')",positive,video8712.mp4
+154,2,"('', 'feature video game')","('losing', '')","('', 'feature losing')","('losing,', 'jumping')",negative,video7919.mp4
+155,2,"('swimming,', 'outfit')","('', 'feature woman')","('woman and outfit', '')","('swimming', '')",positive,video8904.mp4
+156,0,"('pope and sky news', '')","('accident', '')","('accident,', 'sky news')","('', 'feature pope')",positive,video8243.mp4
+157,1,"('basketball,', 'judges')","('', 'feature basketball')","('', 'feature performing')","('basketball', '')",negative,video9778.mp4
+158,1,"('', 'feature phone')","('phone and people', '')","('dog,', 'people')","('dog', '')",positive,video9603.mp4
+159,3,"('', 'feature interview')","('sports,', 'conversation')","('sports', '')","('conversation,', 'sports')",hybrid,video8905.mp4
+160,1,"('', 'feature edible blooms')","('', 'feature competition')","('competition,', 'cooking')","('competition', '')",negative,video7566.mp4
+161,1,"('', 'feature beatboxing')","('', 'feature playing guitar')","('playing guitar', '')","('playing guitar,', 'dancing')",negative,video7915.mp4
+162,0,"('driving,', 'skiing')","('skiing', '')","('', 'feature video game')","('skiing,', 'driving')",hybrid,video9355.mp4
+163,1,"('', 'feature bow')","('bow and arrow', '')","('gun,', 'arrow')","('gun', '')",positive,video7170.mp4
+164,0,"('animation and teaching alphabet', '')","('', 'feature animation')","('teaching math,', 'teaching alphabet')","('teaching math', '')",positive,video8799.mp4
+165,0,"('jennifer lopez and water', '')","('food', '')","('food,', 'water')","('', 'feature jennifer lopez')",positive,video7578.mp4
+166,1,"('', 'feature chair')","('warehouse,', 'pirate')","('pirate', '')","('pirate,', 'warehouse')",hybrid,video7151.mp4
+167,2,"('lunch', '')","('lunch,', 'coworkers')","('', 'feature lunch')","('', 'feature integrated circuit')",negative,video8804.mp4
+168,1,"('equality,', 'press')","('press,', 'equality')","('', 'feature interview')","('equality', '')",hybrid,video9341.mp4
+169,1,"('gardening,', 'talking')","('', 'feature gardening')","('', 'feature woman')","('gardening', '')",negative,video9575.mp4
+170,3,"('politics', '')","('politics,', 'taylor swift')","('', 'feature shoes')","('taylor swift,', 'politics')",hybrid,video8481.mp4
+171,0,"('riding,', 'cruelty')","('', 'feature horse')","('cruelty,', 'riding')","('cruelty', '')",hybrid,video7615.mp4
+172,0,"('cnn,', 'piano')","('piano,', 'cnn')","('', 'feature debate')","('piano', '')",hybrid,video8464.mp4
+173,2,"('cooking', '')","('cooking,', 'science equipment')","('science equipment,', 'cooking')","('', 'feature lab safety')",hybrid,video8257.mp4
+174,2,"('ambulance,', 'cars')","('', 'feature driving')","('driving and cars', '')","('ambulance', '')",positive,video8934.mp4
+175,1,"('singing,', 'decorating')","('crafting and decorating', '')","('singing', '')","('', 'feature crafting')",positive,video9349.mp4
+176,2,"('', 'feature food processor')","('potato', '')","('tomatoes,', 'potato')","('potato,', 'tomatoes')",hybrid,video7565.mp4
+177,2,"('cat,', 'dog')","('cat', '')","('dog,', 'cat')","('', 'feature girl')",hybrid,video7579.mp4
+178,3,"('', 'feature race car')","('bike', '')","('bike,', 'track')","('race car and track', '')",positive,video7219.mp4
+179,0,"('man and talking', '')","('woman,', 'talking')","('', 'feature man')","('woman', '')",positive,video7375.mp4
+180,3,"('toy,', 'video game')","('toy', '')","('', 'feature software')","('software and video game', '')",positive,video8111.mp4
+181,2,"('dancing,', 'singing')","('', 'feature girl')","('singing,', 'dancing')","('dancing', '')",hybrid,video9518.mp4
+182,2,"('silent', '')","('silent,', 'talking')","('', 'feature silent')","('', 'feature cooking')",negative,video7572.mp4
+183,0,"('', 'feature soccer')","('soccer,', 'playing')","('soccer', '')","('', 'feature video game')",negative,video9031.mp4
+184,2,"('playing video games,', 'students learning')","('playing video games', '')","('students learning,', 'playing video games')","('', 'feature computers')",hybrid,video8472.mp4
+185,0,"('squidward,', 'bill')","('bill', '')","('', 'feature phone')","('bill,', 'squidward')",hybrid,video7029.mp4
+186,1,"('', 'feature singing')","('singing and stage', '')","('rap,', 'stage')","('rap', '')",positive,video9202.mp4
+187,0,"('man,', 'cat')","('cat,', 'man')","('cat', '')","('', 'feature sugar glider')",hybrid,video7546.mp4
+188,3,"('happy', '')","('happy,', 'dancing')","('', 'feature skeleton')","('dancing,', 'happy')",hybrid,video7786.mp4
+189,0,"('discussing,', 'women')","('women,', 'discussing')","('women', '')","('', 'feature red car')",hybrid,video7844.mp4
+190,0,"('', 'feature fortnite')","('fortnite,', 'gameplay')","('fortnite', '')","('', 'feature minecraft')",negative,video8663.mp4
+191,2,"('swimming,', 'race')","('swimming', '')","('race,', 'swimming')","('', 'feature running')",hybrid,video7131.mp4
+192,0,"('teacher and singing', '')","('math,', 'singing')","('math', '')","('', 'feature teacher')",positive,video9777.mp4
+193,0,"('', 'feature woman')","('', 'feature kayaking')","('woman', '')","('woman,', 'man')",negative,video8457.mp4
+194,3,"('', 'feature water cooling system')","('food processor,', 'repair')","('food processor', '')","('water cooling system and repair', '')",positive,video7237.mp4
+195,3,"('', 'feature talking')","('fighting,', 'father-son')","('fighting', '')","('talking and father-son', '')",positive,video7413.mp4
+196,3,"('fortnite', '')","('', 'feature minecraft')","('fortnite,', 'gameplay')","('gameplay,', 'fortnite')",hybrid,video8578.mp4
+197,2,"('ballet', '')","('', 'feature dance')","('', 'feature ballet')","('ballet,', 'performing')",negative,video9063.mp4
+198,0,"('humor,', 'health')","('health,', 'humor')","('', 'feature bottled water')","('health', '')",hybrid,video9206.mp4
+199,2,"('singing,', 'baby monitor app')","('', 'feature phone')","('phone and baby monitor app', '')","('singing', '')",positive,video9697.mp4
+200,3,"('', 'feature driving')","('accident,', 'car')","('accident', '')","('car,', 'accident')",hybrid,video8344.mp4
+201,2,"('piano', '')","('', 'feature playing video game')","('', 'feature piano')","('piano,', 'sims')",negative,video8862.mp4
+202,3,"('sports,', 'blonde woman')","('', 'feature interview')","('sports', '')","('', 'feature sports')",negative,video9512.mp4
+203,2,"('exercise,', 'explanation')","('', 'feature heart')","('heart and explanation', '')","('exercise', '')",positive,video8666.mp4
+204,0,"('', 'feature dancing')","('dancing,', 'talking')","('dancing', '')","('', 'feature chef')",negative,video9752.mp4
+205,1,"('', 'feature car')","('car and driving', '')","('parking,', 'driving')","('parking', '')",positive,video9252.mp4
+206,2,"('sushi,', 'cooking show')","('sushi', '')","('', 'feature sushi')","('', 'feature prawn noodles soup')",negative,video9409.mp4
+207,0,"('taking a bath,', 'sunbathing')","('sunbathing,', 'taking a bath')","('', 'feature boys')","('sunbathing', '')",hybrid,video9240.mp4
+208,3,"('arguing,', 'travelling')","('', 'feature talking')","('arguing', '')","('talking and travelling', '')",positive,video8879.mp4
+209,2,"('comedy', '')","('comedy,', 'family')","('', 'feature comedy')","('', 'feature ghost')",negative,video9878.mp4
+210,3,"('', 'feature 3d animation/animated')","('happy,', 'brain')","('happy', '')","('brain,', 'happy')",hybrid,video8911.mp4
+211,0,"('spongebob and talking', '')","('music,', 'talking')","('', 'feature spongebob')","('music', '')",positive,video8673.mp4
+212,0,"('ebook and digital reading device', '')","('printed book', '')","('printed book,', 'digital reading device')","('', 'feature ebook')",positive,video7134.mp4
+213,3,"('', 'feature men')","('friendship,', 'guns')","('friendship', '')","('guns,', 'friendship')",hybrid,video8780.mp4
+214,3,"('', 'feature flowers')","('protest,', 'remembrance')","('protest', '')","('remembrance,', 'protest')",hybrid,video8906.mp4
+215,2,"('workers resting', '')","('workers resting,', 'assembly line')","('', 'feature workers resting')","('', 'feature car manufacturing')",negative,video8901.mp4
+216,1,"('', 'feature skiing')","('', 'feature video game')","('video game', '')","('video game,', 'ski resort')",negative,video7854.mp4
+217,3,"('swimming', '')","('', 'feature wrestling')","('swimming,', 'crowd')","('wrestling and crowd', '')",positive,video8262.mp4
+218,1,"('vegetables', '')","('', 'feature vegetables')","('', 'feature eating')","('vegetables,', 'children')",negative,video8480.mp4
+219,3,"('movie,', 'tv show')","('', 'feature people')","('movie', '')","('people and tv show', '')",positive,video8318.mp4
+220,2,"('silence,', 'woman talking')","('silence', '')","('movies and woman talking', '')","('', 'feature movies')",positive,video7229.mp4
+221,2,"('dancing,', 'coke')","('', 'feature singing')","('', 'feature dancing')","('dancing', '')",negative,video8014.mp4
+222,3,"('', 'feature diversity')","('hatred,', 'religion')","('hatred', '')","('diversity and religion', '')",positive,video8812.mp4
+223,3,"('creativity', '')","('', 'feature video game')","('creativity,', 'gameplay')","('', 'feature creativity')",negative,video9344.mp4
+224,3,"('fried chicken', '')","('', 'feature bowl')","('fried chicken,', 'cooking ingredients')","('bowl and cooking ingredients', '')",positive,video7165.mp4
+225,3,"('woman,', 'speaking')","('', 'feature man')","('woman', '')","('', 'feature woman')",negative,video7469.mp4
+226,3,"('light bulb,', 'repair')","('light bulb', '')","('', 'feature car')","('repair,', 'light bulb')",hybrid,video8246.mp4
+227,0,"('', 'feature car')","('car', '')","('', 'feature doll')","('car,', 'girl')",negative,video7438.mp4
+228,0,"('', 'feature basketball')","('', 'feature football video game')","('basketball', '')","('basketball,', 'man explaining new features')",negative,video7478.mp4
+229,3,"('dance', '')","('', 'feature presentation')","('dance,', 'education')","('presentation and education', '')",positive,video8269.mp4
+230,1,"('silence', '')","('dancing,', 'silence')","('', 'feature music videos')","('silence,', 'dancing')",hybrid,video9815.mp4
+231,3,"('minion', '')","('', 'feature woman')","('minion,', 'review')","('review,', 'minion')",hybrid,video8254.mp4
+232,0,"('fireworks and city', '')","('rain,', 'city')","('rain', '')","('', 'feature fireworks')",positive,video8798.mp4
+233,1,"('', 'feature older woman')","('older woman and market', '')","('vegetables,', 'market')","('vegetables', '')",positive,video9337.mp4
+234,0,"('', 'feature fishing')","('fishing,', 'playing')","('', 'feature minecraft')","('fishing', '')",negative,video7143.mp4
+235,1,"('horse race', '')","('riding,', 'horse race')","('horse race,', 'riding')","('', 'feature horseback')",hybrid,video9248.mp4
+236,0,"('', 'feature swimming')","('swimming', '')","('', 'feature dancing')","('swimming,', 'gift')",negative,video7370.mp4
+237,2,"('racing', '')","('racing,', 'sims')","('sims,', 'racing')","('', 'feature video game')",hybrid,video9200.mp4
+238,1,"('', 'feature basketball')","('', 'feature baseball')","('baseball', '')","('baseball,', 'game')",negative,video8124.mp4
+239,3,"('', 'feature woman')","('child', '')","('child,', 'man')","('woman and man', '')",positive,video8912.mp4
+240,0,"('cartoon and talking', '')","('fighting', '')","('', 'feature cartoon')","('fighting,', 'talking')",positive,video7157.mp4
+241,2,"('', 'feature boat')","('painting,', 'cartoon')","('boat and cartoon', '')","('painting', '')",positive,video7218.mp4
+242,3,"('singing', '')","('', 'feature men')","('singing,', 'climbing')","('climbing,', 'singing')",hybrid,video7155.mp4
+243,2,"('', 'feature train')","('traffic', '')","('train and traveling', '')","('traffic,', 'traveling')",positive,video9246.mp4
+244,2,"('', 'feature performance')","('music', '')","('man,', 'music')","('music,', 'man')",hybrid,video8919.mp4
+245,2,"('car,', 'racing')","('car', '')","('', 'feature car')","('', 'feature motorcycle')",negative,video9017.mp4
+246,3,"('punishment', '')","('', 'feature culture')","('punishment,', 'discussion')","('discussion,', 'punishment')",hybrid,video7116.mp4
+247,3,"('', 'feature women')","('furniture', '')","('furniture,', 'conversation')","('women and conversation', '')",positive,video8347.mp4
+248,0,"('explaining medical issue and man talking about stiff person syndrome', '')","('cat', '')","('', 'feature explaining medical issue')","('cat,', 'man talking about stiff person syndrome')",positive,video8119.mp4
+249,2,"('rock,', 'women')","('rock', '')","('', 'feature rock')","('', 'feature singing')",negative,video7411.mp4
+250,3,"('', 'feature sleeping beauty')","('action movie,', 'prince charming')","('action movie', '')","('sleeping beauty and prince charming', '')",positive,video9403.mp4
+251,1,"('', 'feature video game')","('video game and motorcycle', '')","('basketball', '')","('basketball,', 'motorcycle')",positive,video9832.mp4
+252,1,"('movie', '')","('cartoon and conversation', '')","('movie,', 'conversation')","('', 'feature cartoon')",positive,video7831.mp4
+253,2,"('sadness,', 'woman')","('sadness', '')","('woman,', 'sadness')","('', 'feature singing')",hybrid,video7528.mp4
+254,2,"('cooking', '')","('cooking,', 'food')","('', 'feature cooking')","('', 'feature serving')",negative,video9343.mp4
+255,2,"('safety,', 'lake')","('safety', '')","('', 'feature safety')","('', 'feature crocodiles')",negative,video8903.mp4
+256,3,"('', 'feature camel')","('horse', '')","('horse,', 'petting')","('petting,', 'horse')",hybrid,video7361.mp4
+257,1,"('', 'feature country')","('country and guitar', '')","('piano,', 'guitar')","('piano', '')",positive,video9330.mp4
+258,3,"('', 'feature country band')","('rap', '')","('rap,', 'concert')","('concert,', 'rap')",hybrid,video8926.mp4
+259,0,"('children and talking', '')","('crying,', 'talking')","('crying', '')","('', 'feature children')",positive,video8461.mp4
+260,1,"('baking', '')","('', 'feature baking')","('', 'feature recipe')","('baking,', 'ingredients')",negative,video9356.mp4
+261,2,"('arguing', '')","('', 'feature woman')","('singing,', 'arguing')","('arguing,', 'singing')",hybrid,video7204.mp4
+262,3,"('', 'feature band')","('electronic music', '')","('electronic music,', 'performing')","('', 'feature electronic music')",negative,video7961.mp4
+263,1,"('', 'feature eating')","('grand mother,', 'sports')","('sports', '')","('sports,', 'grand mother')",hybrid,video8345.mp4
+264,2,"('', 'feature zumba')","('yoga', '')","('', 'feature yoga')","('yoga,', 'dancing')",negative,video7202.mp4
+265,3,"('first-person shooter', '')","('', 'feature video game')","('first-person shooter,', 'playing')","('playing,', 'first-person shooter')",hybrid,video9332.mp4
+266,0,"('', 'feature action')","('action,', 'talking')","('action', '')","('', 'feature movie')",negative,video9811.mp4
+267,2,"('baking', '')","('baking,', 'potato balls')","('', 'feature baking')","('', 'feature cooking')",negative,video7826.mp4
+268,2,"('treasure', '')","('', 'feature pirate')","('', 'feature treasure')","('treasure,', 'sword')",negative,video7962.mp4
+269,1,"('board game,', 'truck')","('', 'feature board game')","('board game', '')","('', 'feature video game')",negative,video9336.mp4
+270,0,"('talking and men', '')","('friendship', '')","('friendship,', 'men')","('', 'feature talking')",positive,video8829.mp4
+271,2,"('violence', '')","('violence,', 'talking')","('talking,', 'violence')","('', 'feature news')",hybrid,video7755.mp4
+272,0,"('comedy,', 'tragedy')","('tragedy,', 'comedy')","('', 'feature tv show')","('tragedy', '')",hybrid,video8337.mp4
+273,1,"('', 'feature woman')","('', 'feature music')","('music,', 'planets')","('music', '')",negative,video7577.mp4
+274,0,"('', 'feature singing')","('singing', '')","('singing,', 'talking')","('', 'feature woman')",negative,video9011.mp4
+275,3,"('sports', '')","('', 'feature spongebob')","('sports,', 'walking')","('', 'feature sports')",negative,video7835.mp4
+276,1,"('walk', '')","('', 'feature walk')","('', 'feature cement truck')","('walk,', 'driving')",negative,video8070.mp4
+277,1,"('fighting,', 'hugging')","('talking and hugging', '')","('', 'feature talking')","('fighting', '')",positive,video8922.mp4
+278,0,"('couple and vacation', '')","('', 'feature couple')","('ziplining,', 'vacation')","('ziplining', '')",positive,video9253.mp4
+279,1,"('', 'feature singing')","('children,', 'rapping')","('rapping,', 'children')","('rapping', '')",hybrid,video8447.mp4
+280,3,"('', 'feature interview')","('violence', '')","('violence,', 'bollywood')","('bollywood,', 'violence')",hybrid,video8453.mp4
+281,0,"('ferrari and driving', '')","('', 'feature ferrari')","('music', '')","('music,', 'driving')",positive,video9535.mp4
+282,3,"('piano', '')","('', 'feature cartoon')","('piano,', 'singing')","('', 'feature piano')",negative,video7178.mp4
+283,1,"('film', '')","('', 'feature film')","('film,', 'woody allen')","('', 'feature interview')",negative,video9885.mp4
+284,2,"('', 'feature woman')","('happy', '')","('', 'feature happy')","('happy,', 'walking')",negative,video9237.mp4
+285,3,"('', 'feature talking')","('television,', 'froot loops')","('television', '')","('talking and froot loops', '')",positive,video9419.mp4
+286,3,"('fighting,', 'talking')","('fighting', '')","('', 'feature interview')","('interview and talking', '')",positive,video7349.mp4
+287,1,"('', 'feature people')","('people and talking', '')","('fighting,', 'talking')","('fighting', '')",positive,video7698.mp4
+288,0,"('', 'feature tennis')","('tennis', '')","('', 'feature basketball')","('tennis,', 'dunk')",negative,video9018.mp4
+289,0,"('minecraft and playing', '')","('', 'feature minecraft')","('war,', 'playing')","('war', '')",positive,video7792.mp4
+290,1,"('music,', 'news')","('', 'feature music')","('music', '')","('', 'feature interview')",negative,video8650.mp4
+291,2,"('', 'feature movie')","('love', '')","('movie and fighting', '')","('love,', 'fighting')",positive,video9919.mp4
+292,3,"('', 'feature tv show')","('tennis', '')","('tennis,', 'mma sports')","('tv show and mma sports', '')",positive,video8120.mp4
+293,3,"('', 'feature video game')","('fishing', '')","('fishing,', 'driving')","('', 'feature fishing')",negative,video7445.mp4
+294,3,"('', 'feature talking')","('silent', '')","('silent,', 'recording')","('talking and recording', '')",positive,video8456.mp4
+295,3,"('hotdog,', 'serving')","('', 'feature hamburger')","('hotdog', '')","('', 'feature hotdog')",negative,video9015.mp4
+296,2,"('ball,', 'cotton')","('', 'feature toy')","('', 'feature ball')","('ball', '')",negative,video8774.mp4
+297,2,"('', 'feature video games')","('talking,', 'playing')","('video games and playing', '')","('talking', '')",positive,video8116.mp4
+298,1,"('fashion,', 'subscription')","('', 'feature fashion')","('', 'feature cooking show')","('fashion', '')",negative,video8690.mp4
+299,3,"('argument,', 'collaboration')","('argument', '')","('', 'feature conversation')","('', 'feature argument')",negative,video7114.mp4
+300,0,"('', 'feature laughing')","('', 'feature running')","('laughing,', 'watching')","('laughing', '')",negative,video7444.mp4
+301,0,"('laser cutting and machine', '')","('', 'feature laser cutting')","('hammer', '')","('hammer,', 'machine')",positive,video9428.mp4
+302,3,"('woman', '')","('', 'feature phrenology')","('woman,', 'man')","('', 'feature woman')",negative,video9825.mp4
+303,0,"('', 'feature karate')","('karate', '')","('karate,', 'singing')","('', 'feature performing')",negative,video7156.mp4
+304,3,"('waterfalls', '')","('waterfalls,', 'flowers')","('', 'feature mountains')","('mountains and flowers', '')",positive,video7914.mp4
+305,1,"('fighting', '')","('cooking,', 'fighting')","('fighting,', 'cooking')","('', 'feature animation')",hybrid,video9537.mp4
+306,3,"('boxing,', 'competition')","('', 'feature wrestling')","('boxing', '')","('', 'feature boxing')",negative,video7153.mp4
+307,2,"('', 'feature singing')","('rap', '')","('kids,', 'rap')","('rap,', 'kids')",hybrid,video9303.mp4
+308,2,"('bike', '')","('bike,', 'classic car')","('classic car,', 'bike')","('', 'feature man')",hybrid,video9325.mp4
+309,0,"('discussion,', 'denial')","('', 'feature interview')","('denial', '')","('denial,', 'discussion')",hybrid,video8822.mp4
+310,0,"('guns,', 'baking')","('baking', '')","('', 'feature men')","('baking,', 'guns')",hybrid,video9235.mp4
+311,3,"('flowers', '')","('flowers,', 'woman')","('', 'feature gta')","('gta and woman', '')",positive,video7502.mp4
+312,3,"('', 'feature car')","('bus', '')","('bus,', 'driving')","('driving,', 'bus')",hybrid,video7138.mp4
+313,0,"('', 'feature good news')","('good news,', 'reporter')","('good news', '')","('', 'feature news')",negative,video9819.mp4
+314,1,"('', 'feature growth in cities')","('growth in cities and cities', '')","('decline in cities,', 'cities')","('decline in cities', '')",positive,video7890.mp4
+315,3,"('woman,', 'man')","('woman', '')","('', 'feature motorcycle')","('man,', 'woman')",hybrid,video8657.mp4
+316,3,"('', 'feature cartoon character')","('kindness', '')","('kindness,', 'falls')","('cartoon character and falls', '')",positive,video8486.mp4
+317,0,"('', 'feature piano')","('piano,', 'dance')","('', 'feature girl/woman')","('piano', '')",negative,video7836.mp4
+318,2,"('scuba diving', '')","('', 'feature cartoon')","('', 'feature scuba diving')","('scuba diving,', 'teaching')",negative,video8827.mp4
+319,1,"('', 'feature singing')","('singing and stage', '')","('dancing', '')","('dancing,', 'stage')",positive,video9304.mp4
+320,1,"('', 'feature horse')","('standing,', 'dog')","('dog,', 'standing')","('dog', '')",hybrid,video9839.mp4
+321,0,"('', 'feature real life')","('real life,', 'game play')","('', 'feature video game')","('real life', '')",negative,video8929.mp4
+322,2,"('', 'feature photoshop')","('drawing,', 'editing')","('', 'feature drawing')","('drawing', '')",negative,video9346.mp4
+323,3,"('father', '')","('father,', 'mother')","('', 'feature girl')","('mother,', 'father')",hybrid,video7782.mp4
+324,1,"('cooking,', 'talking')","('', 'feature cooking')","('cooking', '')","('', 'feature woman')",negative,video8471.mp4
+325,3,"('playing,', 'talking')","('', 'feature father')","('playing', '')","('father and talking', '')",positive,video9320.mp4
+326,1,"('', 'feature cooking')","('', 'feature boiling')","('boiling', '')","('boiling,', 'adding sauce')",negative,video9639.mp4
+327,0,"('', 'feature fish')","('', 'feature penguins')","('fish', '')","('fish,', 'following')",negative,video9321.mp4
+328,2,"('', 'feature man')","('cycling,', 'walking')","('', 'feature cycling')","('cycling', '')",negative,video9871.mp4
+329,0,"('classroom and teachers', '')","('playing,', 'teachers')","('', 'feature classroom')","('playing', '')",positive,video7843.mp4
+330,2,"('', 'feature toys')","('aggressive', '')","('talking,', 'aggressive')","('aggressive,', 'talking')",hybrid,video7034.mp4
+331,0,"('kuru disease and explaining', '')","('vaccination', '')","('', 'feature kuru disease')","('vaccination,', 'explaining')",positive,video9728.mp4
+332,0,"('hillary clinton and news', '')","('donald trump,', 'news')","('', 'feature hillary clinton')","('donald trump', '')",positive,video8927.mp4
+333,1,"('eating,', 'texting')","('movie and texting', '')","('', 'feature movie')","('eating', '')",positive,video7118.mp4
+334,2,"('', 'feature minecraft')","('angry birds,', 'playing')","('playing,', 'angry birds')","('angry birds', '')",hybrid,video8787.mp4
+335,3,"('cooking,', 'jumping')","('cooking', '')","('', 'feature martial arts')","('jumping,', 'cooking')",hybrid,video8012.mp4
+336,1,"('swimming', '')","('', 'feature swimming')","('', 'feature toy')","('swimming,', 'bathing')",negative,video7024.mp4
+337,0,"('writing,', 'reading')","('reading', '')","('reading,', 'writing')","('', 'feature teaching')",hybrid,video8331.mp4
+338,1,"('', 'feature beat boxing')","('beat boxing and dancing', '')","('video game,', 'dancing')","('video game', '')",positive,video7177.mp4
+339,1,"('fast driving,', 'cartoon')","('mickey mouse and cartoon', '')","('', 'feature mickey mouse')","('fast driving', '')",positive,video9826.mp4
+340,3,"('', 'feature woman')","('fighting,', 'talking')","('fighting', '')","('woman and talking', '')",positive,video8783.mp4
+341,1,"('peaceful', '')","('minecraft and animated', '')","('peaceful,', 'animated')","('', 'feature minecraft')",positive,video7574.mp4
+342,2,"('fighting', '')","('', 'feature soldier')","('talking,', 'fighting')","('fighting,', 'talking')",hybrid,video8805.mp4
+343,1,"('sports,', 'man in red and blue jumpsuit')","('animated video game and man in red and blue jumpsuit', '')","('', 'feature animated video game')","('sports', '')",positive,video7741.mp4
+344,1,"('fighting,', 'watching')","('', 'feature fighting')","('', 'feature movie')","('fighting', '')",negative,video7346.mp4
+345,2,"('salad', '')","('', 'feature cooking')","('cooking and pancake', '')","('salad,', 'pancake')",positive,video7591.mp4
+346,2,"('', 'feature golf')","('tennis', '')","('', 'feature tennis')","('tennis,', 'ball')",negative,video7771.mp4
+347,3,"('', 'feature car')","('boat,', 'driving')","('boat', '')","('', 'feature boat')",negative,video8263.mp4
+348,1,"('women', '')","('talking,', 'women')","('women,', 'talking')","('', 'feature movie')",hybrid,video9545.mp4
+349,0,"('playing,', 'piano')","('', 'feature guitar')","('piano', '')","('piano,', 'playing')",hybrid,video7227.mp4
+350,3,"('animation,', 'drawing')","('', 'feature cartoon')","('animation', '')","('cartoon and drawing', '')",positive,video9242.mp4
+351,0,"('kickball and men', '')","('', 'feature kickball')","('soccer,', 'men')","('soccer', '')",positive,video9534.mp4
+352,1,"('', 'feature pokemon video game')","('pikachu,', 'real life')","('real life,', 'pikachu')","('real life', '')",hybrid,video9510.mp4
+353,3,"('', 'feature disney')","('singing', '')","('singing,', 'cartoon')","('cartoon,', 'singing')",hybrid,video7747.mp4
+354,0,"('beach,', 'winter')","('', 'feature bikini')","('winter,', 'beach')","('winter', '')",hybrid,video8999.mp4
+355,1,"('dog', '')","('', 'feature dog')","('', 'feature woman')","('dog,', 'bird')",negative,video7849.mp4
+356,1,"('', 'feature arts and crafts')","('arts and crafts and leaves', '')","('surfing', '')","('surfing,', 'leaves')",positive,video8784.mp4
+357,0,"('video game and playing', '')","('', 'feature video game')","('board game', '')","('board game,', 'playing')",positive,video8256.mp4
+358,0,"('men,', 'swimming')","('', 'feature wrestling')","('swimming', '')","('swimming,', 'men')",hybrid,video8823.mp4
+359,0,"('goal,', 'tennis')","('', 'feature soccer')","('tennis,', 'goal')","('tennis', '')",hybrid,video7378.mp4
+360,0,"('man walking and buildings', '')","('party', '')","('party,', 'buildings')","('', 'feature man walking')",positive,video7632.mp4
+361,3,"('', 'feature soccer')","('injury', '')","('injury,', 'award')","('soccer and award', '')",positive,video7200.mp4
+362,3,"('bike,', 'car')","('', 'feature man')","('bike', '')","('car,', 'bike')",hybrid,video7567.mp4
+363,0,"('singing and recording studio', '')","('', 'feature singing')","('rap', '')","('rap,', 'recording studio')",positive,video7598.mp4
+364,1,"('pedestrian safety', '')","('crossing the street,', 'pedestrian safety')","('pedestrian safety,', 'crossing the street')","('', 'feature dogs')",hybrid,video9622.mp4
+365,3,"('fighting', '')","('', 'feature turtles')","('fighting,', 'swimming')","('turtles and swimming', '')",positive,video7594.mp4
+366,2,"('cat,', 'shopping')","('cat', '')","('bald man and shopping', '')","('', 'feature bald man')",positive,video8260.mp4
+367,1,"('happiness,', 'talking')","('', 'feature happiness')","('happiness', '')","('', 'feature dr phil')",negative,video8824.mp4
+368,3,"('happy,', 'looking')","('happy', '')","('', 'feature window')","('looking,', 'happy')",hybrid,video8902.mp4
+369,2,"('basketball,', 'game')","('basketball', '')","('', 'feature basketball')","('', 'feature baseball')",negative,video7556.mp4
+370,1,"('', 'feature car')","('', 'feature motorcycle')","('motorcycle,', 'review')","('motorcycle', '')",negative,video7026.mp4
+371,2,"('', 'feature jobs')","('war', '')","('', 'feature war')","('war,', 'news')",negative,video7834.mp4
+372,0,"('makeup,', 'nailpolish')","('', 'feature lipgloss')","('nailpolish', '')","('nailpolish,', 'makeup')",hybrid,video9822.mp4
+373,2,"('', 'feature walking')","('running', '')","('', 'feature running')","('running,', 'dog')",negative,video7212.mp4
+374,1,"('bike,', 'car')","('car,', 'bike')","('bike', '')","('', 'feature driving')",hybrid,video9691.mp4
+375,2,"('guitar', '')","('guitar,', 'man')","('man,', 'guitar')","('', 'feature singing')",hybrid,video9351.mp4
+376,1,"('baked,', 'prawns')","('prawns,', 'baked')","('baked', '')","('', 'feature frying')",hybrid,video9335.mp4
+377,3,"('love,', 'racism')","('love', '')","('', 'feature gun violence')","('racism,', 'love')",hybrid,video9829.mp4
+378,0,"('', 'feature technology')","('technology', '')","('technology,', 'stem education')","('', 'feature man')",negative,video8830.mp4
+379,3,"('singing,', 'cash register')","('', 'feature cartoon')","('singing', '')","('', 'feature singing')",negative,video9300.mp4
+380,3,"('argument', '')","('', 'feature couple')","('argument,', 'gift')","('', 'feature argument')",negative,video9682.mp4
+381,1,"('arguing', '')","('conversation and cat', '')","('arguing,', 'cat')","('', 'feature conversation')",positive,video9969.mp4
+382,1,"('', 'feature video game')","('', 'feature boxing')","('boxing,', 'wrestling')","('boxing', '')",negative,video8310.mp4
+383,2,"('shark', '')","('shark,', 'fish tank')","('', 'feature shark')","('', 'feature fish')",negative,video7061.mp4
+384,0,"('interview and audience', '')","('swimming,', 'audience')","('', 'feature interview')","('swimming', '')",positive,video8932.mp4
+385,0,"('beach,', 'clothes')","('clothes', '')","('clothes,', 'beach')","('', 'feature woman')",hybrid,video8678.mp4
+386,1,"('basketball,', 'beach')","('', 'feature basketball')","('basketball', '')","('', 'feature couple')",negative,video9016.mp4
+387,3,"('', 'feature eating')","('swimming,', 'sushi')","('swimming', '')","('eating and sushi', '')",positive,video7559.mp4
+388,0,"('', 'feature rock music')","('', 'feature singing')","('rock music', '')","('rock music,', 'country music')",negative,video9589.mp4
+389,0,"('', 'feature love')","('', 'feature hindi')","('love', '')","('love,', 'village')",negative,video7974.mp4
+390,1,"('exterior,', 'interior')","('interior,', 'exterior')","('exterior', '')","('', 'feature car')",hybrid,video7354.mp4
+391,1,"('argue', '')","('', 'feature argue')","('', 'feature spongebob')","('argue,', 'dance')",negative,video8916.mp4
+392,2,"('snow,', 'mountain')","('snow', '')","('', 'feature snow')","('', 'feature ski lift')",negative,video7174.mp4
+393,2,"('dance,', 'performance')","('', 'feature singing')","('singing and performance', '')","('dance', '')",positive,video7569.mp4
+394,1,"('men,', 'models')","('models,', 'men')","('', 'feature fashion show')","('men', '')",hybrid,video8342.mp4
+395,3,"('funeral home', '')","('', 'feature washing hands')","('funeral home,', 'discussing job')","('discussing job,', 'funeral home')",hybrid,video7169.mp4
+396,0,"('', 'feature movie')","('', 'feature music')","('movie', '')","('movie,', 'band')",negative,video9793.mp4
+397,2,"('', 'feature professional video advertisement')","('blog', '')","('professional video advertisement and social media icons', '')","('blog,', 'social media icons')",positive,video8618.mp4
+398,2,"('ball', '')","('ball,', 'dog')","('', 'feature ball')","('', 'feature man')",negative,video9232.mp4
+399,2,"('board game', '')","('', 'feature video game')","('video game and playing', '')","('board game,', 'playing')",positive,video9820.mp4
+400,2,"('', 'feature swimming')","('woman,', 'man')","('swimming and man', '')","('woman', '')",positive,video9830.mp4
+401,3,"('woman,', 'man')","('', 'feature cooking')","('woman', '')","('', 'feature woman')",negative,video8325.mp4
+402,3,"('', 'feature sports')","('politics,', 'highlights')","('politics', '')","('sports and highlights', '')",positive,video8013.mp4
+403,3,"('peace,', 'battle')","('peace', '')","('', 'feature soldiers')","('', 'feature peace')",negative,video8938.mp4
+404,1,"('diving', '')","('', 'feature diving')","('diving,', 'swimming')","('', 'feature pool')",negative,video7797.mp4
+405,1,"('', 'feature video game')","('video game and playing', '')","('basketball,', 'playing')","('basketball', '')",positive,video7207.mp4
+406,3,"('sneaking,', 'singing')","('', 'feature kids')","('sneaking', '')","('singing,', 'sneaking')",hybrid,video9326.mp4
+407,3,"('music,', 'men')","('', 'feature woman')","('music', '')","('men,', 'music')",hybrid,video8304.mp4
+408,3,"('violence,', 'group')","('violence', '')","('', 'feature walking')","('', 'feature violence')",negative,video9521.mp4
+409,3,"('', 'feature food')","('meat,', 'bowl')","('meat', '')","('', 'feature meat')",negative,video7898.mp4
+410,0,"('father-child relationship,', 'swimming')","('swimming', '')","('swimming,', 'father-child relationship')","('', 'feature boxing')",hybrid,video7359.mp4
+411,1,"('dance,', 'stage')","('music and stage', '')","('dance', '')","('', 'feature music')",positive,video7558.mp4
+412,3,"('dance', '')","('dance,', 'robin williams')","('', 'feature stand-up')","('robin williams,', 'dance')",hybrid,video9522.mp4
+413,2,"('jennifer lopez,', 'discussing')","('', 'feature will smith movies')","('', 'feature jennifer lopez')","('jennifer lopez', '')",negative,video7501.mp4
+414,3,"('nighttime', '')","('', 'feature children playing')","('nighttime,', 'mother')","('', 'feature nighttime')",negative,video8863.mp4
+415,3,"('', 'feature dancing')","('singing', '')","('singing,', 'woman')","('woman,', 'singing')",hybrid,video7573.mp4
+416,1,"('', 'feature arts and crafts')","('hair accessory,', 'knitting')","('knitting', '')","('knitting,', 'hair accessory')",hybrid,video8620.mp4
+417,3,"('', 'feature haircut')","('woman', '')","('woman,', 'barber')","('haircut and barber', '')",positive,video8918.mp4
+418,0,"('', 'feature cake')","('cake,', 'greens')","('cake', '')","('', 'feature cooking')",negative,video7845.mp4
+419,3,"('woman,', 'speaking')","('woman', '')","('', 'feature man')","('man and speaking', '')",positive,video9690.mp4
+420,3,"('another game', '')","('another game,', 'playing video game')","('', 'feature minecraft')","('playing video game,', 'another game')",hybrid,video8077.mp4
+421,0,"('makeup and woman', '')","('', 'feature makeup')","('man', '')","('man,', 'woman')",positive,video9509.mp4
+422,2,"('', 'feature nail art')","('feet,', 'easter themes')","('easter themes,', 'feet')","('feet', '')",hybrid,video9220.mp4
+423,0,"('web series and music', '')","('romance', '')","('', 'feature web series')","('romance,', 'music')",positive,video8683.mp4
+424,2,"('', 'feature soldier')","('peace', '')","('soldier and snow', '')","('peace,', 'snow')",positive,video9255.mp4
+425,3,"('', 'feature sports')","('baseball', '')","('baseball,', 'vine videos')","('sports and vine videos', '')",positive,video7789.mp4
+426,2,"('landline telephone', '')","('landline telephone,', 'mobile payment')","('wireless charging and mobile payment', '')","('', 'feature wireless charging')",positive,video9257.mp4
+427,3,"('swimming', '')","('swimming,', 'match')","('', 'feature tennis')","('match,', 'swimming')",hybrid,video7357.mp4
+428,1,"('cat', '')","('', 'feature cat')","('', 'feature dog')","('cat,', 'lying')",negative,video8866.mp4
+429,1,"('dancing,', 'military')","('military,', 'dancing')","('dancing', '')","('', 'feature computer')",hybrid,video8499.mp4
+430,3,"('skiing', '')","('skiing,', 'acting')","('', 'feature man')","('', 'feature skiing')",negative,video8321.mp4
+431,2,"('', 'feature snake')","('fear,', 'handling')","('snake and handling', '')","('fear', '')",positive,video8572.mp4
+432,1,"('', 'feature kitchen')","('', 'feature dessert')","('dessert,', 'cooking')","('dessert', '')",negative,video9625.mp4
+433,3,"('', 'feature helicopter')","('falling,', 'flying')","('falling', '')","('flying,', 'falling')",hybrid,video9014.mp4
+434,1,"('', 'feature bikini')","('beach,', 'car')","('car', '')","('car,', 'beach')",hybrid,video8928.mp4
+435,0,"('explaining,', 'dancing')","('dancing,', 'explaining')","('', 'feature laptop')","('dancing', '')",hybrid,video7347.mp4
+436,3,"('', 'feature driving')","('rain,', 'road')","('rain', '')","('driving and road', '')",positive,video9511.mp4
+437,3,"('sports', '')","('', 'feature interview')","('sports,', 'conversation')","('conversation,', 'sports')",hybrid,video8826.mp4
+438,3,"('nice', '')","('', 'feature singing')","('nice,', 'lady gaga')","('', 'feature nice')",negative,video9827.mp4
+439,3,"('fighting,', 'man giving')","('fighting', '')","('', 'feature helping')","('helping and man giving', '')",positive,video8326.mp4
+440,1,"('peace', '')","('', 'feature peace')","('peace,', 'avengers')","('', 'feature fighting')",negative,video8266.mp4
+441,1,"('car,', 'demo')","('', 'feature car')","('car', '')","('', 'feature stroller')",negative,video8258.mp4
+442,2,"('male characters', '')","('', 'feature cartoon')","('cartoon and female characters', '')","('male characters,', 'female characters')",positive,video7179.mp4
+443,0,"('', 'feature basketball')","('', 'feature soccer')","('basketball,', 'scoring')","('basketball', '')",negative,video8675.mp4
+444,1,"('', 'feature dancing')","('jumping,', 'swimming')","('swimming,', 'jumping')","('swimming', '')",hybrid,video8507.mp4
+445,2,"('poetry', '')","('poetry,', 'obama')","('obama,', 'poetry')","('', 'feature speech')",hybrid,video9233.mp4
+446,3,"('vegetarian,', 'chef')","('vegetarian', '')","('', 'feature crab dish')","('chef,', 'vegetarian')",hybrid,video9687.mp4
+447,1,"('', 'feature guitar')","('guitar and performance', '')","('piano,', 'performance')","('piano', '')",positive,video9872.mp4
+448,0,"('', 'feature comedy')","('comedy,', 'woman')","('', 'feature movie trailer')","('comedy', '')",negative,video7149.mp4
+449,1,"('quarreling,', 'playing')","('father/son and playing', '')","('quarreling', '')","('', 'feature father/son')",positive,video8681.mp4
+450,1,"('running', '')","('', 'feature running')","('', 'feature robot')","('running,', 'minecraft')",negative,video9221.mp4
+451,0,"('potatoes and preparing food', '')","('frying,', 'preparing food')","('frying', '')","('', 'feature potatoes')",positive,video9227.mp4
+452,3,"('anger,', 'global communication')","('anger', '')","('', 'feature ted talk')","('', 'feature anger')",negative,video9821.mp4
+453,2,"('gravity,', 'floating')","('', 'feature space')","('space and floating', '')","('gravity', '')",positive,video8674.mp4
+454,3,"('piano', '')","('', 'feature singing')","('piano,', 'guitar')","('', 'feature piano')",negative,video8861.mp4
+455,2,"('', 'feature bow and arrow')","('darts,', 'toy')","('', 'feature darts')","('darts', '')",negative,video9209.mp4
+456,0,"('white,', 'fish')","('', 'feature bird')","('fish', '')","('fish,', 'white')",hybrid,video7113.mp4
+457,3,"('dangerous,', 'cage')","('dangerous', '')","('', 'feature hamster')","('', 'feature dangerous')",negative,video7342.mp4
+458,1,"('man', '')","('woman,', 'man')","('', 'feature cooking')","('man,', 'woman')",hybrid,video9836.mp4
+459,2,"('bridge', '')","('', 'feature staircase')","('waterfall,', 'bridge')","('bridge,', 'waterfall')",hybrid,video7837.mp4
+460,0,"('', 'feature fortnite')","('fortnite,', 'playing')","('fortnite', '')","('', 'feature minecraft')",negative,video7353.mp4
+461,0,"('man and phone', '')","('computer,', 'phone')","('', 'feature man')","('computer', '')",positive,video8671.mp4
+462,0,"('consoling,', 'laughing')","('', 'feature talking')","('laughing,', 'consoling')","('laughing', '')",hybrid,video9340.mp4
+463,3,"('reading,', 'mixing')","('', 'feature cooking')","('reading', '')","('', 'feature reading')",negative,video8483.mp4
+464,3,"('eyeliner', '')","('', 'feature eyeshadow')","('eyeliner,', 'makeup')","('makeup,', 'eyeliner')",hybrid,video9818.mp4
+465,2,"('cat,', 'people')","('', 'feature dog')","('dog and people', '')","('cat', '')",positive,video7201.mp4
+466,2,"('exciting', '')","('', 'feature interview')","('interview and airline industry', '')","('exciting,', 'airline industry')",positive,video7234.mp4
+467,2,"('', 'feature avengers')","('peaceful', '')","('', 'feature peaceful')","('peaceful,', 'fighting')",negative,video8122.mp4
+468,2,"('fighting', '')","('fighting,', 'beach')","('beach,', 'fighting')","('', 'feature singing')",hybrid,video8895.mp4
+469,1,"('news,', 'trailer')","('', 'feature news')","('', 'feature movie')","('news', '')",negative,video8475.mp4
+470,0,"('crowd and man&woman', '')","('police', '')","('', 'feature crowd')","('police,', 'man&woman')",positive,video7548.mp4
+471,0,"('stroller,', 'bicycle')","('bicycle,', 'stroller')","('', 'feature baby')","('bicycle', '')",hybrid,video7230.mp4
+472,0,"('cartoon,', 'silence')","('', 'feature conversation')","('silence', '')","('silence,', 'cartoon')",hybrid,video8268.mp4
+473,1,"('cartoon,', 'help')","('help,', 'cartoon')","('', 'feature birth')","('cartoon', '')",hybrid,video9686.mp4
+474,1,"('living,', 'building')","('carrying on stretcher and building', '')","('', 'feature carrying on stretcher')","('living', '')",positive,video7466.mp4
+475,1,"('violence', '')","('boy and girl', '')","('violence,', 'girl')","('', 'feature boy')",positive,video7163.mp4
+476,3,"('woman', '')","('', 'feature stroller')","('woman,', 'man')","('', 'feature woman')",negative,video9696.mp4
+477,0,"('', 'feature english')","('', 'feature youtube channel')","('english,', 'man and woman kissing')","('english', '')",negative,video8485.mp4
+478,3,"('sushi', '')","('sushi,', 'chicken')","('', 'feature korea')","('korea and chicken', '')",positive,video8302.mp4
+479,0,"('child and singing', '')","('rap', '')","('', 'feature child')","('rap,', 'singing')",positive,video8818.mp4
+480,0,"('flooring and carpentry', '')","('painting,', 'carpentry')","('painting', '')","('', 'feature flooring')",positive,video7588.mp4
+481,2,"('', 'feature hugging')","('fighting', '')","('', 'feature fighting')","('fighting,', 'excited')",negative,video8920.mp4
+482,0,"('', 'feature cooking')","('cooking', '')","('', 'feature animation')","('cooking,', 'date')",negative,video7222.mp4
+483,1,"('live-action', '')","('', 'feature live-action')","('live-action,', 'radio')","('', 'feature earth')",negative,video9680.mp4
+484,1,"('', 'feature dancing')","('', 'feature hiking')","('hiking', '')","('hiking,', 'outdoor')",negative,video8556.mp4
+485,2,"('drums,', 'rock music')","('drums', '')","('rock music,', 'drums')","('', 'feature guitar')",hybrid,video7228.mp4
+486,3,"('', 'feature badminton')","('cheating,', 'doubles')","('cheating', '')","('', 'feature cheating')",negative,video7978.mp4
+487,3,"('performance', '')","('performance,', 'runway')","('', 'feature fashion show')","('fashion show and runway', '')",positive,video7783.mp4
+488,2,"('', 'feature stonehenge')","('nocturnal', '')","('winter solstice,', 'nocturnal')","('nocturnal,', 'winter solstice')",hybrid,video8463.mp4
+489,2,"('woman,', 'military')","('woman', '')","('military,', 'woman')","('', 'feature communication')",hybrid,video9450.mp4
+490,2,"('', 'feature clock')","('timer', '')","('hands,', 'timer')","('timer,', 'hands')",hybrid,video7223.mp4
+491,2,"('crying', '')","('', 'feature baby')","('cat,', 'crying')","('crying,', 'cat')",hybrid,video8478.mp4
+492,2,"('', 'feature conversation')","('man', '')","('woman,', 'man')","('man,', 'woman')",hybrid,video9824.mp4
+493,0,"('swimming,', 'fishing')","('fishing', '')","('', 'feature waterfall')","('fishing,', 'swimming')",hybrid,video7152.mp4
+494,3,"('', 'feature avengers')","('fighting,', 'commentary')","('fighting', '')","('avengers and commentary', '')",positive,video8752.mp4
+495,2,"('racing,', 'fighting')","('racing', '')","('', 'feature racing')","('', 'feature video game')",negative,video9224.mp4
+496,2,"('warning,', 'interview')","('warning', '')","('', 'feature warning')","('', 'feature woman')",negative,video7947.mp4
+497,2,"('woman', '')","('woman,', 'cake')","('man and cake', '')","('', 'feature man')",positive,video7137.mp4
+498,2,"('', 'feature animated')","('happy,', 'door')","('', 'feature happy')","('happy', '')",negative,video8076.mp4
+499,3,"('women,', 'movies')","('women', '')","('', 'feature men')","('movies,', 'women')",hybrid,video8828.mp4
+500,2,"('rock,', 'singing')","('rock', '')","('', 'feature rock')","('', 'feature choir')",negative,video7772.mp4
+501,1,"('baseball,', 'diving')","('', 'feature baseball')","('baseball', '')","('', 'feature basketball')",negative,video8652.mp4
+502,0,"('competition,', 'judo')","('', 'feature wrestling')","('judo,', 'competition')","('judo', '')",hybrid,video8309.mp4
+503,0,"('choir,', 'orchestra')","('', 'feature music')","('orchestra,', 'choir')","('orchestra', '')",hybrid,video8474.mp4
+504,1,"('baking,', 'ingredients')","('ingredients,', 'baking')","('baking', '')","('', 'feature cooking')",hybrid,video7360.mp4
+505,2,"('', 'feature lip gloss')","('swimming', '')","('makeup,', 'swimming')","('swimming,', 'makeup')",hybrid,video7372.mp4
+506,1,"('interviewer,', 'woman')","('', 'feature interviewer')","('interviewer', '')","('', 'feature interview')",negative,video8068.mp4
+507,2,"('mma', '')","('', 'feature boxing')","('', 'feature mma')","('mma,', 'chris eubank')",negative,video7211.mp4
+508,0,"('performance and guitar', '')","('losing,', 'guitar')","('', 'feature performance')","('losing', '')",positive,video9222.mp4
+509,3,"('dog,', 'benefits')","('dog', '')","('', 'feature wood')","('benefits,', 'dog')",hybrid,video8667.mp4
+510,1,"('', 'feature mug')","('mug and coffee', '')","('tea', '')","('tea,', 'coffee')",positive,video8343.mp4
+511,3,"('silence,', 'talking')","('', 'feature eating')","('silence', '')","('talking,', 'silence')",hybrid,video9539.mp4
+512,2,"('cupcakes,', 'dolls')","('', 'feature mermaid')","('mermaid and dolls', '')","('cupcakes', '')",positive,video8677.mp4
+513,2,"('baby,', 'woman')","('', 'feature baby stroller')","('woman,', 'baby')","('baby', '')",hybrid,video9755.mp4
+514,1,"('cooking', '')","('', 'feature cooking')","('', 'feature repair')","('cooking,', 'electronic device')",negative,video8924.mp4
+515,0,"('video,', 'ambulance')","('ambulance,', 'video')","('ambulance', '')","('', 'feature pokemon')",hybrid,video9695.mp4
+516,3,"('garden', '')","('', 'feature rainforest')","('garden,', 'climate change')","('', 'feature garden')",negative,video9418.mp4
+517,0,"('', 'feature dessert')","('dessert', '')","('', 'feature talking about food')","('dessert,', 'local food')",negative,video7415.mp4
+518,0,"('family and dinner', '')","('conflict,', 'dinner')","('conflict', '')","('', 'feature family')",positive,video8048.mp4
+519,2,"('', 'feature cake')","('dinner,', 'woman')","('cake and woman', '')","('dinner', '')",positive,video8900.mp4
+520,1,"('silent,', 'man')","('', 'feature silent')","('', 'feature talk')","('silent', '')",negative,video9352.mp4
+521,1,"('painting,', 'disney')","('', 'feature painting')","('painting', '')","('', 'feature divided screens')",negative,video7467.mp4
+522,1,"('keyboard,', 'motherboard')","('', 'feature keyboard')","('keyboard', '')","('', 'feature computer parts')",negative,video9679.mp4
+523,3,"('happiness', '')","('happiness,', 'music')","('', 'feature cartoon')","('', 'feature happiness')",negative,video9790.mp4
+524,2,"('electric', '')","('', 'feature car')","('', 'feature electric')","('electric,', 'showroom')",negative,video7115.mp4
+525,3,"('', 'feature home improvement')","('gardening', '')","('gardening,', 'roof')","('roof,', 'gardening')",hybrid,video8803.mp4
+526,3,"('', 'feature game of thrones')","('violence,', 'clip')","('violence', '')","('clip,', 'violence')",hybrid,video7964.mp4
+527,1,"('music concert', '')","('comedian,', 'music concert')","('music concert,', 'comedian')","('', 'feature interview')",hybrid,video9245.mp4
+528,2,"('', 'feature woman')","('lipstick,', 'purple eyeshadow')","('woman and purple eyeshadow', '')","('lipstick', '')",positive,video9207.mp4
+529,2,"('truck,', 'driving')","('truck', '')","('car and driving', '')","('', 'feature car')",positive,video7209.mp4
+530,3,"('conversation', '')","('', 'feature helicopter')","('conversation,', 'mountain')","('mountain,', 'conversation')",hybrid,video8450.mp4
+531,0,"('', 'feature rules')","('rules', '')","('', 'feature jumping')","('rules,', 'kids')",negative,video7599.mp4
+532,1,"('car,', 'demonstration')","('demonstration,', 'car')","('car', '')","('', 'feature baby stroller')",hybrid,video7217.mp4
+533,0,"('marinating and chicken', '')","('vegetables', '')","('vegetables,', 'chicken')","('', 'feature marinating')",positive,video8444.mp4
+534,3,"('rain,', 'kids')","('rain', '')","('', 'feature fire truck')","('fire truck and kids', '')",positive,video9036.mp4
+535,0,"('', 'feature weaning')","('weaning,', 'baby animal')","('', 'feature bottle feeding')","('weaning', '')",negative,video8672.mp4
+536,0,"('liquids,', 'cooking')","('', 'feature experiment')","('cooking', '')","('cooking,', 'liquids')",hybrid,video9699.mp4
+537,0,"('woman and talking', '')","('', 'feature woman')","('negative opinion', '')","('negative opinion,', 'talking')",positive,video9698.mp4
+538,3,"('', 'feature celebration')","('fireworks', '')","('fireworks,', 'crane')","('celebration and crane', '')",positive,video8441.mp4
+539,0,"('fairy godmother and crying', '')","('happy', '')","('', 'feature fairy godmother')","('happy,', 'crying')",positive,video8110.mp4
+540,0,"('car and driving', '')","('', 'feature car')","('car accident', '')","('car accident,', 'driving')",positive,video9677.mp4
+541,0,"('', 'feature misbehaving')","('misbehaving', '')","('', 'feature teaching')","('misbehaving,', 'learning')",negative,video7680.mp4
+542,1,"('cooking', '')","('talking and beauty tips', '')","('cooking,', 'beauty tips')","('', 'feature talking')",positive,video7216.mp4
+543,3,"('', 'feature couple')","('arguing,', 'talking')","('arguing', '')","('', 'feature arguing')",negative,video8330.mp4
+544,0,"('', 'feature riding')","('riding,', 'feeding')","('', 'feature donkey')","('riding', '')",negative,video8242.mp4
+545,0,"('', 'feature napster')","('napster', '')","('', 'feature itunes')","('napster,', 'demonstrating')",negative,video7166.mp4
+546,1,"('', 'feature woman')","('', 'feature man')","('man', '')","('man,', 'hole in the wall')",negative,video8392.mp4
+547,2,"('fighting', '')","('fighting,', 'getting ready')","('', 'feature fighting')","('', 'feature talking')",negative,video8340.mp4
+548,0,"('music and lyrics', '')","('peace,', 'lyrics')","('peace', '')","('', 'feature music')",positive,video8490.mp4
+549,0,"('fashion show and runway', '')","('', 'feature fashion show')","('men', '')","('men,', 'runway')",positive,video8923.mp4
+550,0,"('', 'feature man')","('', 'feature restaurant')","('man', '')","('man,', 'woman')",negative,video8074.mp4
+551,2,"('baking,', 'ingredients')","('', 'feature cooking')","('cooking and ingredients', '')","('baking', '')",positive,video9693.mp4
+552,3,"('', 'feature football')","('basketball', '')","('basketball,', 'throwing')","('football and throwing', '')",positive,video7168.mp4
+553,3,"('', 'feature couple')","('war,', 'kissing')","('war', '')","('', 'feature war')",negative,video7373.mp4
+554,1,"('cats', '')","('', 'feature cats')","('', 'feature dogs')","('cats,', 'sliding')",negative,video7146.mp4
+555,3,"('countryside', '')","('countryside,', 'city')","('', 'feature aerial view')","('aerial view and city', '')",positive,video8477.mp4
+556,1,"('friendship,', 'attack')","('attack,', 'friendship')","('', 'feature video game')","('friendship', '')",hybrid,video9400.mp4
+557,3,"('singing,', 'speaking')","('singing', '')","('', 'feature man')","('speaking,', 'singing')",hybrid,video7828.mp4
+558,2,"('good deed', '')","('', 'feature news')","('', 'feature good deed')","('good deed,', 'newtown')",negative,video9204.mp4
+559,3,"('', 'feature soccer')","('baseball', '')","('baseball,', 'women')","('women,', 'baseball')",hybrid,video7500.mp4
+560,0,"('', 'feature skiing')","('skiing,', 'riding')","('skiing', '')","('', 'feature dirt bike')",negative,video8820.mp4
+561,3,"('hugging,', 'fighting')","('', 'feature playing')","('hugging', '')","('', 'feature hugging')",negative,video8016.mp4
+562,0,"('women,', 'men')","('', 'feature kegel')","('men,', 'women')","('men', '')",hybrid,video7724.mp4
+563,2,"('', 'feature cartoon')","('rainbow,', 'dragon')","('cartoon and dragon', '')","('rainbow', '')",positive,video9306.mp4
+564,3,"('shark', '')","('', 'feature jetski')","('shark,', 'rescue')","('jetski and rescue', '')",positive,video9342.mp4
+565,3,"('', 'feature dancing')","('fighting', '')","('fighting,', 'singing')","('', 'feature fighting')",negative,video7117.mp4
+566,0,"('child,', 'dancing')","('dancing', '')","('dancing,', 'child')","('', 'feature singing')",hybrid,video9879.mp4
+567,1,"('magnetism', '')","('', 'feature magnetism')","('', 'feature gravity')","('magnetism,', 'weight lifting')",negative,video7610.mp4
+568,3,"('anger,', 'ingredients')","('anger', '')","('', 'feature cooking')","('', 'feature anger')",negative,video7911.mp4
+569,0,"('cooking,', 'frying')","('', 'feature mixing')","('frying,', 'cooking')","('frying', '')",hybrid,video8656.mp4
+570,1,"('women', '')","('', 'feature women')","('women,', 'playing')","('', 'feature volleyball')",negative,video8660.mp4
+571,3,"('', 'feature video games')","('board games,', 'commentary')","('board games', '')","('', 'feature board games')",negative,video7766.mp4
+572,1,"('ballet,', 'backflips')","('gymnastics and backflips', '')","('', 'feature gymnastics')","('ballet', '')",positive,video8267.mp4
+573,0,"('alpacas,', 'zebras')","('zebras,', 'alpacas')","('zebras', '')","('', 'feature animals')",hybrid,video9339.mp4
+574,0,"('interview and us china strategic and economic dialogue', '')","('sports,', 'us china strategic and economic dialogue')","('sports', '')","('', 'feature interview')",positive,video7613.mp4
+575,3,"('wedding', '')","('', 'feature woman')","('wedding,', 'stairs')","('', 'feature wedding')",negative,video7822.mp4
+576,0,"('', 'feature basketball')","('', 'feature music video')","('basketball', '')","('basketball,', 'singing')",negative,video8305.mp4
+577,3,"('', 'feature video game')","('reading', '')","('reading,', 'shooting')","('', 'feature reading')",negative,video8788.mp4
+578,3,"('', 'feature car')","('accidents,', 'features')","('accidents', '')","('car and features', '')",positive,video9514.mp4
+579,3,"('', 'feature woman flying')","('man', '')","('man,', 'snowy landscape')","('woman flying and snowy landscape', '')",positive,video9788.mp4
+580,0,"('', 'feature dance')","('dance', '')","('dance,', 'piano')","('', 'feature movie')",negative,video9026.mp4
+581,3,"('arguing', '')","('arguing,', 'knocking')","('', 'feature texting')","('texting and knocking', '')",positive,video8832.mp4
+582,1,"('boredom', '')","('anime,', 'boredom')","('', 'feature announcing')","('boredom,', 'anime')",hybrid,video8303.mp4
+583,3,"('', 'feature dancing')","('children,', 'band')","('children', '')","('band,', 'children')",hybrid,video9254.mp4
+584,1,"('chess,', 'solving')","('', 'feature chess')","('', 'feature rubiks cube')","('chess', '')",negative,video8622.mp4
+585,1,"('', 'feature car')","('', 'feature wrestling')","('wrestling', '')","('wrestling,', 'review')",negative,video7340.mp4
+586,1,"('sadness', '')","('boy band,', 'sadness')","('', 'feature singing')","('sadness,', 'boy band')",hybrid,video7028.mp4
+587,3,"('woman', '')","('', 'feature man')","('woman,', 'making')","('', 'feature woman')",negative,video8772.mp4
+588,1,"('crying', '')","('celebrity and talking', '')","('crying,', 'talking')","('', 'feature celebrity')",positive,video9225.mp4
+589,0,"('flying,', 'peace')","('peace', '')","('peace,', 'flying')","('', 'feature helicopters')",hybrid,video7206.mp4
+590,1,"('car,', 'cowboy and football player')","('cowboy and football player,', 'car')","('', 'feature tv show')","('car', '')",hybrid,video8316.mp4
+591,2,"('laughter', '')","('', 'feature talking')","('men,', 'laughter')","('laughter,', 'men')",hybrid,video8315.mp4
+592,2,"('man', '')","('', 'feature cooking')","('', 'feature man')","('man,', 'woman')",negative,video8686.mp4
+593,2,"('', 'feature snakes')","('ball', '')","('containers,', 'ball')","('ball,', 'containers')",hybrid,video7350.mp4
+594,3,"('chess', '')","('chess,', 'sky roads')","('', 'feature gaming')","('gaming and sky roads', '')",positive,video7232.mp4
+595,0,"('competition,', 'boxing')","('boxing,', 'competition')","('boxing', '')","('', 'feature wrestling')",hybrid,video7587.mp4
+596,0,"('man and water', '')","('sand', '')","('', 'feature man')","('sand,', 'water')",positive,video7795.mp4
+597,2,"('dog', '')","('', 'feature cat')","('cat and sitting like human', '')","('dog,', 'sitting like human')",positive,video8323.mp4
+598,3,"('bicycles', '')","('bicycles,', '1970 dodge datona')","('', 'feature cars')","('1970 dodge datona,', 'bicycles')",hybrid,video9259.mp4
+599,2,"('microwaving', '')","('', 'feature cooking')","('cooking and stirring', '')","('microwaving,', 'stirring')",positive,video8654.mp4
+600,1,"('comedy', '')","('rehearsal,', 'comedy')","('comedy,', 'rehearsal')","('', 'feature dance')",hybrid,video9957.mp4
+601,2,"('silence,', 'band')","('silence', '')","('band,', 'silence')","('', 'feature music')",hybrid,video7205.mp4
+602,2,"('toys', '')","('toys,', 'review')","('review,', 'toys')","('', 'feature items')",hybrid,video8679.mp4
+603,2,"('violence,', 'interview')","('violence', '')","('cooking and interview', '')","('', 'feature cooking')",positive,video9548.mp4
+604,1,"('video,', 'pictures')","('girl and pictures', '')","('video', '')","('', 'feature girl')",positive,video8011.mp4
+605,2,"('', 'feature pokemon')","('angry,', 'talking')","('talking,', 'angry')","('angry', '')",hybrid,video8341.mp4
+606,1,"('', 'feature boat')","('boat and singing', '')","('daytime,', 'singing')","('daytime', '')",positive,video9030.mp4
+607,0,"('singing and man', '')","('guitars,', 'man')","('', 'feature singing')","('guitars', '')",positive,video8573.mp4
+608,0,"('explaining,', 'driving')","('driving', '')","('', 'feature car')","('driving,', 'explaining')",hybrid,video7752.mp4
+609,1,"('ipad,', 'review')","('review,', 'ipad')","('ipad', '')","('', 'feature macbook pro')",hybrid,video7369.mp4
+610,1,"('', 'feature technology')","('', 'feature swimming')","('swimming,', 'presentation')","('swimming', '')",negative,video9236.mp4
+611,3,"('candy cane,', 'melting')","('', 'feature chocolate')","('candy cane', '')","('chocolate and melting', '')",positive,video7785.mp4
+612,0,"('bill murray and talk show', '')","('singing', '')","('singing,', 'talk show')","('', 'feature bill murray')",positive,video7362.mp4
+613,1,"('', 'feature soup')","('woman,', 'salad')","('salad,', 'woman')","('salad', '')",hybrid,video8835.mp4
+614,3,"('car,', 'sign language')","('', 'feature eating')","('car', '')","('eating and sign language', '')",positive,video8606.mp4
+615,1,"('parking,', 'car')","('man and car', '')","('parking', '')","('', 'feature man')",positive,video9331.mp4
+616,3,"('vegetarian,', 'burgers')","('vegetarian', '')","('', 'feature grilling')","('', 'feature vegetarian')",negative,video7147.mp4
+617,1,"('crime,', 'gun control')","('', 'feature crime')","('crime', '')","('', 'feature news')",negative,video8864.mp4
+618,0,"('islamic people,', 'skiing')","('skiing,', 'islamic people')","('', 'feature queen elizabeth')","('skiing', '')",hybrid,video7568.mp4
+619,0,"('candidate,', 'climate change')","('climate change,', 'candidate')","('climate change', '')","('', 'feature debate')",hybrid,video7158.mp4
+620,2,"('sleeping,', 'flying')","('', 'feature birds')","('birds and flying', '')","('sleeping', '')",positive,video9345.mp4
+621,2,"('snake,', 'dog')","('', 'feature cartoon')","('', 'feature snake')","('snake', '')",negative,video8334.mp4
+622,0,"('playing,', 'stuffed animals')","('stuffed animals,', 'playing')","('stuffed animals', '')","('', 'feature barbie dolls')",hybrid,video9231.mp4
+623,1,"('', 'feature performance')","('', 'feature tragedy')","('tragedy,', 'comedy')","('tragedy', '')",negative,video9683.mp4
+624,0,"('tv show,', 'baking')","('', 'feature blindfold game')","('baking', '')","('baking,', 'tv show')",hybrid,video9744.mp4
+625,0,"('', 'feature violence')","('', 'feature indian music')","('violence', '')","('violence,', 'talking')",negative,video9513.mp4
+626,1,"('dialogue', '')","('', 'feature dialogue')","('dialogue,', 'running')","('', 'feature girls')",negative,video9027.mp4
+627,0,"('sermon and man', '')","('singing,', 'man')","('singing', '')","('', 'feature sermon')",positive,video8072.mp4
+628,0,"('dancing and woman', '')","('children', '')","('children,', 'woman')","('', 'feature dancing')",positive,video7414.mp4
+629,1,"('', 'feature kitchen')","('kitchen and chef', '')","('restaurant', '')","('restaurant,', 'chef')",positive,video8129.mp4
+630,1,"('city', '')","('', 'feature city')","('', 'feature mountains')","('city,', 'lake')",negative,video8312.mp4
+631,1,"('fighting', '')","('laughing,', 'fighting')","('', 'feature singing')","('fighting,', 'laughing')",hybrid,video9241.mp4
+632,2,"('snow', '')","('', 'feature polar bear')","('water,', 'snow')","('snow,', 'water')",hybrid,video8493.mp4
+633,3,"('opposition,', 'speech')","('', 'feature vladimir putin')","('opposition', '')","('vladimir putin and speech', '')",positive,video7410.mp4
+634,1,"('', 'feature dancing')","('', 'feature fighting')","('fighting', '')","('fighting,', 'memories')",negative,video8839.mp4
+635,1,"('arguing,', 'stage')","('singing and stage', '')","('arguing', '')","('', 'feature singing')",positive,video7220.mp4
+636,1,"('', 'feature house')","('house and pets', '')","('humans,', 'pets')","('humans', '')",positive,video8867.mp4
+637,0,"('speaking and forest', '')","('painting,', 'forest')","('painting', '')","('', 'feature speaking')",positive,video8948.mp4
+638,3,"('sister,', 'father')","('', 'feature boy')","('sister', '')","('father,', 'sister')",hybrid,video8811.mp4
+639,2,"('soccer', '')","('', 'feature basketball')","('shot,', 'soccer')","('soccer,', 'shot')",hybrid,video7710.mp4
+640,2,"('painting', '')","('painting,', 'battle')","('', 'feature painting')","('', 'feature cartoon')",negative,video8245.mp4
+641,3,"('war', '')","('war,', 'man')","('', 'feature video game')","('', 'feature war')",negative,video7757.mp4
+642,3,"('modern times,', 'paintings')","('', 'feature history')","('modern times', '')","('paintings,', 'modern times')",hybrid,video8346.mp4
+643,1,"('eyelashes,', 'eyebrows')","('eyebrows,', 'eyelashes')","('eyelashes', '')","('', 'feature makeup')",hybrid,video8423.mp4
+644,3,"('drumming,', 'guitar')","('drumming', '')","('', 'feature singing')","('guitar,', 'drumming')",hybrid,video8810.mp4
+645,1,"('hiking', '')","('video game and light', '')","('hiking,', 'light')","('', 'feature video game')",positive,video7723.mp4
+646,0,"('cars and explaining', '')","('crashed', '')","('crashed,', 'explaining')","('', 'feature cars')",positive,video9508.mp4
+647,2,"('real cooking,', 'toy cooking')","('real cooking', '')","('toy cooking,', 'real cooking')","('', 'feature child')",hybrid,video7561.mp4
+648,3,"('', 'feature woman')","('computer', '')","('computer,', 'headband')","('woman and headband', '')",positive,video8261.mp4
+649,0,"('', 'feature grilling')","('', 'feature making a dish')","('grilling,', 'mixing food ingredients')","('grilling', '')",negative,video7140.mp4
+650,1,"('flute', '')","('', 'feature flute')","('', 'feature piano')","('flute,', 'playing')",negative,video8255.mp4
+651,0,"('sports,', 'white')","('', 'feature car')","('white', '')","('white,', 'sports')",hybrid,video9358.mp4
+652,3,"('travelling', '')","('', 'feature professor')","('travelling,', 'microstructure')","('microstructure,', 'travelling')",hybrid,video7491.mp4
+653,2,"('woman', '')","('', 'feature two men')","('two men and talking', '')","('woman,', 'talking')",positive,video9234.mp4
+654,0,"('anchors,', 'drama')","('drama', '')","('', 'feature news')","('drama,', 'anchors')",hybrid,video9223.mp4
+655,0,"('woman and news', '')","('radio,', 'news')","('', 'feature woman')","('radio', '')",positive,video8333.mp4
+656,0,"('folding and origami', '')","('', 'feature folding')","('cutting,', 'origami')","('cutting', '')",positive,video8601.mp4
+657,1,"('', 'feature bed')","('bed and phone', '')","('loving,', 'phone')","('loving', '')",positive,video7687.mp4
+658,2,"('', 'feature girl')","('tv,', 'puppy')","('girl and puppy', '')","('tv', '')",positive,video8837.mp4
+659,1,"('bus,', 'subway')","('', 'feature bus')","('', 'feature train')","('bus', '')",negative,video7832.mp4
+660,1,"('music', '')","('', 'feature music')","('', 'feature motivational speaker')","('music,', 'speech')",negative,video9203.mp4
+661,1,"('', 'feature video game')","('video game and playing', '')","('swimming', '')","('swimming,', 'playing')",positive,video7552.mp4
+662,2,"('treatment', '')","('treatment,', 'lecture')","('', 'feature treatment')","('', 'feature precision medicine')",negative,video9781.mp4
+663,1,"('piano', '')","('kid,', 'piano')","('', 'feature guitar')","('piano,', 'kid')",hybrid,video7976.mp4
+664,2,"('blender,', 'onion')","('blender', '')","('', 'feature blender')","('', 'feature cooking')",negative,video9798.mp4
+665,1,"('losing', '')","('', 'feature losing')","('', 'feature ping pong')","('losing,', 'playing')",negative,video7699.mp4
+666,0,"('athletes,', 'space (travel)')","('space (travel)', '')","('', 'feature track (race)')","('space (travel),', 'athletes')",hybrid,video8451.mp4
+667,1,"('safety,', 'man')","('man,', 'safety')","('safety', '')","('', 'feature gun')",hybrid,video7363.mp4
+668,3,"('guitar,', 'football')","('', 'feature video game')","('guitar', '')","('football,', 'guitar')",hybrid,video7374.mp4
+669,0,"('fashion,', 'wedding')","('wedding,', 'fashion')","('wedding', '')","('', 'feature bridal')",hybrid,video7142.mp4
+670,1,"('steak', '')","('cooking and pancake', '')","('', 'feature cooking')","('steak,', 'pancake')",positive,video8865.mp4
+671,1,"('birth,', 'funeral')","('funeral,', 'birth')","('birth', '')","('', 'feature embalmer')",hybrid,video9032.mp4
+672,3,"('skateboarding,', 'waves')","('skateboarding', '')","('', 'feature surfing')","('', 'feature skateboarding')",negative,video9574.mp4
+673,2,"('peace,', 'playing video game')","('', 'feature minecraft')","('playing video game,', 'peace')","('peace', '')",hybrid,video8931.mp4
+674,0,"('women,', 'men')","('men,', 'women')","('men', '')","('', 'feature massage')",hybrid,video8240.mp4
+675,0,"('show,', 'men')","('', 'feature fashion')","('men', '')","('men,', 'show')",hybrid,video8914.mp4
+676,2,"('eating', '')","('eating,', 'cooking')","('', 'feature eating')","('', 'feature chef')",negative,video7148.mp4
+677,3,"('board game', '')","('board game,', 'review')","('', 'feature video game')","('', 'feature board game')",negative,video9795.mp4
+678,0,"('birds and cage', '')","('', 'feature birds')","('snake', '')","('snake,', 'cage')",positive,video8469.mp4
+679,0,"('', 'feature dance')","('dance,', 'people')","('dance', '')","('', 'feature cosplay')",negative,video9131.mp4
+680,0,"('halloween and makeup', '')","('cooking,', 'makeup')","('', 'feature halloween')","('cooking', '')",positive,video8756.mp4
+681,1,"('women', '')","('', 'feature women')","('women,', 'talking')","('', 'feature interview')",negative,video8259.mp4
+682,0,"('', 'feature food')","('food,', 'line')","('', 'feature ice cream')","('food', '')",negative,video8664.mp4
+683,2,"('', 'feature dna')","('exercise,', 'experiment')","('experiment,', 'exercise')","('exercise', '')",hybrid,video7900.mp4
+684,0,"('', 'feature gaming')","('', 'feature interview')","('gaming', '')","('gaming,', 'movie discussion')",negative,video7215.mp4
+685,3,"('driving,', 'sustainable development')","('driving', '')","('', 'feature talking')","('', 'feature driving')",negative,video9406.mp4
+686,0,"('video game and walking', '')","('', 'feature video game')","('volleyball', '')","('volleyball,', 'walking')",positive,video8027.mp4
+687,1,"('', 'feature ceo')","('', 'feature failure')","('failure', '')","('failure,', 'blackberry')",negative,video9692.mp4
+688,3,"('woman,', 'truck')","('woman', '')","('', 'feature man')","('truck,', 'woman')",hybrid,video8420.mp4
+689,0,"('', 'feature sports')","('', 'feature woman')","('sports,', 'news')","('sports', '')",negative,video9882.mp4
+690,0,"('truck and men', '')","('car,', 'men')","('', 'feature truck')","('car', '')",positive,video9354.mp4
+691,1,"('baking', '')","('boy band and concert performance', '')","('baking,', 'concert performance')","('', 'feature boy band')",positive,video9519.mp4
+692,2,"('', 'feature testing')","('fear', '')","('testing and high place', '')","('fear,', 'high place')",positive,video8945.mp4
+693,0,"('eating,', 'soup')","('soup,', 'eating')","('', 'feature shrimp')","('soup', '')",hybrid,video9309.mp4
+694,2,"('defeat', '')","('defeat,', 'celebration')","('celebration,', 'defeat')","('', 'feature soccer')",hybrid,video8476.mp4
+695,0,"('celebrities,', 'accident')","('accident,', 'celebrities')","('', 'feature red carpet')","('accident', '')",hybrid,video9329.mp4
+696,3,"('', 'feature drinking')","('baking', '')","('baking,', 'recipe')","('', 'feature baking')",negative,video8685.mp4
+697,2,"('frying', '')","('', 'feature slicing')","('slicing and potato', '')","('frying,', 'potato')",positive,video7966.mp4
+698,2,"('consoling', '')","('consoling,', 'match')","('match,', 'consoling')","('', 'feature wrestling')",hybrid,video8443.mp4
+699,3,"('meat', '')","('meat,', 'woman')","('', 'feature vegetables')","('vegetables and woman', '')",positive,video8498.mp4
+700,2,"('', 'feature wrestling')","('soccer', '')","('', 'feature soccer')","('soccer,', 'interview')",negative,video9020.mp4
+701,1,"('', 'feature hugging')","('hugging and couple', '')","('fight,', 'couple')","('fight', '')",positive,video8442.mp4
+702,1,"('', 'feature flirting')","('smiling,', 'no door')","('no door', '')","('no door,', 'smiling')",hybrid,video9012.mp4
+703,1,"('', 'feature will smith')","('', 'feature argument')","('argument', '')","('argument,', 'conversation')",negative,video9230.mp4
+704,0,"('guitar,', 'piano')","('', 'feature person')","('piano', '')","('piano,', 'guitar')",hybrid,video7545.mp4
+705,3,"('pins', '')","('', 'feature magnets')","('pins,', 'creating')","('', 'feature pins')",negative,video7560.mp4
+706,3,"('', 'feature talking')","('friendship,', 'interrogation')","('friendship', '')","('talking and interrogation', '')",positive,video8808.mp4
+707,2,"('woman', '')","('', 'feature man')","('man and singer', '')","('woman,', 'singer')",positive,video9600.mp4
+708,1,"('dance', '')","('', 'feature dance')","('', 'feature drawing')","('dance,', 'women')",negative,video7462.mp4
+709,1,"('fighting,', 'quotes')","('quotes,', 'fighting')","('', 'feature anime characters')","('fighting', '')",hybrid,video7581.mp4
+710,3,"('', 'feature family')","('computer,', 'conversation')","('computer', '')","('', 'feature computer')",negative,video7825.mp4
+711,1,"('video games,', 'trailers')","('', 'feature video games')","('', 'feature movies')","('video games', '')",negative,video9804.mp4
+712,3,"('', 'feature kayaking')","('swimming', '')","('swimming,', 'river')","('kayaking and river', '')",positive,video9831.mp4
+713,3,"('', 'feature egg')","('bicycle,', 'walking on eggs')","('bicycle', '')","('egg and walking on eggs', '')",positive,video7688.mp4
+714,2,"('', 'feature protest')","('police,', 'midwives')","('midwives,', 'police')","('police', '')",hybrid,video7827.mp4
+715,2,"('cooking', '')","('', 'feature video game')","('car,', 'cooking')","('cooking,', 'car')",hybrid,video7464.mp4
+716,3,"('house', '')","('', 'feature car')","('house,', 'factory')","('', 'feature house')",negative,video7343.mp4
+717,0,"('spongebob squarepants and singing', '')","('fire', '')","('', 'feature spongebob squarepants')","('fire,', 'singing')",positive,video7111.mp4
+718,3,"('anger,', 'bird')","('', 'feature animation')","('anger', '')","('', 'feature anger')",negative,video9772.mp4
+719,2,"('', 'feature woman')","('technology,', 'package')","('package,', 'technology')","('technology', '')",hybrid,video8868.mp4
+720,3,"('cooking,', 'man')","('', 'feature fishing')","('cooking', '')","('', 'feature cooking')",negative,video7543.mp4
+721,3,"('', 'feature diving')","('surfing,', 'underwater')","('surfing', '')","('underwater,', 'surfing')",hybrid,video9578.mp4
+722,3,"('piano,', 'guitar')","('piano', '')","('', 'feature singing')","('singing and guitar', '')",positive,video8265.mp4
+723,0,"('', 'feature chess')","('chess', '')","('', 'feature video game')","('chess,', 'playing')",negative,video9773.mp4
+724,3,"('scientist,', 'classroom')","('scientist', '')","('', 'feature teacher')","('classroom,', 'scientist')",hybrid,video9908.mp4
+725,3,"('understanding', '')","('understanding,', 'hand gestures')","('', 'feature talking')","('', 'feature understanding')",negative,video8301.mp4
+726,0,"('band and concert', '')","('rain,', 'concert')","('rain', '')","('', 'feature band')",positive,video8466.mp4
+727,0,"('man and speaking', '')","('woman', '')","('', 'feature man')","('woman,', 'speaking')",positive,video8721.mp4
+728,1,"('video game,', 'presentation')","('', 'feature video game')","('video game', '')","('', 'feature projector')",negative,video7829.mp4
+729,2,"('election', '')","('election,', 'speech')","('', 'feature election')","('', 'feature obama')",negative,video7619.mp4
+730,3,"('', 'feature conversation')","('video games,', 'fire')","('video games', '')","('fire,', 'video games')",hybrid,video9322.mp4
+731,3,"('disagreement', '')","('disagreement,', 'talking')","('', 'feature woman')","('woman and talking', '')",positive,video9816.mp4
+732,3,"('', 'feature cooking')","('grilling', '')","('grilling,', 'vegetables')","('', 'feature grilling')",negative,video8514.mp4
+733,2,"('rain,', 'fast-moving clocks')","('rain', '')","('', 'feature rain')","('', 'feature airport')",negative,video8687.mp4
+734,3,"('mobile phone', '')","('', 'feature woman')","('mobile phone,', 'dialing phone')","('dialing phone,', 'mobile phone')",hybrid,video7728.mp4
+735,0,"('', 'feature videographer')","('videographer', '')","('videographer,', 'camera')","('', 'feature photographer')",negative,video8670.mp4
+736,1,"('history,', 'speaking')","('man and speaking', '')","('', 'feature man')","('history', '')",positive,video7946.mp4
+737,2,"('tablet,', 'using')","('', 'feature phone')","('using,', 'tablet')","('tablet', '')",hybrid,video9258.mp4
+738,0,"('baby playing with cat,', 'dog')","('dog', '')","('', 'feature baby')","('dog,', 'baby playing with cat')",hybrid,video7902.mp4
+739,3,"('men,', 'runway')","('', 'feature fashion')","('men', '')","('runway,', 'men')",hybrid,video9277.mp4
+740,2,"('playing basketball', '')","('', 'feature minecraft')","('playing,', 'playing basketball')","('playing basketball,', 'playing')",hybrid,video8628.mp4
+741,0,"('grocery and shopping', '')","('candy,', 'shopping')","('', 'feature grocery')","('candy', '')",positive,video8018.mp4
+742,1,"('', 'feature adding')","('adding and cooking', '')","('frying,', 'cooking')","('frying', '')",positive,video9022.mp4
+743,3,"('profanity', '')","('profanity,', 'press conference')","('', 'feature britney spears')","('press conference,', 'profanity')",hybrid,video7171.mp4
+744,3,"('dogs,', 'women')","('', 'feature lions')","('dogs', '')","('', 'feature dogs')",negative,video8935.mp4
+745,3,"('sports', '')","('', 'feature video games')","('sports,', 'friends')","('', 'feature sports')",negative,video7593.mp4
+746,1,"('uncomfortable', '')","('girl and dress', '')","('', 'feature girl')","('uncomfortable,', 'dress')",positive,video9472.mp4
+747,3,"('', 'feature car')","('design,', 'describing')","('design', '')","('car and describing', '')",positive,video9530.mp4
+748,0,"('', 'feature basketball')","('', 'feature football highlights')","('basketball', '')","('basketball,', 'players making impressive feats')",negative,video9542.mp4
+749,3,"('swimming', '')","('swimming,', 'singing')","('', 'feature band')","('', 'feature swimming')",negative,video7596.mp4
+750,3,"('fried rice,', 'flatbread')","('', 'feature cooking')","('fried rice', '')","('', 'feature fried rice')",negative,video9038.mp4
+751,3,"('', 'feature government')","('capitalism,', 'branches')","('capitalism', '')","('', 'feature capitalism')",negative,video9474.mp4
+752,1,"('moon', '')","('mars,', 'moon')","('moon,', 'mars')","('', 'feature nasa')",hybrid,video8727.mp4
+753,3,"('sadness', '')","('', 'feature horse')","('sadness,', 'jumping')","('', 'feature sadness')",negative,video9416.mp4
+754,0,"('', 'feature chess')","('', 'feature mario party')","('chess', '')","('chess,', 'video game')",negative,video8689.mp4
+755,3,"('tennis', '')","('tennis,', 'playing')","('', 'feature minecraft')","('playing,', 'tennis')",hybrid,video8816.mp4
+756,3,"('wrestling', '')","('', 'feature boxing')","('wrestling,', 'fighting')","('', 'feature wrestling')",negative,video7979.mp4
+757,1,"('', 'feature jumping')","('jumping and building', '')","('swimming', '')","('swimming,', 'building')",positive,video9033.mp4
+758,0,"('dog grooming and martha stewart pet products', '')","('hair products for humans,', 'martha stewart pet products')","('hair products for humans', '')","('', 'feature dog grooming')",positive,video7549.mp4
+759,1,"('', 'feature wrestling')","('wrestling and competition', '')","('boxing', '')","('boxing,', 'competition')",positive,video9803.mp4
+760,2,"('', 'feature massaging')","('jealousy,', 'bathing')","('', 'feature jealousy')","('jealousy', '')",negative,video7144.mp4
+761,3,"('singing,', 'bloopers')","('singing', '')","('', 'feature woman talking')","('bloopers,', 'singing')",hybrid,video8669.mp4
+762,1,"('traffic,', 'animation')","('cars and animation', '')","('traffic', '')","('', 'feature cars')",positive,video8973.mp4
+763,0,"('', 'feature crying')","('', 'feature woman')","('crying,', 'talking')","('crying', '')",negative,video7348.mp4
+764,3,"('jigsaw puzzle,', 'solving')","('jigsaw puzzle', '')","('', ""feature rubik's cube"")","('', 'feature jigsaw puzzle')",negative,video7693.mp4
+765,1,"('', 'feature youtube')","('', 'feature friendship')","('friendship,', 'talking')","('friendship', '')",negative,video8801.mp4
+766,3,"('dance', '')","('', 'feature fashion')","('dance,', 'interview')","('interview,', 'dance')",hybrid,video9039.mp4
+767,2,"('', 'feature police')","('fire,', 'running')","('running,', 'fire')","('fire', '')",hybrid,video9323.mp4
+768,2,"('', 'feature runway')","('men,', 'fashion')","('runway and fashion', '')","('men', '')",positive,video9348.mp4
+769,1,"('makeup', '')","('', 'feature makeup')","('makeup,', 'advice')","('', 'feature skincare')",negative,video7684.mp4
+770,1,"('dog,', 'horse')","('', 'feature dog')","('dog', '')","('', 'feature feeding')",negative,video9451.mp4
+771,3,"('waterfall', '')","('', 'feature speaking')","('waterfall,', 'beach')","('speaking and beach', '')",positive,video7589.mp4
+772,1,"('', 'feature playing')","('costume,', 'running')","('running,', 'costume')","('running', '')",hybrid,video7542.mp4
+773,3,"('color', '')","('color,', 'television')","('', 'feature black and white')","('television,', 'color')",hybrid,video9834.mp4
+774,0,"('', 'feature crying')","('crying', '')","('', 'feature laughing')","('crying,', 'talking')",negative,video9357.mp4
+775,3,"('', 'feature party')","('birthday', '')","('birthday,', 'karaoke')","('karaoke,', 'birthday')",hybrid,video7725.mp4
+776,2,"('baseball', '')","('', 'feature basketball')","('', 'feature baseball')","('baseball,', 'dunk')",negative,video7839.mp4
+777,0,"('bus,', 'fire')","('fire', '')","('fire,', 'bus')","('', 'feature car')",hybrid,video8497.mp4
+778,0,"('goals,', 'tennis')","('tennis,', 'goals')","('', 'feature soccer')","('tennis', '')",hybrid,video8661.mp4
+779,3,"('', 'feature red balloons')","('angry crowd,', 'gifts')","('angry crowd', '')","('red balloons and gifts', '')",positive,video9405.mp4
+780,0,"('police car and driving', '')","('danger', '')","('', 'feature police car')","('danger,', 'driving')",positive,video8089.mp4
+781,2,"('shorts,', 'patches')","('shorts', '')","('', 'feature shorts')","('', 'feature jeans')",negative,video9503.mp4
+782,1,"('drama', '')","('singing and dancing,', 'drama')","('', 'feature animated characters')","('drama,', 'singing and dancing')",hybrid,video9805.mp4
+783,2,"('european culture,', 'bbc news')","('european culture', '')","('bbc news,', 'european culture')","('', 'feature african culture')",hybrid,video8022.mp4
+784,1,"('man,', 'woman')","('jacket and woman', '')","('man', '')","('', 'feature jacket')",positive,video8825.mp4
+785,3,"('', 'feature women')","('fighting,', 'talking')","('fighting', '')","('', 'feature fighting')",negative,video9835.mp4
+786,1,"('', 'feature minecraft')","('', 'feature fighting')","('fighting', '')","('fighting,', 'walking up stairs')",negative,video9334.mp4
+787,0,"('', 'feature singing')","('', 'feature bill murray')","('singing,', 'david letterman')","('singing', '')",negative,video8930.mp4
+788,0,"('', 'feature cooking')","('', 'feature fishing')","('cooking,', 'boat')","('cooking', '')",negative,video8025.mp4
+789,3,"('', 'feature medal')","('sharing,', 'cartoon')","('sharing', '')","('', 'feature sharing')",negative,video7172.mp4
+790,2,"('traffic jam', '')","('', 'feature traffic data')","('', 'feature traffic jam')","('traffic jam,', 'graphs')",negative,video7432.mp4
+791,3,"('football,', 'world of warcraft')","('', 'feature video game')","('football', '')","('world of warcraft,', 'football')",hybrid,video7035.mp4
+792,3,"('art,', 'economy')","('', 'feature wine')","('art', '')","('', 'feature art')",negative,video7145.mp4
+793,2,"('children', '')","('children,', 'women')","('applying makeup and women', '')","('', 'feature applying makeup')",positive,video7571.mp4
+794,2,"('', 'feature race car')","('safety', '')","('', 'feature safety')","('safety,', 'driving')",negative,video7544.mp4
+795,2,"('', 'feature dog')","('cat,', 'video game')","('video game,', 'cat')","('cat', '')",hybrid,video7798.mp4
+796,0,"('battery and assembling', '')","('power supply', '')","('power supply,', 'assembling')","('', 'feature battery')",positive,video8121.mp4
+797,3,"('boat,', 'traditional clothing')","('', 'feature cultural festival')","('boat', '')","('', 'feature boat')",negative,video8241.mp4
+798,1,"('telecommunications', '')","('', 'feature telecommunications')","('', 'feature eating')","('telecommunications,', 'cartoon')",negative,video9524.mp4
+799,1,"('no windows,', 'game')","('zombies and game', '')","('', 'feature zombies')","('no windows', '')",positive,video9010.mp4
+800,2,"('cooking', '')","('cooking,', 'introduction')","('introduction,', 'cooking')","('', 'feature fire extinguisher')",hybrid,video7060.mp4
+801,1,"('rapping,', 'playing guitar')","('', 'feature rapping')","('rapping', '')","('', 'feature singing')",negative,video7419.mp4
+802,3,"('music,', 'interview')","('music', '')","('', 'feature celebrity')","('celebrity and interview', '')",positive,video7794.mp4
+803,2,"('cooperation', '')","('', 'feature dancing')","('prank,', 'cooperation')","('cooperation,', 'prank')",hybrid,video9238.mp4
+804,2,"('dog,', 'man')","('dog', '')","('', 'feature dog')","('', 'feature goat')",negative,video8044.mp4
+805,3,"('', 'feature car')","('house', '')","('house,', 'advertising')","('', 'feature house')",negative,video7356.mp4
+806,2,"('captain america,', 'discussion')","('captain america', '')","('discussion,', 'captain america')","('', 'feature avengers')",hybrid,video8907.mp4
+807,3,"('mac', '')","('mac,', 'instructions')","('', 'feature windows')","('instructions,', 'mac')",hybrid,video7913.mp4
+808,1,"('piano', '')","('', 'feature piano')","('', 'feature singing')","('piano,', 'guitar')",negative,video8314.mp4
+809,0,"('', 'feature painting')","('painting', '')","('painting,', 'cartoon')","('', 'feature drawing')",negative,video7977.mp4
+810,0,"('kitchen,', 'cupcake')","('cupcake,', 'kitchen')","('', 'feature cutting')","('cupcake', '')",hybrid,video7554.mp4
+811,3,"('music,', 'audience')","('', 'feature comedy')","('music', '')","('', 'feature music')",negative,video8445.mp4
+812,1,"('', 'feature stroller')","('woman,', 'man')","('man,', 'woman')","('man', '')",hybrid,video8123.mp4
+813,0,"('video,', 'food')","('food', '')","('food,', 'video')","('', 'feature credits')",hybrid,video8909.mp4
+814,3,"('pasta', '')","('', 'feature play dough')","('pasta,', 'preparing')","('preparing,', 'pasta')",hybrid,video9256.mp4
+815,2,"('', 'feature sports')","('cycling', '')","('basketball,', 'cycling')","('cycling,', 'basketball')",hybrid,video8979.mp4
+816,0,"('', 'feature fighting')","('fighting', '')","('', 'feature interview')","('fighting,', 'talking')",negative,video8917.mp4
+817,1,"('silence', '')","('conversation and dancing', '')","('', 'feature conversation')","('silence,', 'dancing')",positive,video8786.mp4
+818,3,"('ballet slippers', '')","('ballet slippers,', 'dancing')","('', 'feature ballet')","('', 'feature ballet slippers')",negative,video9251.mp4
+819,1,"('dance,', 'timing')","('timing,', 'dance')","('', 'feature coaching')","('dance', '')",hybrid,video9302.mp4
+820,1,"('', 'feature fox news')","('political discussion,', 'sports')","('sports,', 'political discussion')","('sports', '')",hybrid,video7731.mp4
+821,2,"('women,', 'children')","('women', '')","('', 'feature women')","('', 'feature fire station')",negative,video8815.mp4
+822,3,"('baking,', 'burgers')","('', 'feature grilling')","('baking', '')","('grilling and burgers', '')",positive,video9333.mp4
+823,0,"('strapped,', 'executed')","('executed,', 'strapped')","('', 'feature electric chair')","('executed', '')",hybrid,video9520.mp4
+824,0,"('', 'feature radio')","('radio,', 'video')","('radio', '')","('', 'feature sports')",negative,video7358.mp4
+825,1,"('depressed', '')","('guy and excited', '')","('depressed,', 'excited')","('', 'feature guy')",positive,video8492.mp4
+826,1,"('', 'feature sports')","('sports and highlights', '')","('swimming', '')","('swimming,', 'highlights')",positive,video8913.mp4
+827,0,"('video game and gun', '')","('peace', '')","('', 'feature video game')","('peace,', 'gun')",positive,video7780.mp4
+828,3,"('cake,', 'churros')","('cake', '')","('', 'feature cooking')","('cooking and churros', '')",positive,video8915.mp4
+829,0,"('', 'feature solo')","('solo', '')","('solo,', 'group')","('', 'feature singing')",negative,video7756.mp4
+830,3,"('cooking,', 'make up')","('cooking', '')","('', 'feature editing')","('make up,', 'cooking')",hybrid,video9688.mp4
+831,0,"('runway,', 'males')","('', 'feature fashion')","('males', '')","('males,', 'runway')",hybrid,video7730.mp4
+832,0,"('cooking and tasting', '')","('sink,', 'tasting')","('', 'feature cooking')","('sink', '')",positive,video8834.mp4
+833,1,"('hair', '')","('makeup and tutorial', '')","('hair,', 'tutorial')","('', 'feature makeup')",positive,video8320.mp4
+834,2,"('fighting,', 'talking')","('', 'feature movie')","('talking,', 'fighting')","('fighting', '')",hybrid,video7583.mp4
+835,2,"('', 'feature man')","('elephant,', 'snake')","('snake,', 'elephant')","('elephant', '')",hybrid,video8078.mp4
+836,1,"('grilling', '')","('cooking and preparing food', '')","('grilling,', 'preparing food')","('', 'feature cooking')",positive,video8479.mp4
+837,1,"('', 'feature band')","('', 'feature sad')","('sad,', 'performing')","('sad', '')",negative,video7367.mp4
+838,3,"('drum,', 'singing')","('drum', '')","('', 'feature guitar')","('', 'feature drum')",negative,video8251.mp4
+839,3,"('peace', '')","('peace,', 'soccer')","('', 'feature rugby')","('', 'feature peace')",negative,video9823.mp4
+840,3,"('hip-hop music', '')","('hip-hop music,', 'woman')","('', 'feature country music')","('woman,', 'hip-hop music')",hybrid,video7586.mp4
+841,3,"('cooking,', 'interview')","('', 'feature bill murray')","('cooking', '')","('bill murray and interview', '')",positive,video7159.mp4
+842,0,"('men,', 'comedy')","('comedy,', 'men')","('', 'feature horror movie')","('comedy', '')",hybrid,video7576.mp4
+843,1,"('', 'feature video game')","('', 'feature basketball')","('basketball,', 'walkthrough')","('basketball', '')",negative,video8860.mp4
+844,0,"('', 'feature football')","('football,', 'driving')","('', 'feature bus')","('football', '')",negative,video7701.mp4
+845,0,"('game,', 'football')","('', 'feature baseball')","('football,', 'game')","('football', '')",hybrid,video7021.mp4
+846,0,"('woman,', 'man')","('', 'feature photograph')","('man', '')","('man,', 'woman')",hybrid,video9810.mp4
+847,0,"('', 'feature earthquake')","('', 'feature news')","('earthquake', '')","('earthquake,', 'burst of light')",negative,video7119.mp4
+848,1,"('mosque,', 'church')","('', 'feature mosque')","('mosque', '')","('', 'feature choir')",negative,video8336.mp4
+849,3,"('playing video game,', 'movie')","('', 'feature people')","('playing video game', '')","('', 'feature playing video game')",negative,video7685.mp4
+850,0,"('baseball and bat', '')","('basketball', '')","('basketball,', 'bat')","('', 'feature baseball')",positive,video7787.mp4
+851,0,"('video game and minecraft', '')","('basketball,', 'minecraft')","('basketball', '')","('', 'feature video game')",positive,video8313.mp4
+852,0,"('barbeque and potatoes', '')","('', 'feature barbeque')","('hamburgers,', 'potatoes')","('hamburgers', '')",positive,video9694.mp4
+853,3,"('fighting,', 'star trek')","('fighting', '')","('', 'feature discussing')","('discussing and star trek', '')",positive,video7371.mp4
+854,1,"('', 'feature beard')","('', 'feature sports')","('sports', '')","('sports,', 'news')",negative,video7967.mp4
+855,2,"('', 'feature dance')","('ball', '')","('', 'feature ball')","('ball,', 'music')",negative,video9802.mp4
+856,3,"('', 'feature dietician')","('fast food', '')","('fast food,', 'grocery shopping')","('grocery shopping,', 'fast food')",hybrid,video8899.mp4
+857,1,"('losing,', 'playing')","('playing,', 'losing')","('losing', '')","('', 'feature commentating')",hybrid,video9226.mp4
+858,0,"('snowy mountain,', 'hiking')","('', 'feature juggling')","('hiking,', 'snowy mountain')","('hiking', '')",hybrid,video7564.mp4
+859,2,"('', 'feature science fiction')","('horror', '')","('avatar,', 'horror')","('horror,', 'avatar')",hybrid,video8071.mp4
+860,3,"('splash', '')","('splash,', 'water')","('', 'feature dives')","('', 'feature splash')",negative,video8949.mp4
+861,0,"('video game and playing', '')","('', 'feature video game')","('board game,', 'playing')","('board game', '')",positive,video8462.mp4
+862,1,"('skiing', '')","('playing,', 'skiing')","('', 'feature sims')","('skiing,', 'playing')",hybrid,video9458.mp4
+863,1,"('', 'feature microwave')","('cooking,', 'grilling')","('grilling,', 'cooking')","('grilling', '')",hybrid,video7154.mp4
+864,0,"('talking,', 'fighting')","('', 'feature spongebob squarepants')","('fighting', '')","('fighting,', 'talking')",hybrid,video9808.mp4
+865,2,"('sunny', '')","('', 'feature foggy')","('foggy and ships', '')","('sunny,', 'ships')",positive,video8248.mp4
+866,3,"('', 'feature shark')","('horse,', 'video game')","('horse', '')","('video game,', 'horse')",hybrid,video9452.mp4
+867,3,"('peace,', 'throwing')","('', 'feature animation')","('peace', '')","('animation and throwing', '')",positive,video8655.mp4
+868,0,"('', 'feature driving safely')","('driving safely,', 'crashing')","('driving safely', '')","('', 'feature car')",negative,video9800.mp4
+869,1,"('mario bros', '')","('cartoon,', 'mario bros')","('', 'feature dragon ball z')","('mario bros,', 'cartoon')",hybrid,video9247.mp4
+870,1,"('', 'feature water')","('forest,', 'desert')","('desert,', 'forest')","('desert', '')",hybrid,video8307.mp4
+871,2,"('cooking,', 'reporting')","('', 'feature news')","('news and reporting', '')","('cooking', '')",positive,video9791.mp4
+872,1,"('tennis,', 'playing')","('', 'feature tennis')","('tennis', '')","('', 'feature artificial intelligence')",negative,video8626.mp4
+873,0,"('man and mobile phone', '')","('woman,', 'mobile phone')","('woman', '')","('', 'feature man')",positive,video8682.mp4
+874,1,"('peace', '')","('game,', 'peace')","('peace,', 'game')","('', 'feature first person shooter')",hybrid,video9837.mp4
+875,1,"('', 'feature fingernails')","('fingernails and painting', '')","('feet', '')","('feet,', 'painting')",positive,video8791.mp4
+876,0,"('singing,', 'happy')","('happy', '')","('happy,', 'singing')","('', 'feature punk rock')",hybrid,video7767.mp4
+877,2,"('swimming', '')","('swimming,', 'play fighting')","('play fighting,', 'swimming')","('', 'feature kids')",hybrid,video9576.mp4
+878,1,"('', 'feature yellow car')","('', 'feature repair')","('repair,', 'damage')","('repair', '')",negative,video9975.mp4
+879,2,"('', 'feature man')","('reading,', 'talking')","('', 'feature reading')","('reading', '')",negative,video9249.mp4
+880,3,"('baking,', 'bowl')","('baking', '')","('', 'feature cooking')","('cooking and bowl', '')",positive,video7744.mp4
+881,3,"('', 'feature truck')","('boat', '')","('boat,', 'driving')","('driving,', 'boat')",hybrid,video7614.mp4
+882,0,"('sand,', 'water')","('water', '')","('', 'feature truck')","('water,', 'sand')",hybrid,video7796.mp4
+883,3,"('success', '')","('', 'feature mistakes')","('success,', 'quotes')","('mistakes and quotes', '')",positive,video7333.mp4
+884,3,"('music,', 'tv shows')","('', 'feature people hugging')","('music', '')","('tv shows,', 'music')",hybrid,video9023.mp4
+885,0,"('', 'feature disagreement')","('', 'feature interview')","('disagreement,', 'discussing')","('disagreement', '')",negative,video7162.mp4
+886,2,"('anger,', 'gameplay')","('anger', '')","('', 'feature anger')","('', 'feature minecraft')",negative,video7972.mp4
+887,3,"('golf', '')","('', 'feature tennis')","('golf,', 'badminton')","('', 'feature golf')",negative,video8665.mp4
+888,3,"('', 'feature talking')","('yelling', '')","('yelling,', 'dubbing')","('', 'feature yelling')",negative,video9579.mp4
+889,1,"('', 'feature football')","('football and men', '')","('race,', 'men')","('race', '')",positive,video7776.mp4
+890,3,"('music,', 'television')","('music', '')","('', 'feature news video')","('', 'feature music')",negative,video8311.mp4
+891,0,"('', 'feature dance')","('', 'feature news')","('dance,', 'protest')","('dance', '')",negative,video7790.mp4
+892,2,"('rap,', 'band')","('rap', '')","('band,', 'rap')","('', 'feature concert')",hybrid,video8324.mp4
+893,1,"('', 'feature dog food')","('dog food and eating', '')","('cat food,', 'eating')","('cat food', '')",positive,video9580.mp4
+894,1,"('cooking', '')","('', 'feature cooking')","('cooking,', 'toy microwave')","('', 'feature hello kitty toy')",negative,video8332.mp4
+895,3,"('', 'feature product')","('negativity,', 'presentation')","('negativity', '')","('', 'feature negativity')",negative,video7064.mp4
+896,2,"('women', '')","('women,', 'interview')","('dr phil show and interview', '')","('', 'feature dr phil show')",positive,video9350.mp4
+897,2,"('', 'feature mountain')","('sun,', 'fog')","('', 'feature sun')","('sun', '')",negative,video9581.mp4
+898,3,"('boxing,', 'girls')","('boxing', '')","('', 'feature gymnastics')","('', 'feature boxing')",negative,video8936.mp4
+899,0,"('television and movie', '')","('', 'feature television')","('book', '')","('book,', 'movie')",positive,video7027.mp4
+900,3,"('happiness', '')","('happiness,', 'old man')","('', 'feature bride')","('old man,', 'happiness')",hybrid,video8252.mp4
+901,1,"('cage', '')","('feeding,', 'cage')","('', 'feature monkey')","('cage,', 'feeding')",hybrid,video9657.mp4
+902,1,"('snow,', 'people')","('beach and people', '')","('snow', '')","('', 'feature beach')",positive,video9201.mp4
+903,0,"('', 'feature baking')","('baking,', 'makeup')","('baking', '')","('', 'feature woman talking')",negative,video8488.mp4
+904,0,"('', 'feature rapping')","('rapping', '')","('', 'feature singing')","('rapping,', 'judges')",negative,video8814.mp4
+905,3,"('', 'feature airplane')","('crashing,', 'flying')","('crashing', '')","('flying,', 'crashing')",hybrid,video7793.mp4
+906,1,"('', 'feature protest')","('interview,', 'basketball')","('basketball,', 'interview')","('basketball', '')",hybrid,video9205.mp4
+907,1,"('unrest,', 'celebration')","('football/soccer and celebration', '')","('', 'feature football/soccer')","('unrest', '')",positive,video9516.mp4
+908,1,"('happy', '')","('man,', 'happy')","('', 'feature old')","('happy,', 'man')",hybrid,video7704.mp4
+909,1,"('gossip,', 'steven spielberg')","('', 'feature gossip')","('', 'feature horse racing')","('gossip', '')",negative,video8329.mp4
+910,2,"('easter', '')","('', 'feature craft')","('craft and colourful', '')","('easter,', 'colourful')",positive,video7173.mp4
+911,1,"('', 'feature eating')","('eating and table', '')","('friendship,', 'table')","('friendship', '')",positive,video7436.mp4
+912,0,"('', 'feature music')","('', 'feature driving')","('music,', 'car')","('music', '')",negative,video7597.mp4
+913,0,"('girl,', 'ballet')","('ballet', '')","('ballet,', 'girl')","('', 'feature gymnastics')",hybrid,video9771.mp4
+914,0,"('light show and man', '')","('rainbow', '')","('', 'feature light show')","('rainbow,', 'man')",positive,video7732.mp4
+915,3,"('arguing,', 'scoring')","('', 'feature basketball')","('arguing', '')","('scoring,', 'arguing')",hybrid,video9013.mp4
+916,3,"('car', '')","('', 'feature tractor')","('car,', 'driving')","('driving,', 'car')",hybrid,video7649.mp4
+917,1,"('basketball,', 'playing')","('playing,', 'basketball')","('basketball', '')","('', 'feature video game')",hybrid,video7368.mp4
+918,1,"('swimming', '')","('race,', 'swimming')","('swimming,', 'race')","('', 'feature kayak')",hybrid,video8079.mp4
+919,1,"('frying', '')","('cooking,', 'frying')","('', 'feature prawns')","('frying,', 'cooking')",hybrid,video8489.mp4
+920,1,"('skiing', '')","('vine,', 'skiing')","('skiing,', 'vine')","('', 'feature sports')",hybrid,video9029.mp4
+921,3,"('', 'feature animation')","('fighting,', 'princess')","('fighting', '')","('animation and princess', '')",positive,video7164.mp4
+922,3,"('software', '')","('', 'feature computer')","('software,', 'circuitry')","('computer and circuitry', '')",positive,video7910.mp4
+923,2,"('pants', '')","('', 'feature fashion')","('blouse,', 'pants')","('pants,', 'blouse')",hybrid,video9250.mp4
+924,0,"('girl,', 'competition')","('competition,', 'girl')","('', 'feature horse')","('competition', '')",hybrid,video9577.mp4
+925,0,"('review,', 'none')","('', 'feature little mermaid')","('none', '')","('none,', 'review')",hybrid,video8794.mp4
+926,1,"('child neglect', '')","('discussing child birth,', 'child neglect')","('', 'feature woman')","('child neglect,', 'discussing child birth')",hybrid,video7341.mp4
+927,2,"('piano,', 'laptop')","('piano', '')","('laptop,', 'piano')","('', 'feature typing')",hybrid,video7916.mp4
+928,0,"('video game and driving', '')","('walking', '')","('walking,', 'driving')","('', 'feature video game')",positive,video9813.mp4
+929,0,"('animation,', 'fighting')","('fighting,', 'animation')","('fighting', '')","('', 'feature singing')",hybrid,video8446.mp4
+930,2,"('woman', '')","('', 'feature speech')","('', 'feature woman')","('woman,', 'man')",negative,video7833.mp4
+931,1,"('trumpet,', 'performing')","('band and performing', '')","('', 'feature band')","('trumpet', '')",positive,video7960.mp4
+932,1,"('dark forest', '')","('', 'feature dark forest')","('', 'feature beauty and the beast')","('dark forest,', 'singing')",negative,video8781.mp4
+933,3,"('basketball,', 'interview')","('basketball', '')","('', 'feature baseball')","('baseball and interview', '')",positive,video8308.mp4
+934,1,"('jimmy kimmel', '')","('', 'feature jimmy kimmel')","('', 'feature talking')","('jimmy kimmel,', 'kids')",negative,video9775.mp4
+935,0,"('', 'feature music')","('music,', 'talk show')","('', 'feature interview')","('music', '')",negative,video8813.mp4
+936,3,"('', 'feature women')","('men,', 'talking')","('men', '')","('talking,', 'men')",hybrid,video9353.mp4
+937,0,"('cutting,', 'welding')","('', 'feature machine')","('welding,', 'cutting')","('welding', '')",hybrid,video7963.mp4
+938,3,"('', 'feature spongebob')","('violence,', 'treehouse')","('violence', '')","('spongebob and treehouse', '')",positive,video7235.mp4
+939,1,"('basketball', '')","('game,', 'basketball')","('', 'feature football')","('basketball,', 'game')",hybrid,video9797.mp4
+940,2,"('fighting,', 'squid')","('', 'feature cooking together')","('squid,', 'fighting')","('fighting', '')",hybrid,video7939.mp4
+941,3,"('', 'feature cartoon')","('sleeping,', 'talking')","('sleeping', '')","('', 'feature sleeping')",negative,video9734.mp4
+942,0,"('news report,', 'illegal drug use')","('illegal drug use', '')","('illegal drug use,', 'news report')","('', 'feature marijuana legalization')",hybrid,video9028.mp4
+943,1,"('jazz,', 'performing')","('', 'feature jazz')","('', 'feature band')","('jazz', '')",negative,video8925.mp4
+944,0,"('', 'feature sports')","('sports,', 'music')","('sports', '')","('', 'feature news')",negative,video7377.mp4
+945,0,"('', 'feature sports')","('sports,', 'news report')","('sports', '')","('', 'feature news anchors')",negative,video8175.mp4
+946,2,"('', 'feature drumming')","('piano', '')","('drumming and biking', '')","('piano,', 'biking')",positive,video9489.mp4
+947,3,"('cone', '')","('', 'feature ice cream sandwich')","('cone,', 'eating')","('ice cream sandwich and eating', '')",positive,video9229.mp4
+948,1,"('batman,', 'comedy')","('', 'feature batman')","('', 'feature bane')","('batman', '')",negative,video8061.mp4
+949,3,"('cooking', '')","('cooking,', 'working out with babies')","('', 'feature woman')","('working out with babies,', 'cooking')",hybrid,video9037.mp4
+950,2,"('women,', 'conversation')","('', 'feature teammates')","('teammates and conversation', '')","('women', '')",positive,video9745.mp4
+951,1,"('', 'feature news')","('police,', 'kindness')","('kindness', '')","('kindness,', 'police')",hybrid,video8491.mp4
+952,0,"('', 'feature losing a video game')","('losing a video game', '')","('', 'feature playing video games')","('losing a video game,', 'watching a video game')",negative,video9909.mp4
+953,3,"('dog,', 'psychic')","('dog', '')","('', 'feature communication')","('', 'feature dog')",negative,video9780.mp4
+954,1,"('tennis', '')","('', 'feature tennis')","('tennis,', 'usa')","('', 'feature soccer')",negative,video9305.mp4
+955,1,"('', 'feature family')","('', 'feature lunch')","('lunch,', 'dinner')","('lunch', '')",negative,video8349.mp4
+956,3,"('dancing', '')","('dancing,', 'children')","('', 'feature singing')","('singing and children', '')",positive,video9515.mp4
+957,1,"('music', '')","('riding,', 'music')","('', 'feature bike')","('music,', 'riding')",hybrid,video8128.mp4
+958,1,"('cars', '')","('', 'feature cars')","('', 'feature block toys')","('cars,', 'opening')",negative,video8869.mp4
+959,1,"('audio settings', '')","('', 'feature audio settings')","('', 'feature user interface')","('audio settings,', 'graphics')",negative,video9549.mp4
+960,1,"('violence,', 'help')","('', 'feature violence')","('', 'feature bed')","('violence', '')",negative,video9750.mp4
+961,2,"('', 'feature speaking')","('slideshow', '')","('presentation,', 'slideshow')","('slideshow,', 'presentation')",hybrid,video9117.mp4
+962,1,"('headbutts', '')","('', 'feature headbutts')","('headbutts,', 'drink')","('', 'feature pouring')",negative,video7726.mp4
+963,0,"('students,', 'violence')","('violence', '')","('', 'feature group')","('violence,', 'students')",hybrid,video7345.mp4
+964,0,"('fight,', 'peace')","('peace', '')","('', 'feature sword')","('peace,', 'fight')",hybrid,video7352.mp4
+965,3,"('', 'feature wrestling')","('boxing,', 'championships')","('boxing', '')","('championships,', 'boxing')",hybrid,video7788.mp4
+966,3,"('accident', '')","('', 'feature cars')","('accident,', 'car review')","('car review,', 'accident')",hybrid,video8819.mp4
+967,0,"('', 'feature sharks')","('', 'feature beach')","('sharks', '')","('sharks,', 'waves')",negative,video9359.mp4
+968,0,"('soccer and goals', '')","('', 'feature soccer')","('basketball,', 'goals')","('basketball', '')",positive,video9817.mp4
+969,0,"('adam,', 'nasa')","('nasa', '')","('', 'feature spaceflight')","('nasa,', 'adam')",hybrid,video7176.mp4
+970,3,"('', 'feature domestic violence discussion')","('physical violence,', 'interview')","('physical violence', '')","('domestic violence discussion and interview', '')",positive,video7753.mp4
+971,0,"('hot dogs and men', '')","('hamburgers,', 'men')","('hamburgers', '')","('', 'feature hot dogs')",positive,video9327.mp4
+972,0,"('in bed together,', 'violence')","('', 'feature two women')","('violence', '')","('violence,', 'in bed together')",hybrid,video8790.mp4
+973,1,"('', 'feature girl')","('girl and talking', '')","('singing,', 'talking')","('singing', '')",positive,video8496.mp4
+974,3,"('golf,', 'dunk')","('golf', '')","('', 'feature basketball')","('', 'feature golf')",negative,video7763.mp4
+975,2,"('', 'feature running')","('dress,', 'beach')","('', 'feature dress')","('dress', '')",negative,video7025.mp4
+976,3,"('sunshine', '')","('', 'feature rain')","('sunshine,', 'umbrella')","('rain and umbrella', '')",positive,video8851.mp4
+977,3,"('english', '')","('english,', 'indian')","('', 'feature talking')","('indian,', 'english')",hybrid,video8317.mp4
+978,1,"('', 'feature mtv')","('', 'feature music')","('music,', 'astronaut')","('music', '')",negative,video8069.mp4
+979,2,"('dancing', '')","('dancing,', 'singing')","('singing,', 'dancing')","('', 'feature speaking')",hybrid,video8792.mp4
+980,2,"('', 'feature singing')","('guitar', '')","('', 'feature guitar')","('guitar,', 'dancers')",negative,video8073.mp4
+981,2,"('', 'feature movie')","('woman,', 'man')","('movie and man', '')","('woman', '')",positive,video8075.mp4
+982,0,"('', 'feature hell')","('', 'feature woman')","('hell,', 'book')","('hell', '')",negative,video8789.mp4
+983,0,"('chopping and onion', '')","('', 'feature chopping')","('baking', '')","('baking,', 'onion')",positive,video9684.mp4
+984,3,"('dancing', '')","('dancing,', 'singing')","('', 'feature judge')","('judge and singing', '')",positive,video7733.mp4
+985,3,"('woman', '')","('woman,', 'talking')","('', 'feature man')","('', 'feature woman')",negative,video7838.mp4
+986,0,"('video game and lego', '')","('', 'feature video game')","('violent', '')","('violent,', 'lego')",positive,video8010.mp4
+987,3,"('dancing', '')","('dancing,', 'children')","('', 'feature singing')","('children,', 'dancing')",hybrid,video7791.mp4
+988,1,"('men', '')","('', 'feature men')","('', 'feature asian culture')","('men,', 'dancing')",negative,video8118.mp4
+989,2,"('swimming,', 'tea party')","('swimming', '')","('dogs and tea party', '')","('', 'feature dogs')",positive,video8604.mp4
+990,3,"('', 'feature bicycle')","('appropriate clothing,', 'woman')","('appropriate clothing', '')","('', 'feature appropriate clothing')",negative,video8322.mp4
+991,0,"('', 'feature yoga')","('yoga', '')","('', 'feature interview')","('yoga,', 'woman')",negative,video7231.mp4
+992,1,"('', 'feature woman')","('aliens,', 'men')","('men,', 'aliens')","('men', '')",hybrid,video7580.mp4
+993,1,"('potatoes,', 'broccoli')","('broccoli,', 'potatoes')","('', 'feature garlic')","('potatoes', '')",hybrid,video7968.mp4
+994,3,"('reading,', 'dancing')","('', 'feature music')","('reading', '')","('dancing,', 'reading')",hybrid,video8605.mp4
+995,0,"('dj and car', '')","('fighting', '')","('fighting,', 'car')","('', 'feature dj')",positive,video7969.mp4
+996,0,"('', 'feature bicycle')","('', 'feature car')","('bicycle,', 'driving')","('bicycle', '')",negative,video9806.mp4
+997,3,"('', 'feature cooking')","('salad', '')","('salad,', 'duck')","('cooking and duck', '')",positive,video8057.mp4
+998,1,"('grilling,', 'lasagna')","('', 'feature grilling')","('grilling', '')","('', 'feature cooking')",negative,video7213.mp4
+999,1,"('', 'feature walking')","('', 'feature running')","('running', '')","('running,', 'mall')",negative,video8831.mp4
