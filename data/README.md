@@ -11,7 +11,7 @@ This directory contains the necessary `.csv` files for the experiments. To fully
 > Place the downloaded files in the corresponding folders as shown in the directory structure below.
 
 ## 📂 Directory Structure
-'''
+```
   data
   ├── images # Provided
   ├── videos # Provided
@@ -33,4 +33,4 @@ This directory contains the necessary `.csv` files for the experiments. To fully
   ├── video7010.mp4
   ├── video7011.mp4
   └── ...
-'''
+```
