@@ -8,7 +8,11 @@ This repository contains the code accompanying the paper **"Vision-Language Mode
 
 ### `./data`
 - Contains the datasets required to run the scripts.  
-- Please refer to the `README.md` file in the `./data` directory for instructions on downloading the necessary datasets.  
+- Please refer to the `README.md` file in the `./data` directory for instructions on downloading the necessary datasets.
+
+### `./data`
+- Contains the baseline models required to run the scripts.  
+- Please refer to the `README.md` file in the `./model` directory for instructions on downloading the necessary models.  
 
 ### `./Retrieval`
 - Contains code for running the **Retrieval** experiments described in the paper.  
