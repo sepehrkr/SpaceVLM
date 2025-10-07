@@ -55,5 +55,4 @@ python Retrieval/space_idea_retrieval_LLM.py \
     --clip_backbone ViT-B/32 \
     --llm_finetuned_path mistral-7B-sft-Negation/checkpoint-426
 ```
-**Project:** Retrieval Benchmarking with LLM-Augmented CLIP Models  
-**License:** MIT License
+> 💡 **Note:** The `--threshold` value (default `0.92`) should be cross-validated for optimal performance.
