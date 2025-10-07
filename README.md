@@ -27,4 +27,4 @@ This repository contains the code accompanying the paper **"Vision-Language Mode
     - Output: *("A photo of a dog", "A photo of grass")*  
 - To run the script, use the following command:  
   ```bash
-  accelerate launch --model_name mistralai/Mistral-7B-Instruct-v0.1
+  accelerate launch finetuning_negation_LLM.py --model_name mistralai/Mistral-7B-Instruct-v0.1
