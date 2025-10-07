@@ -38,6 +38,3 @@ A Jupyter notebook for generating and evaluating our proposed approach compared 
   year={2025}
 }
 ```
--
-
-*
