@@ -1,0 +1,537 @@
+[
+    {
+        "Prompt": "a man not wearing a hat",
+        "Question1": "Is this a man?",
+        "Question2": "Is the man wearing a hat?"
+    },
+    {
+        "Prompt": "a woman not wearing a mask",
+        "Question1": "Is this a woman?",
+        "Question2": "Is the woman wearing a mask?"
+    },
+    {
+        "Prompt": "a dog not running",
+        "Question1": "Is this a dog?",
+        "Question2": "Is the dog running?"
+    },
+    {
+        "Prompt": "a bird not flying",
+        "Question1": "Is this a bird?",
+        "Question2": "Is the bird flying?"
+    },
+    {
+        "Prompt": "a not white cat",
+        "Question1": "Is this a cat?",
+        "Question2": "Is the cat white?"
+    },
+    {
+        "Prompt": "a not blue sphere",
+        "Question1": "Is this a sphere?",
+        "Question2": "Is the sphere blue?"
+    },
+    {
+        "Prompt": "a room with no window",
+        "Question1": "Is this a room?",
+        "Question2": "Is there a window in the room?"
+    },
+    {
+        "Prompt": "a dog without a collar",
+        "Question1": "Is this a dog?",
+        "Question2": "Does the dog have a collar?"
+    },
+    {
+        "Prompt": "a cat with no whiskers",
+        "Question1": "Is this a cat?",
+        "Question2": "Does the cat have whiskers?"
+    },
+    {
+        "Prompt": "a child not holding a toy",
+        "Question1": "Is this a child?",
+        "Question2": "Is the child holding a toy?"
+    },
+    {
+        "Prompt": "a park with no benches",
+        "Question1": "Is this a park?",
+        "Question2": "Are there benches in the park?"
+    },
+    {
+        "Prompt": "a bird not perched on a branch",
+        "Question1": "Is this a bird?",
+        "Question2": "Is the bird perched on a branch?"
+    },
+    {
+        "Prompt": "a woman without glasses",
+        "Question1": "Is this a woman?",
+        "Question2": "Is the woman wearing glasses?"
+    },
+    {
+        "Prompt": "a table with no chairs around",
+        "Question1": "Is this a table?",
+        "Question2": "Are there chairs around the table?"
+    },
+    {
+        "Prompt": "a car not parked in the driveway",
+        "Question1": "Is this a car?",
+        "Question2": "Is the car parked in the driveway?"
+    },
+    {
+        "Prompt": "a beach without any umbrellas",
+        "Question1": "Is this a beach?",
+        "Question2": "Are there umbrellas on the beach?"
+    },
+    {
+        "Prompt": "a man with no hat",
+        "Question1": "Is this a man?",
+        "Question2": "Is the man wearing a hat?"
+    },
+    {
+        "Prompt": "a road not crowded with cars",
+        "Question1": "Is this a road?",
+        "Question2": "Is the road crowded with cars?"
+    },
+    {
+        "Prompt": "a garden with no flowers",
+        "Question1": "Is this a garden?",
+        "Question2": "Are there flowers in the garden?"
+    },
+    {
+        "Prompt": "a person not holding an umbrella",
+        "Question1": "Is this a person?",
+        "Question2": "Is the person holding an umbrella?"
+    },
+    {
+        "Prompt": "a lake with no boats",
+        "Question1": "Is this a lake?",
+        "Question2": "Are there boats on the lake?"
+    },
+    {
+        "Prompt": "a house without a roof",
+        "Question1": "Is this a house?",
+        "Question2": "Does the house have a roof?"
+    },
+    {
+        "Prompt": "a tree not in bloom",
+        "Question1": "Is this a tree?",
+        "Question2": "Is the tree in bloom?"
+    },
+    {
+        "Prompt": "a mountain with no snow",
+        "Question1": "Is this a mountain?",
+        "Question2": "Is there snow on the mountain?"
+    },
+    {
+        "Prompt": "a room without furniture",
+        "Question1": "Is this a room?",
+        "Question2": "Is there furniture in the room?"
+    },
+    {
+        "Prompt": "a dog not barking",
+        "Question1": "Is this a dog?",
+        "Question2": "Is the dog barking?"
+    },
+    {
+        "Prompt": "a street with no people",
+        "Question1": "Is this a street?",
+        "Question2": "Are there people on the street?"
+    },
+    {
+        "Prompt": "a kitchen without any food",
+        "Question1": "Is this a kitchen?",
+        "Question2": "Is there food in the kitchen?"
+    },
+    {
+        "Prompt": "a cup not filled with coffee",
+        "Question1": "Is this a cup?",
+        "Question2": "Is the cup filled with coffee?"
+    },
+    {
+        "Prompt": "a forest with no animals",
+        "Question1": "Is this a forest?",
+        "Question2": "Are there animals in the forest?"
+    },
+    {
+        "Prompt": "a phone not on the table",
+        "Question1": "Is this a phone?",
+        "Question2": "Is the phone on the table?"
+    },
+    {
+        "Prompt": "a desk without a computer",
+        "Question1": "Is this a desk?",
+        "Question2": "Is there a computer on the desk?"
+    },
+    {
+        "Prompt": "a man not wearing shoes",
+        "Question1": "Is this a man?",
+        "Question2": "Is the man wearing shoes?"
+    },
+    {
+        "Prompt": "a restaurant with no tables",
+        "Question1": "Is this a restaurant?",
+        "Question2": "Are there tables in the restaurant?"
+    },
+    {
+        "Prompt": "a city skyline with no skyscrapers",
+        "Question1": "Is this a city skyline?",
+        "Question2": "Are there skyscrapers in the city skyline?"
+    },
+    {
+        "Prompt": "a field without crops",
+        "Question1": "Is this a field?",
+        "Question2": "Are there crops in the field?"
+    },
+    {
+        "Prompt": "a woman not smiling",
+        "Question1": "Is this a woman?",
+        "Question2": "Is the woman smiling?"
+    },
+    {
+        "Prompt": "a living room with no couch",
+        "Question1": "Is this a living room?",
+        "Question2": "Is there a couch in the living room?"
+    },
+    {
+        "Prompt": "a car without wheels",
+        "Question1": "Is this a car?",
+        "Question2": "Does the car have wheels?"
+    },
+    {
+        "Prompt": "a stadium with no spectators",
+        "Question1": "Is this a stadium?",
+        "Question2": "Are there spectators in the stadium?"
+    },
+    {
+        "Prompt": "a road with no signs",
+        "Question1": "Is this a road?",
+        "Question2": "Are there signs on the road?"
+    },
+    {
+        "Prompt": "a child not wearing shoes",
+        "Question1": "Is this a child?",
+        "Question2": "Is the child wearing shoes?"
+    },
+    {
+        "Prompt": "a bridge without railings",
+        "Question1": "Is this a bridge?",
+        "Question2": "Does the bridge have railings?"
+    },
+    {
+        "Prompt": "a river with no fish",
+        "Question1": "Is this a river?",
+        "Question2": "Are there fish in the river?"
+    },
+    {
+        "Prompt": "a sky without clouds",
+        "Question1": "Is this a sky?",
+        "Question2": "Are there clouds in the sky?"
+    },
+    {
+        "Prompt": "a cup with no handle",
+        "Question1": "Is this a cup?",
+        "Question2": "Does the cup have a handle?"
+    },
+    {
+        "Prompt": "a playground with no swings",
+        "Question1": "Is this a playground?",
+        "Question2": "Are there swings in the playground?"
+    },
+    {
+        "Prompt": "a man not wearing a tie",
+        "Question1": "Is this a man?",
+        "Question2": "Is the man wearing a tie?"
+    },
+    {
+        "Prompt": "a building without windows",
+        "Question1": "Is this a building?",
+        "Question2": "Does the building have windows?"
+    },
+    {
+        "Prompt": "a book with no cover",
+        "Question1": "Is this a book?",
+        "Question2": "Does the book have a cover?"
+    },
+    {
+        "Prompt": "a shop with no customers",
+        "Question1": "Is this a shop?",
+        "Question2": "Are there customers in the shop?"
+    },
+    {
+        "Prompt": "a garden without any trees",
+        "Question1": "Is this a garden?",
+        "Question2": "Are there trees in the garden?"
+    },
+    {
+        "Prompt": "a bike not leaning against a wall",
+        "Question1": "Is this a bike?",
+        "Question2": "Is the bike leaning against a wall?"
+    },
+    {
+        "Prompt": "a stage with no performers",
+        "Question1": "Is this a stage?",
+        "Question2": "Are there performers on the stage?"
+    },
+    {
+        "Prompt": "a train station with no trains",
+        "Question1": "Is this a train station?",
+        "Question2": "Are there trains at the train station?"
+    },
+    {
+        "Prompt": "a museum without exhibits",
+        "Question1": "Is this a museum?",
+        "Question2": "Are there exhibits in the museum?"
+    },
+    {
+        "Prompt": "a shelf with no books",
+        "Question1": "Is this a shelf?",
+        "Question2": "Are there books on the shelf?"
+    },
+    {
+        "Prompt": "a restaurant not serving food",
+        "Question1": "Is this a restaurant?",
+        "Question2": "Is the restaurant serving food?"
+    },
+    {
+        "Prompt": "a person with no backpack",
+        "Question1": "Is this a person?",
+        "Question2": "Does the person have a backpack?"
+    },
+    {
+        "Prompt": "a market without any vendors",
+        "Question1": "Is this a market?",
+        "Question2": "Are there vendors in the market?"
+    },
+    {
+        "Prompt": "a room not filled with light",
+        "Question1": "Is this a room?",
+        "Question2": "Is the room filled with light?"
+    },
+    {
+        "Prompt": "a path with no signs",
+        "Question1": "Is this a path?",
+        "Question2": "Are there signs on the path?"
+    },
+    {
+        "Prompt": "a school without students",
+        "Question1": "Is this a school?",
+        "Question2": "Are there students in the school?"
+    },
+    {
+        "Prompt": "a car with no headlights",
+        "Question1": "Is this a car?",
+        "Question2": "Does the car have headlights?"
+    },
+    {
+        "Prompt": "a cat without a tail",
+        "Question1": "Is this a cat?",
+        "Question2": "Does the cat have a tail?"
+    },
+    {
+        "Prompt": "a person not holding a bag",
+        "Question1": "Is this a person?",
+        "Question2": "Is the person holding a bag?"
+    },
+    {
+        "Prompt": "a forest with no leaves",
+        "Question1": "Is this a forest?",
+        "Question2": "Are there leaves in the forest?"
+    },
+    {
+        "Prompt": "a house with no doors",
+        "Question1": "Is this a house?",
+        "Question2": "Does the house have doors?"
+    },
+    {
+        "Prompt": "a chair not facing the table",
+        "Question1": "Is this a chair?",
+        "Question2": "Is the chair facing the table?"
+    },
+    {
+        "Prompt": "a bird not singing",
+        "Question1": "Is this a bird?",
+        "Question2": "Is the bird singing?"
+    },
+    {
+        "Prompt": "a beach without sand",
+        "Question1": "Is this a beach?",
+        "Question2": "Is there sand on the beach?"
+    },
+    {
+        "Prompt": "a dog not playing fetch",
+        "Question1": "Is this a dog?",
+        "Question2": "Is the dog playing fetch?"
+    },
+    {
+        "Prompt": "a wall with no decorations",
+        "Question1": "Is this a wall?",
+        "Question2": "Are there decorations on the wall?"
+    },
+    {
+        "Prompt": "a sidewalk with no pedestrians",
+        "Question1": "Is this a sidewalk?",
+        "Question2": "Are there pedestrians on the sidewalk?"
+    },
+    {
+        "Prompt": "a man not reading a book",
+        "Question1": "Is this a man?",
+        "Question2": "Is the man reading a book?"
+    },
+    {
+        "Prompt": "a classroom with no desks",
+        "Question1": "Is this a classroom?",
+        "Question2": "Are there desks in the classroom?"
+    },
+    {
+        "Prompt": "a street with no lights",
+        "Question1": "Is this a street?",
+        "Question2": "Are there lights on the street?"
+    },
+    {
+        "Prompt": "a yard without grass",
+        "Question1": "Is this a yard?",
+        "Question2": "Is there grass in the yard?"
+    },
+    {
+        "Prompt": "a riverbank with no trees",
+        "Question1": "Is this a riverbank?",
+        "Question2": "Are there trees on the riverbank?"
+    },
+    {
+        "Prompt": "a cat not purring",
+        "Question1": "Is this a cat?",
+        "Question2": "Is the cat purring?"
+    },
+    {
+        "Prompt": "a boat with no sails",
+        "Question1": "Is this a boat?",
+        "Question2": "Does the boat have sails?"
+    },
+    {
+        "Prompt": "a woman not holding a purse",
+        "Question1": "Is this a woman?",
+        "Question2": "Is the woman holding a purse?"
+    },
+    {
+        "Prompt": "a stadium with no players",
+        "Question1": "Is this a stadium?",
+        "Question2": "Are there players in the stadium?"
+    },
+    {
+        "Prompt": "a sky with no stars",
+        "Question1": "Is this a sky?",
+        "Question2": "Are there stars in the sky?"
+    },
+    {
+        "Prompt": "a store without shelves",
+        "Question1": "Is this a store?",
+        "Question2": "Are there shelves in the store?"
+    },
+    {
+        "Prompt": "a man not holding a briefcase",
+        "Question1": "Is this a man?",
+        "Question2": "Is the man holding a briefcase?"
+    },
+    {
+        "Prompt": "a city without buildings",
+        "Question1": "Is this a city?",
+        "Question2": "Are there buildings in the city?"
+    },
+    {
+        "Prompt": "a painting without colors",
+        "Question1": "Is this a painting?",
+        "Question2": "Does the painting have colors?"
+    },
+    {
+        "Prompt": "a road without any turns",
+        "Question1": "Is this a road?",
+        "Question2": "Are there turns on the road?"
+    },
+    {
+        "Prompt": "a lawn with no flowers",
+        "Question1": "Is this a lawn?",
+        "Question2": "Are there flowers on the lawn?"
+    },
+    {
+        "Prompt": "a dog not fetching a ball",
+        "Question1": "Is this a dog?",
+        "Question2": "Is the dog fetching a ball?"
+    },
+    {
+        "Prompt": "a bridge without any lights",
+        "Question1": "Is this a bridge?",
+        "Question2": "Are there lights on the bridge?"
+    },
+    {
+        "Prompt": "a car with no passengers",
+        "Question1": "Is this a car?",
+        "Question2": "Are there passengers in the car?"
+    },
+    {
+        "Prompt": "a garden with no vegetables",
+        "Question1": "Is this a garden?",
+        "Question2": "Are there vegetables in the garden?"
+    },
+    {
+        "Prompt": "a child not drinking milk",
+        "Question1": "Is this a child?",
+        "Question2": "Is the child drinking milk?"
+    },
+    {
+        "Prompt": "a person without a shadow",
+        "Question1": "Is this a person?",
+        "Question2": "Does the person have a shadow?"
+    },
+    {
+        "Prompt": "a tree with no leaves",
+        "Question1": "Is this a tree?",
+        "Question2": "Does the tree have leaves?"
+    },
+    {
+        "Prompt": "a bus stop without a bench",
+        "Question1": "Is this a bus stop?",
+        "Question2": "Is there a bench at the bus stop?"
+    },
+    {
+        "Prompt": "a train without passengers",
+        "Question1": "Is this a train?",
+        "Question2": "Are there passengers on the train?"
+    },
+    {
+        "Prompt": "a cafe with no tables",
+        "Question1": "Is this a cafe?",
+        "Question2": "Are there tables in the cafe?"
+    },
+    {
+        "Prompt": "a photo with no people",
+        "Question1": "Is this a photo?",
+        "Question2": "Are there people in the photo?"
+    },
+    {
+        "Prompt": "a street without any trees",
+        "Question1": "Is this a street?",
+        "Question2": "Are there trees on the street?"
+    },
+    {
+        "Prompt": "a river not flowing",
+        "Question1": "Is this a river?",
+        "Question2": "Is the river flowing?"
+    },
+    {
+        "Prompt": "a mountain with no trails",
+        "Question1": "Is this a mountain?",
+        "Question2": "Are there trails on the mountain?"
+    },
+    {
+        "Prompt": "a path without any footprints",
+        "Question1": "Is this a path?",
+        "Question2": "Are there footprints on the path?"
+    },
+    {
+        "Prompt": "a field with no animals",
+        "Question1": "Is this a field?",
+        "Question2": "Are there animals in the field?"
+    },
+    {
+        "Prompt": "a building with no entrance",
+        "Question1": "Is this a building?",
+        "Question2": "Is there an entrance to the building?"
+    }
+]
