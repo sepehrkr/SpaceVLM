@@ -42,7 +42,7 @@ All the above model checkpoints can be downloaded from the following Google Driv
 🔗 [Google Drive Link](https://drive.google.com/drive/folders/1kSEq0mkV1t1T8GuOAM65iz_iAA7e5gxB?usp=sharing)
 
 After downloading, place the model files in the directory structure below:
-
+```
 models/
 ├── ConCLIP/
 │ └── conclip_b32_openclip_version.pt
@@ -52,3 +52,4 @@ models/
 │ └── checkpoint.pt
 ├── NegCLIP_CC12M_NegFull/
 │ └── checkpoint.pt
+```
