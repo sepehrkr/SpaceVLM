@@ -272,7 +272,7 @@ def video_retreival_evaluation(model, llm, llm_tokenizer, dataLoader, device, th
 def main():
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("--project_root", type=str, default='/home/amirhossein.hajimohammadrezaie/ECOR_extended/Negation')
+    parser.add_argument("--project_root", type=str, default='./Negation')
     parser.add_argument("--dataset", type=str, default='coco', choices=['coco', 'voc2007', 'msr_vtt'])
     parser.add_argument("--batch_size", type=int, default=16)
     parser.add_argument("--threshold", type=float, default=0.92, help="Usually, best threhsold is determined by cross validating in range [0.9, 0.95]")
