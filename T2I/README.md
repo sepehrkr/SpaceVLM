@@ -7,7 +7,14 @@ This directory contains the datasets and scripts required to perform the **Text-
 ## 📂 `prompts_with_questions.json`  [[Park et al., 2025]](#reference)
 
 **Description:**  
-Contains a collection of prompts and their corresponding questions used to evaluate model performance in generating **affirmative** and **negative** objects.
+Contains a collection of prompts and their corresponding questions used to evaluate model performance in generating **affirmative** and excluding **negative** objects.
+
+---
+
+## 📂 `prompts_with_questions_multiple_neagation.json` [created by us]
+
+**Description:**  
+Contains a collection of prompts and their corresponding questions used to evaluate model performance in a multi-negation setup for generating **affirmative** and excluding **negative** objects.
 
 ---
 
