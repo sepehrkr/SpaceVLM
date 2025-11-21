@@ -1,6 +1,6 @@
 # Text-to-Image (T2I) Task Documentation
 
-This directory contains the datasets and scripts required to perform the **Text-to-Image (T2I)** task.
+This directory contains the datasets and scripts required to perform the **Text-to-Image (T2I)** task. Please clone the GALIP repo (https://github.com/tobran/GALIP).
 
 ---
 
