@@ -195,7 +195,7 @@ def video_retreival_evaluation(model, dataLoader, device) :
 def main():
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("--project_root", type=str, default='/home/amirhossein.hajimohammadrezaie/ECOR_extended/Negation')
+    parser.add_argument("--project_root", type=str, default='./Negation')
     parser.add_argument("--dataset", type=str, default='coco', choices=['coco', 'voc2007', 'msr_vtt'])
     parser.add_argument("--batch_size", type=int, default=16)
     parser.add_argument("--pretrained_model", type=str, default='clip', choices=['clip', 'clip_negfull', 'con_clip', 'neg_clip', 'neg_clip_negfull'])
