@@ -279,7 +279,7 @@ def video_retreival_evaluation(model, dataLoader, len_dataLoader, device, thresh
 def main():
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("--project_root", type=str, default='.')
+    parser.add_argument("--project_root", type=str, default='./Negation')
     parser.add_argument("--dataset", type=str, default='coco', choices=['coco', 'msr_vtt'])
     parser.add_argument("--batch_size", type=int, default=16)
     parser.add_argument("--threshold", type=float, default=0.92, help="Usually, best threhsold is determined by cross validating in range [0.9, 0.95]")
