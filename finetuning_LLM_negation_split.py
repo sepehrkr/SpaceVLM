@@ -88,7 +88,7 @@ def main():
     
     parser = argparse.ArgumentParser()  
 
-    parser.add_argument("--root", type=str, default='/home/amirhossein.hajimohammadrezaie/ECOR_extended/Negation')
+    parser.add_argument("--root", type=str, default='./Negation')
     parser.add_argument("--repharased_MCQ_csv_path", type=str, default='data/images/VOC2007_mcq_llama3.1_rephrased.csv')
     parser.add_argument("--templated_MCQ_csv_path", type=str, default='data/images/VOC2007_mcq.csv')
     parser.add_argument("--repharased_Retreival_csv_path", type=str, default='data/images/COCO_val_negated_retrieval_llama3.1_rephrased_affneg_true.csv')
