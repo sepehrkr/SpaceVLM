@@ -257,13 +257,12 @@ def video_retreival_evaluation(model, dataLoader, device, threshold=0.9):
 def main():
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("--project_root", type=str, default='/home/amirhossein.hajimohammadrezaie/ECOR_extended/Negation')
+    parser.add_argument("--project_root", type=str, default='./Negation')
     parser.add_argument("--dataset", type=str, default='coco', choices=['coco', 'voc2007', 'msr_vtt'])
     parser.add_argument("--batch_size", type=int, default=16)
     parser.add_argument("--threshold", type=float, default=0.92, help="Usually, best threhsold is determined by cross validating in range [0.9, 0.95]")
     parser.add_argument("--pretrained_model", type=str, default='clip', choices=['clip', 'clip_negfull', 'con_clip', 'neg_clip', 'neg_clip_negfull'])
     parser.add_argument("--clip_backbone", type=str, default='ViT-B/32', choices=["ViT-B/32", "ViT-B/16", "ViT-L/14"])
-    parser.add_argument("--llm_finetuned_path", type=str, default='mistral-7B-sft-Negation/checkpoint-426')
     
     args = parser.parse_args()
 
