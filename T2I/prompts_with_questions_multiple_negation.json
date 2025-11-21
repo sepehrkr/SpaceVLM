@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "full_prompt": "A photo of a man without a hat, glasses, or tie.",
+    "affirmative_prompt": "A man.",
+    "negative_prompts": ["hat", "glasses", "tie"],
+    "Question1": "Is this a man?",
+    "Question2": [
+      "Does the image contain a hat?",
+      "Does the image contain glasses?",
+      "Does the image contain a tie?"
+    ]
+  },
+  {
+    "id": 2,
+    "full_prompt": "A photo of a woman without earrings, a necklace, or makeup.",
+    "affirmative_prompt": "A woman.",
+    "negative_prompts": ["earrings", "necklace", "makeup"],
+    "Question1": "Is this a woman?",
+    "Question2": [
+      "Does the image contain earrings?",
+      "Does the image contain a necklace?",
+      "Does the image contain makeup?"
+    ]
+  },
+  {
+    "id": 3,
+    "full_prompt": "A photo of a child without shoes, socks, or a backpack.",
+    "affirmative_prompt": "A child.",
+    "negative_prompts": ["shoes", "socks", "backpack"],
+    "Question1": "Is this a child?",
+    "Question2": [
+      "Does the image contain shoes?",
+      "Does the image contain socks?",
+      "Does the image contain a backpack?"
+    ]
+  },
+  {
+    "id": 4,
+    "full_prompt": "A photo of a doctor without a stethoscope, white coat, or ID badge.",
+    "affirmative_prompt": "A doctor.",
+    "negative_prompts": ["stethoscope", "white coat", "ID badge"],
+    "Question1": "Is this a doctor?",
+    "Question2": [
+      "Does the image contain a stethoscope?",
+      "Does the image contain a white coat?",
+      "Does the image contain an ID badge?"
+    ]
+  },
+  {
+    "id": 5,
+    "full_prompt": "A photo of a chef without a chef hat, apron, or cooking utensils.",
+    "affirmative_prompt": "A chef.",
+    "negative_prompts": ["chef hat", "apron", "cooking utensils"],
+    "Question1": "Is this a chef?",
+    "Question2": [
+      "Does the image contain a chef hat?",
+      "Does the image contain an apron?",
+      "Does the image contain cooking utensils?"
+    ]
+  },
+  {
+    "id": 6,
+    "full_prompt": "A photo of a firefighter without a helmet, jacket, or boots.",
+    "affirmative_prompt": "A firefighter.",
+    "negative_prompts": ["helmet", "jacket", "boots"],
+    "Question1": "Is this a firefighter?",
+    "Question2": [
+      "Does the image contain a helmet?",
+      "Does the image contain a jacket?",
+      "Does the image contain boots?"
+    ]
+  },
+  {
+    "id": 7,
+    "full_prompt": "A photo of a cyclist without a helmet, gloves, or sunglasses.",
+    "affirmative_prompt": "A cyclist.",
+    "negative_prompts": ["helmet", "gloves", "sunglasses"],
+    "Question1": "Is this a cyclist?",
+    "Question2": [
+      "Does the image contain a helmet?",
+      "Does the image contain gloves?",
+      "Does the image contain sunglasses?"
+    ]
+  },
+  {
+    "id": 8,
+    "full_prompt": "A photo of a runner without running shoes, a sports watch, or headphones.",
+    "affirmative_prompt": "A runner.",
+    "negative_prompts": ["running shoes", "sports watch", "headphones"],
+    "Question1": "Is this a runner?",
+    "Question2": [
+      "Does the image contain running shoes?",
+      "Does the image contain a sports watch?",
+      "Does the image contain headphones?"
+    ]
+  },
+  {
+    "id": 9,
+    "full_prompt": "A photo of a student without a backpack, notebook, or laptop.",
+    "affirmative_prompt": "A student.",
+    "negative_prompts": ["backpack", "notebook", "laptop"],
+    "Question1": "Is this a student?",
+    "Question2": [
+      "Does the image contain a backpack?",
+      "Does the image contain a notebook?",
+      "Does the image contain a laptop?"
+    ]
+  },
+  {
+    "id": 10,
+    "full_prompt": "A photo of a bride without a wedding dress, veil, or bouquet.",
+    "affirmative_prompt": "A bride.",
+    "negative_prompts": ["wedding dress", "veil", "bouquet"],
+    "Question1": "Is this a bride?",
+    "Question2": [
+      "Does the image contain a wedding dress?",
+      "Does the image contain a veil?",
+      "Does the image contain a bouquet?"
+    ]
+  },
+  {
+    "id": 11,
+    "full_prompt": "A photo of a dog without a collar, leash, or owner nearby.",
+    "affirmative_prompt": "A dog.",
+    "negative_prompts": ["collar", "leash", "owner"],
+    "Question1": "Is this a dog?",
+    "Question2": [
+      "Does the image contain a collar?",
+      "Does the image contain a leash?",
+      "Does the image contain an owner?"
+    ]
+  },
+  {
+    "id": 12,
+    "full_prompt": "A photo of a cat without a collar, toys, or scratching post.",
+    "affirmative_prompt": "A cat.",
+    "negative_prompts": ["collar", "toys", "scratching post"],
+    "Question1": "Is this a cat?",
+    "Question2": [
+      "Does the image contain a collar?",
+      "Does the image contain toys?",
+      "Does the image contain a scratching post?"
+    ]
+  },
+  {
+    "id": 13,
+    "full_prompt": "A photo of a horse without a saddle, bridle, or rider.",
+    "affirmative_prompt": "A horse.",
+    "negative_prompts": ["saddle", "bridle", "rider"],
+    "Question1": "Is this a horse?",
+    "Question2": [
+      "Does the image contain a saddle?",
+      "Does the image contain a bridle?",
+      "Does the image contain a rider?"
+    ]
+  },
+  {
+    "id": 14,
+    "full_prompt": "A photo of a cow without spots, horns, or a barn.",
+    "affirmative_prompt": "A cow.",
+    "negative_prompts": ["spots", "horns", "barn"],
+    "Question1": "Is this a cow?",
+    "Question2": [
+      "Does the image contain spots?",
+      "Does the image contain horns?",
+      "Does the image contain a barn?"
+    ]
+  },
+  {
+    "id": 15,
+    "full_prompt": "A photo of a bird without a cage, perch, or food bowl.",
+    "affirmative_prompt": "A bird.",
+    "negative_prompts": ["cage", "perch", "food bowl"],
+    "Question1": "Is this a bird?",
+    "Question2": [
+      "Does the image contain a cage?",
+      "Does the image contain a perch?",
+      "Does the image contain a food bowl?"
+    ]
+  },
+  {
+    "id": 16,
+    "full_prompt": "A photo of a fish without an aquarium, water plants, or bubbles.",
+    "affirmative_prompt": "A fish.",
+    "negative_prompts": ["aquarium", "water plants", "bubbles"],
+    "Question1": "Is this a fish?",
+    "Question2": [
+      "Does the image contain an aquarium?",
+      "Does the image contain water plants?",
+      "Does the image contain bubbles?"
+    ]
+  },
+  {
+    "id": 17,
+    "full_prompt": "A photo of an elephant without tusks, a chain, or a handler.",
+    "affirmative_prompt": "An elephant.",
+    "negative_prompts": ["tusks", "chain", "handler"],
+    "Question1": "Is this an elephant?",
+    "Question2": [
+      "Does the image contain tusks?",
+      "Does the image contain a chain?",
+      "Does the image contain a handler?"
+    ]
+  },
+  {
+    "id": 18,
+    "full_prompt": "A photo of a lion without a mane, a cage, or a zookeeper.",
+    "affirmative_prompt": "A lion.",
+    "negative_prompts": ["mane", "cage", "zookeeper"],
+    "Question1": "Is this a lion?",
+    "Question2": [
+      "Does the image contain a mane?",
+      "Does the image contain a cage?",
+      "Does the image contain a zookeeper?"
+    ]
+  },
+  {
+    "id": 19,
+    "full_prompt": "A photo of a penguin without ice, water, or a group of penguins nearby.",
+    "affirmative_prompt": "A penguin.",
+    "negative_prompts": ["ice", "water", "group of penguins"],
+    "Question1": "Is this a penguin?",
+    "Question2": [
+      "Does the image contain ice?",
+      "Does the image contain water?",
+      "Does the image contain a group of penguins?"
+    ]
+  },
+  {
+    "id": 20,
+    "full_prompt": "A photo of a rabbit without carrots, a cage, or straw.",
+    "affirmative_prompt": "A rabbit.",
+    "negative_prompts": ["carrots", "cage", "straw"],
+    "Question1": "Is this a rabbit?",
+    "Question2": [
+      "Does the image contain carrots?",
+      "Does the image contain a cage?",
+      "Does the image contain straw?"
+    ]
+  },
+  {
+    "id": 21,
+    "full_prompt": "A photo of a car without wheels, headlights, or doors.",
+    "affirmative_prompt": "A car.",
+    "negative_prompts": ["wheels", "headlights", "doors"],
+    "Question1": "Is this a car?",
+    "Question2": [
+      "Does the image contain wheels?",
+      "Does the image contain headlights?",
+      "Does the image contain doors?"
+    ]
+  },
+  {
+    "id": 22,
+    "full_prompt": "A photo of a bicycle without pedals, a chain, or handlebars.",
+    "affirmative_prompt": "A bicycle.",
+    "negative_prompts": ["pedals", "chain", "handlebars"],
+    "Question1": "Is this a bicycle?",
+    "Question2": [
+      "Does the image contain pedals?",
+      "Does the image contain a chain?",
+      "Does the image contain handlebars?"
+    ]
+  },
+  {
+    "id": 23,
+    "full_prompt": "A photo of a bus without windows, doors, or passengers.",
+    "affirmative_prompt": "A bus.",
+    "negative_prompts": ["windows", "doors", "passengers"],
+    "Question1": "Is this a bus?",
+    "Question2": [
+      "Does the image contain windows?",
+      "Does the image contain doors?",
+      "Does the image contain passengers?"
+    ]
+  },
+  {
+    "id": 24,
+    "full_prompt": "A photo of a train without tracks, windows, or smoke.",
+    "affirmative_prompt": "A train.",
+    "negative_prompts": ["tracks", "windows", "smoke"],
+    "Question1": "Is this a train?",
+    "Question2": [
+      "Does the image contain tracks?",
+      "Does the image contain windows?",
+      "Does the image contain smoke?"
+    ]
+  },
+  {
+    "id": 25,
+    "full_prompt": "A photo of an airplane without windows, landing gear, or an airline logo.",
+    "affirmative_prompt": "An airplane.",
+    "negative_prompts": ["windows", "landing gear", "airline logo"],
+    "Question1": "Is this an airplane?",
+    "Question2": [
+      "Does the image contain windows?",
+      "Does the image contain landing gear?",
+      "Does the image contain an airline logo?"
+    ]
+  },
+  {
+    "id": 26,
+    "full_prompt": "A photo of a boat without sails, a motor, or life jackets.",
+    "affirmative_prompt": "A boat.",
+    "negative_prompts": ["sails", "motor", "life jackets"],
+    "Question1": "Is this a boat?",
+    "Question2": [
+      "Does the image contain sails?",
+      "Does the image contain a motor?",
+      "Does the image contain life jackets?"
+    ]
+  },
+  {
+    "id": 27,
+    "full_prompt": "A photo of a motorcycle without wheels, handlebars, or an exhaust pipe.",
+    "affirmative_prompt": "A motorcycle.",
+    "negative_prompts": ["wheels", "handlebars", "exhaust pipe"],
+    "Question1": "Is this a motorcycle?",
+    "Question2": [
+      "Does the image contain wheels?",
+      "Does the image contain handlebars?",
+      "Does the image contain an exhaust pipe?"
+    ]
+  },
+  {
+    "id": 28,
+    "full_prompt": "A photo of a truck without cargo, a trailer, or a logo.",
+    "affirmative_prompt": "A truck.",
+    "negative_prompts": ["cargo", "trailer", "logo"],
+    "Question1": "Is this a truck?",
+    "Question2": [
+      "Does the image contain cargo?",
+      "Does the image contain a trailer?",
+      "Does the image contain a logo?"
+    ]
+  },
+  {
+    "id": 29,
+    "full_prompt": "A photo of a taxi without a roof sign, a meter, or passengers.",
+    "affirmative_prompt": "A taxi.",
+    "negative_prompts": ["roof sign", "meter", "passengers"],
+    "Question1": "Is this a taxi?",
+    "Question2": [
+      "Does the image contain a roof sign?",
+      "Does the image contain a meter?",
+      "Does the image contain passengers?"
+    ]
+  },
+  {
+    "id": 30,
+    "full_prompt": "A photo of a helicopter without rotor blades, landing skids, or windows.",
+    "affirmative_prompt": "A helicopter.",
+    "negative_prompts": ["rotor blades", "landing skids", "windows"],
+    "Question1": "Is this a helicopter?",
+    "Question2": [
+      "Does the image contain rotor blades?",
+      "Does the image contain landing skids?",
+      "Does the image contain windows?"
+    ]
+  },
+  {
+    "id": 31,
+    "full_prompt": "A photo of a coffee cup without a handle, saucer, or spoon.",
+    "affirmative_prompt": "A coffee cup.",
+    "negative_prompts": ["handle", "saucer", "spoon"],
+    "Question1": "Is this a coffee cup?",
+    "Question2": [
+      "Does the image contain a handle?",
+      "Does the image contain a saucer?",
+      "Does the image contain a spoon?"
+    ]
+  },
+  {
+    "id": 32,
+    "full_prompt": "A photo of a plate without food, a fork, or a knife.",
+    "affirmative_prompt": "A plate.",
+    "negative_prompts": ["food", "fork", "knife"],
+    "Question1": "Is this a plate?",
+    "Question2": [
+      "Does the image contain food?",
+      "Does the image contain a fork?",
+      "Does the image contain a knife?"
+    ]
+  },
+  {
+    "id": 33,
+    "full_prompt": "A photo of a pizza without cheese, pepperoni, or mushrooms.",
+    "affirmative_prompt": "A pizza.",
+    "negative_prompts": ["cheese", "pepperoni", "mushrooms"],
+    "Question1": "Is this a pizza?",
+    "Question2": [
+      "Does the image contain cheese?",
+      "Does the image contain pepperoni?",
+      "Does the image contain mushrooms?"
+    ]
+  },
+  {
+    "id": 34,
+    "full_prompt": "A photo of a burger without cheese, lettuce, or tomato.",
+    "affirmative_prompt": "A burger.",
+    "negative_prompts": ["cheese", "lettuce", "tomato"],
+    "Question1": "Is this a burger?",
+    "Question2": [
+      "Does the image contain cheese?",
+      "Does the image contain lettuce?",
+      "Does the image contain tomato?"
+    ]
+  },
+  {
+    "id": 35,
+    "full_prompt": "A photo of a cake without candles, frosting, or decorations.",
+    "affirmative_prompt": "A cake.",
+    "negative_prompts": ["candles", "frosting", "decorations"],
+    "Question1": "Is this a cake?",
+    "Question2": [
+      "Does the image contain candles?",
+      "Does the image contain frosting?",
+      "Does the image contain decorations?"
+    ]
+  },
+  {
+    "id": 36,
+    "full_prompt": "A photo of an ice cream cone without sprinkles, chocolate syrup, or a cherry.",
+    "affirmative_prompt": "An ice cream cone.",
+    "negative_prompts": ["sprinkles", "chocolate syrup", "cherry"],
+    "Question1": "Is this an ice cream cone?",
+    "Question2": [
+      "Does the image contain sprinkles?",
+      "Does the image contain chocolate syrup?",
+      "Does the image contain a cherry?"
+    ]
+  },
+  {
+    "id": 37,
+    "full_prompt": "A photo of a sandwich without lettuce, tomato, or cheese.",
+    "affirmative_prompt": "A sandwich.",
+    "negative_prompts": ["lettuce", "tomato", "cheese"],
+    "Question1": "Is this a sandwich?",
+    "Question2": [
+      "Does the image contain lettuce?",
+      "Does the image contain tomato?",
+      "Does the image contain cheese?"
+    ]
+  },
+  {
+    "id": 38,
+    "full_prompt": "A photo of a salad bowl without dressing, croutons, or tomatoes.",
+    "affirmative_prompt": "A salad bowl.",
+    "negative_prompts": ["dressing", "croutons", "tomatoes"],
+    "Question1": "Is this a salad bowl?",
+    "Question2": [
+      "Does the image contain dressing?",
+      "Does the image contain croutons?",
+      "Does the image contain tomatoes?"
+    ]
+  },
+  {
+    "id": 39,
+    "full_prompt": "A photo of a donut without icing, sprinkles, or filling.",
+    "affirmative_prompt": "A donut.",
+    "negative_prompts": ["icing", "sprinkles", "filling"],
+    "Question1": "Is this a donut?",
+    "Question2": [
+      "Does the image contain icing?",
+      "Does the image contain sprinkles?",
+      "Does the image contain filling?"
+    ]
+  },
+  {
+    "id": 40,
+    "full_prompt": "A photo of a cupcake without frosting, sprinkles, or a wrapper.",
+    "affirmative_prompt": "A cupcake.",
+    "negative_prompts": ["frosting", "sprinkles", "wrapper"],
+    "Question1": "Is this a cupcake?",
+    "Question2": [
+      "Does the image contain frosting?",
+      "Does the image contain sprinkles?",
+      "Does the image contain a wrapper?"
+    ]
+  },
+  {
+    "id": 41,
+    "full_prompt": "A photo of a table without chairs, a tablecloth, or plates.",
+    "affirmative_prompt": "A table.",
+    "negative_prompts": ["chairs", "tablecloth", "plates"],
+    "Question1": "Is this a table?",
+    "Question2": [
+      "Does the image contain chairs?",
+      "Does the image contain a tablecloth?",
+      "Does the image contain plates?"
+    ]
+  },
+  {
+    "id": 42,
+    "full_prompt": "A photo of a sofa without cushions, pillows, or a blanket.",
+    "affirmative_prompt": "A sofa.",
+    "negative_prompts": ["cushions", "pillows", "blanket"],
+    "Question1": "Is this a sofa?",
+    "Question2": [
+      "Does the image contain cushions?",
+      "Does the image contain pillows?",
+      "Does the image contain a blanket?"
+    ]
+  },
+  {
+    "id": 43,
+    "full_prompt": "A photo of a bed without pillows, a blanket, or a headboard.",
+    "affirmative_prompt": "A bed.",
+    "negative_prompts": ["pillows", "blanket", "headboard"],
+    "Question1": "Is this a bed?",
+    "Question2": [
+      "Does the image contain pillows?",
+      "Does the image contain a blanket?",
+      "Does the image contain a headboard?"
+    ]
+  },
+  {
+    "id": 44,
+    "full_prompt": "A photo of a lamp without a shade, bulb, or cord.",
+    "affirmative_prompt": "A lamp.",
+    "negative_prompts": ["shade", "bulb", "cord"],
+    "Question1": "Is this a lamp?",
+    "Question2": [
+      "Does the image contain a shade?",
+      "Does the image contain a bulb?",
+      "Does the image contain a cord?"
+    ]
+  },
+  {
+    "id": 45,
+    "full_prompt": "A photo of a clock without numbers, hands, or a frame.",
+    "affirmative_prompt": "A clock.",
+    "negative_prompts": ["numbers", "hands", "frame"],
+    "Question1": "Is this a clock?",
+    "Question2": [
+      "Does the image contain numbers?",
+      "Does the image contain hands?",
+      "Does the image contain a frame?"
+    ]
+  },
+  {
+    "id": 46,
+    "full_prompt": "A photo of a mirror without a frame, reflection, or wall behind it.",
+    "affirmative_prompt": "A mirror.",
+    "negative_prompts": ["frame", "reflection", "wall"],
+    "Question1": "Is this a mirror?",
+    "Question2": [
+      "Does the image contain a frame?",
+      "Does the image contain a reflection?",
+      "Does the image contain a wall?"
+    ]
+  },
+  {
+    "id": 47,
+    "full_prompt": "A photo of a fridge without handles, magnets, or food inside.",
+    "affirmative_prompt": "A fridge.",
+    "negative_prompts": ["handles", "magnets", "food"],
+    "Question1": "Is this a fridge?",
+    "Question2": [
+      "Does the image contain handles?",
+      "Does the image contain magnets?",
+      "Does the image contain food?"
+    ]
+  },
+  {
+    "id": 48,
+    "full_prompt": "A photo of a stove without burners, knobs, or pots.",
+    "affirmative_prompt": "A stove.",
+    "negative_prompts": ["burners", "knobs", "pots"],
+    "Question1": "Is this a stove?",
+    "Question2": [
+      "Does the image contain burners?",
+      "Does the image contain knobs?",
+      "Does the image contain pots?"
+    ]
+  },
+  {
+    "id": 49,
+    "full_prompt": "A photo of a sink without a faucet, water, or dishes.",
+    "affirmative_prompt": "A sink.",
+    "negative_prompts": ["faucet", "water", "dishes"],
+    "Question1": "Is this a sink?",
+    "Question2": [
+      "Does the image contain a faucet?",
+      "Does the image contain water?",
+      "Does the image contain dishes?"
+    ]
+  },
+  {
+    "id": 50,
+    "full_prompt": "A photo of a door without a handle, hinges, or a lock.",
+    "affirmative_prompt": "A door.",
+    "negative_prompts": ["handle", "hinges", "lock"],
+    "Question1": "Is this a door?",
+    "Question2": [
+      "Does the image contain a handle?",
+      "Does the image contain hinges?",
+      "Does the image contain a lock?"
+    ]
+  },
+  {
+    "id": 51,
+    "full_prompt": "A photo of a shirt without buttons, a collar, or sleeves.",
+    "affirmative_prompt": "A shirt.",
+    "negative_prompts": ["buttons", "collar", "sleeves"],
+    "Question1": "Is this a shirt?",
+    "Question2": [
+      "Does the image contain buttons?",
+      "Does the image contain a collar?",
+      "Does the image contain sleeves?"
+    ]
+  },
+  {
+    "id": 52,
+    "full_prompt": "A photo of a pair of shoes without laces, soles, or socks nearby.",
+    "affirmative_prompt": "A pair of shoes.",
+    "negative_prompts": ["laces", "soles", "socks"],
+    "Question1": "Are these shoes?",
+    "Question2": [
+      "Does the image contain laces?",
+      "Does the image contain soles?",
+      "Does the image contain socks?"
+    ]
+  },
+  {
+    "id": 53,
+    "full_prompt": "A photo of a hat without a brim, logo, or strap.",
+    "affirmative_prompt": "A hat.",
+    "negative_prompts": ["brim", "logo", "strap"],
+    "Question1": "Is this a hat?",
+    "Question2": [
+      "Does the image contain a brim?",
+      "Does the image contain a logo?",
+      "Does the image contain a strap?"
+    ]
+  },
+  {
+    "id": 54,
+    "full_prompt": "A photo of a dress without sleeves, a belt, or patterns.",
+    "affirmative_prompt": "A dress.",
+    "negative_prompts": ["sleeves", "belt", "patterns"],
+    "Question1": "Is this a dress?",
+    "Question2": [
+      "Does the image contain sleeves?",
+      "Does the image contain a belt?",
+      "Does the image contain patterns?"
+    ]
+  },
+  {
+    "id": 55,
+    "full_prompt": "A photo of a jacket without a zipper, pockets, or a hood.",
+    "affirmative_prompt": "A jacket.",
+    "negative_prompts": ["zipper", "pockets", "hood"],
+    "Question1": "Is this a jacket?",
+    "Question2": [
+      "Does the image contain a zipper?",
+      "Does the image contain pockets?",
+      "Does the image contain a hood?"
+    ]
+  },
+  {
+    "id": 56,
+    "full_prompt": "A photo of pants without pockets, belt loops, or a zipper.",
+    "affirmative_prompt": "Pants.",
+    "negative_prompts": ["pockets", "belt loops", "zipper"],
+    "Question1": "Are these pants?",
+    "Question2": [
+      "Does the image contain pockets?",
+      "Does the image contain belt loops?",
+      "Does the image contain a zipper?"
+    ]
+  },
+  {
+    "id": 57,
+    "full_prompt": "A photo of gloves without fingers, lining, or a logo.",
+    "affirmative_prompt": "Gloves.",
+    "negative_prompts": ["fingers", "lining", "logo"],
+    "Question1": "Are these gloves?",
+    "Question2": [
+      "Does the image contain fingers on the gloves?",
+      "Does the image contain lining on the gloves?",
+      "Does the image contain a logo on the gloves?"
+    ]
+  },
+  {
+    "id": 58,
+    "full_prompt": "A photo of a scarf without patterns, fringes, or knots.",
+    "affirmative_prompt": "A scarf.",
+    "negative_prompts": ["patterns", "fringes", "knots"],
+    "Question1": "Is this a scarf?",
+    "Question2": [
+      "Does the image contain patterns on the scarf?",
+      "Does the image contain fringes?",
+      "Does the image contain knots in the scarf?"
+    ]
+  },
+  {
+    "id": 59,
+    "full_prompt": "A photo of a tie without stripes, a knot, or a pattern.",
+    "affirmative_prompt": "A tie.",
+    "negative_prompts": ["stripes", "knot", "pattern"],
+    "Question1": "Is this a tie?",
+    "Question2": [
+      "Does the image contain stripes on the tie?",
+      "Does the image contain a knot in the tie?",
+      "Does the image contain a pattern on the tie?"
+    ]
+  },
+  {
+    "id": 60,
+    "full_prompt": "A photo of socks without patterns, holes, or a matching pair.",
+    "affirmative_prompt": "Socks.",
+    "negative_prompts": ["patterns", "holes", "matching pair"],
+    "Question1": "Are these socks?",
+    "Question2": [
+      "Does the image contain patterns on the socks?",
+      "Does the image contain holes in the socks?",
+      "Does the image contain a matching pair of socks?"
+    ]
+  },
+  {
+    "id": 61,
+    "full_prompt": "A photo of a laptop without a keyboard, screen, or touchpad.",
+    "affirmative_prompt": "A laptop.",
+    "negative_prompts": ["keyboard", "screen", "touchpad"],
+    "Question1": "Is this a laptop?",
+    "Question2": [
+      "Does the image contain a keyboard?",
+      "Does the image contain a screen?",
+      "Does the image contain a touchpad?"
+    ]
+  },
+  {
+    "id": 62,
+    "full_prompt": "A photo of a smartphone without a screen, buttons, or a camera.",
+    "affirmative_prompt": "A smartphone.",
+    "negative_prompts": ["screen", "buttons", "camera"],
+    "Question1": "Is this a smartphone?",
+    "Question2": [
+      "Does the image contain a screen?",
+      "Does the image contain buttons?",
+      "Does the image contain a camera?"
+    ]
+  },
+  {
+    "id": 63,
+    "full_prompt": "A photo of a camera without a lens, buttons, or a strap.",
+    "affirmative_prompt": "A camera.",
+    "negative_prompts": ["lens", "buttons", "strap"],
+    "Question1": "Is this a camera?",
+    "Question2": [
+      "Does the image contain a lens?",
+      "Does the image contain buttons?",
+      "Does the image contain a strap?"
+    ]
+  },
+  {
+    "id": 64,
+    "full_prompt": "A photo of headphones without ear cups, a headband, or a cable.",
+    "affirmative_prompt": "Headphones.",
+    "negative_prompts": ["ear cups", "headband", "cable"],
+    "Question1": "Are these headphones?",
+    "Question2": [
+      "Does the image contain ear cups?",
+      "Does the image contain a headband?",
+      "Does the image contain a cable?"
+    ]
+  },
+  {
+    "id": 65,
+    "full_prompt": "A photo of a keyboard without keys, letters, or a cable.",
+    "affirmative_prompt": "A keyboard.",
+    "negative_prompts": ["keys", "letters", "cable"],
+    "Question1": "Is this a keyboard?",
+    "Question2": [
+      "Does the image contain keys?",
+      "Does the image contain letters on the keys?",
+      "Does the image contain a cable?"
+    ]
+  },
+  {
+    "id": 66,
+    "full_prompt": "A photo of a computer mouse without buttons, a scroll wheel, or a cable.",
+    "affirmative_prompt": "A mouse.",
+    "negative_prompts": ["buttons", "scroll wheel", "cable"],
+    "Question1": "Is this a mouse?",
+    "Question2": [
+      "Does the image contain buttons on the mouse?",
+      "Does the image contain a scroll wheel?",
+      "Does the image contain a cable?"
+    ]
+  },
+  {
+    "id": 67,
+    "full_prompt": "A photo of a TV without an image on the screen, a remote, or a stand.",
+    "affirmative_prompt": "A TV.",
+    "negative_prompts": ["image on the screen", "remote", "stand"],
+    "Question1": "Is this a TV?",
+    "Question2": [
+      "Does the image contain an image on the screen?",
+      "Does the image contain a remote?",
+      "Does the image contain a stand?"
+    ]
+  },
+  {
+    "id": 68,
+    "full_prompt": "A photo of a tablet without a screen, buttons, or a case.",
+    "affirmative_prompt": "A tablet.",
+    "negative_prompts": ["screen", "buttons", "case"],
+    "Question1": "Is this a tablet?",
+    "Question2": [
+      "Does the image contain a screen?",
+      "Does the image contain buttons?",
+      "Does the image contain a case?"
+    ]
+  },
+  {
+    "id": 69,
+    "full_prompt": "A photo of a smartwatch without a strap, screen, or buttons.",
+    "affirmative_prompt": "A smartwatch.",
+    "negative_prompts": ["strap", "screen", "buttons"],
+    "Question1": "Is this a smartwatch?",
+    "Question2": [
+      "Does the image contain a strap?",
+      "Does the image contain a screen?",
+      "Does the image contain buttons?"
+    ]
+  },
+  {
+    "id": 70,
+    "full_prompt": "A photo of a microphone without a stand, cable, or pop filter.",
+    "affirmative_prompt": "A microphone.",
+    "negative_prompts": ["stand", "cable", "pop filter"],
+    "Question1": "Is this a microphone?",
+    "Question2": [
+      "Does the image contain a stand?",
+      "Does the image contain a cable?",
+      "Does the image contain a pop filter?"
+    ]
+  },
+  {
+    "id": 71,
+    "full_prompt": "A photo of a tree without leaves, flowers, or birds.",
+    "affirmative_prompt": "A tree.",
+    "negative_prompts": ["leaves", "flowers", "birds"],
+    "Question1": "Is this a tree?",
+    "Question2": [
+      "Does the image contain leaves?",
+      "Does the image contain flowers?",
+      "Does the image contain birds?"
+    ]
+  },
+  {
+    "id": 72,
+    "full_prompt": "A photo of a flower without leaves, thorns, or a vase.",
+    "affirmative_prompt": "A flower.",
+    "negative_prompts": ["leaves", "thorns", "vase"],
+    "Question1": "Is this a flower?",
+    "Question2": [
+      "Does the image contain leaves?",
+      "Does the image contain thorns?",
+      "Does the image contain a vase?"
+    ]
+  },
+  {
+    "id": 73,
+    "full_prompt": "A photo of a mountain without snow, trees, or clouds.",
+    "affirmative_prompt": "A mountain.",
+    "negative_prompts": ["snow", "trees", "clouds"],
+    "Question1": "Is this a mountain?",
+    "Question2": [
+      "Does the image contain snow?",
+      "Does the image contain trees?",
+      "Does the image contain clouds?"
+    ]
+  },
+  {
+    "id": 74,
+    "full_prompt": "A photo of a beach without umbrellas, towels, or people.",
+    "affirmative_prompt": "A beach.",
+    "negative_prompts": ["umbrellas", "towels", "people"],
+    "Question1": "Is this a beach?",
+    "Question2": [
+      "Does the image contain umbrellas?",
+      "Does the image contain towels?",
+      "Does the image contain people?"
+    ]
+  },
+  {
+    "id": 75,
+    "full_prompt": "A photo of a river without boats, bridges, or rocks.",
+    "affirmative_prompt": "A river.",
+    "negative_prompts": ["boats", "bridges", "rocks"],
+    "Question1": "Is this a river?",
+    "Question2": [
+      "Does the image contain boats?",
+      "Does the image contain bridges?",
+      "Does the image contain rocks?"
+    ]
+  },
+  {
+    "id": 76,
+    "full_prompt": "A photo of a field without flowers, trees, or fences.",
+    "affirmative_prompt": "A field.",
+    "negative_prompts": ["flowers", "trees", "fences"],
+    "Question1": "Is this a field?",
+    "Question2": [
+      "Does the image contain flowers?",
+      "Does the image contain trees?",
+      "Does the image contain fences?"
+    ]
+  },
+  {
+    "id": 77,
+    "full_prompt": "A photo of a road without cars, lane markings, or signs.",
+    "affirmative_prompt": "A road.",
+    "negative_prompts": ["cars", "lane markings", "signs"],
+    "Question1": "Is this a road?",
+    "Question2": [
+      "Does the image contain cars?",
+      "Does the image contain lane markings?",
+      "Does the image contain signs?"
+    ]
+  },
+  {
+    "id": 78,
+    "full_prompt": "A photo of a sky without clouds, birds, or the sun.",
+    "affirmative_prompt": "The sky.",
+    "negative_prompts": ["clouds", "birds", "sun"],
+    "Question1": "Is this the sky?",
+    "Question2": [
+      "Does the image contain clouds?",
+      "Does the image contain birds?",
+      "Does the image contain the sun?"
+    ]
+  },
+  {
+    "id": 79,
+    "full_prompt": "A photo of a park without benches, trees, or a playground.",
+    "affirmative_prompt": "A park.",
+    "negative_prompts": ["benches", "trees", "playground"],
+    "Question1": "Is this a park?",
+    "Question2": [
+      "Does the image contain benches?",
+      "Does the image contain trees?",
+      "Does the image contain a playground?"
+    ]
+  },
+  {
+    "id": 80,
+    "full_prompt": "A photo of a city street without cars, people, or shops.",
+    "affirmative_prompt": "A city street.",
+    "negative_prompts": ["cars", "people", "shops"],
+    "Question1": "Is this a city street?",
+    "Question2": [
+      "Does the image contain cars?",
+      "Does the image contain people?",
+      "Does the image contain shops?"
+    ]
+  },
+  {
+    "id": 81,
+    "full_prompt": "A photo of a teddy bear without a bow, buttons, or a fur pattern.",
+    "affirmative_prompt": "A teddy bear.",
+    "negative_prompts": ["bow", "buttons", "fur pattern"],
+    "Question1": "Is this a teddy bear?",
+    "Question2": [
+      "Does the image contain a bow?",
+      "Does the image contain buttons?",
+      "Does the image contain a fur pattern?"
+    ]
+  },
+  {
+    "id": 82,
+    "full_prompt": "A photo of a robot without arms, legs, or a face.",
+    "affirmative_prompt": "A robot.",
+    "negative_prompts": ["arms", "legs", "face"],
+    "Question1": "Is this a robot?",
+    "Question2": [
+      "Does the image contain arms?",
+      "Does the image contain legs?",
+      "Does the image contain a face?"
+    ]
+  },
+  {
+    "id": 83,
+    "full_prompt": "A photo of a bicycle helmet without straps, vents, or a logo.",
+    "affirmative_prompt": "A bicycle helmet.",
+    "negative_prompts": ["straps", "vents", "logo"],
+    "Question1": "Is this a bicycle helmet?",
+    "Question2": [
+      "Does the image contain straps?",
+      "Does the image contain vents?",
+      "Does the image contain a logo?"
+    ]
+  },
+  {
+    "id": 84,
+    "full_prompt": "A photo of a suitcase without a handle, wheels, or tags.",
+    "affirmative_prompt": "A suitcase.",
+    "negative_prompts": ["handle", "wheels", "tags"],
+    "Question1": "Is this a suitcase?",
+    "Question2": [
+      "Does the image contain a handle?",
+      "Does the image contain wheels?",
+      "Does the image contain tags?"
+    ]
+  },
+  {
+    "id": 85,
+    "full_prompt": "A photo of an umbrella without a handle, fabric, or ribs.",
+    "affirmative_prompt": "An umbrella.",
+    "negative_prompts": ["handle", "fabric", "ribs"],
+    "Question1": "Is this an umbrella?",
+    "Question2": [
+      "Does the image contain a handle?",
+      "Does the image contain fabric?",
+      "Does the image contain ribs?"
+    ]
+  },
+  {
+    "id": 86,
+    "full_prompt": "A photo of a book without a title, pages, or a cover.",
+    "affirmative_prompt": "A book.",
+    "negative_prompts": ["title", "pages", "cover"],
+    "Question1": "Is this a book?",
+    "Question2": [
+      "Does the image contain a title?",
+      "Does the image contain pages?",
+      "Does the image contain a cover?"
+    ]
+  },
+  {
+    "id": 87,
+    "full_prompt": "A photo of a ring without a gemstone, engraving, or a box.",
+    "affirmative_prompt": "A ring.",
+    "negative_prompts": ["gemstone", "engraving", "box"],
+    "Question1": "Is this a ring?",
+    "Question2": [
+      "Does the image contain a gemstone?",
+      "Does the image contain engraving?",
+      "Does the image contain a box?"
+    ]
+  },
+  {
+    "id": 88,
+    "full_prompt": "A photo of a wallet without money, cards, or coins.",
+    "affirmative_prompt": "A wallet.",
+    "negative_prompts": ["money", "cards", "coins"],
+    "Question1": "Is this a wallet?",
+    "Question2": [
+      "Does the image contain money?",
+      "Does the image contain cards?",
+      "Does the image contain coins?"
+    ]
+  },
+  {
+    "id": 89,
+    "full_prompt": "A photo of a key without teeth, a handle, or a keyring.",
+    "affirmative_prompt": "A key.",
+    "negative_prompts": ["teeth", "handle", "keyring"],
+    "Question1": "Is this a key?",
+    "Question2": [
+      "Does the image contain teeth on the key?",
+      "Does the image contain a handle?",
+      "Does the image contain a keyring?"
+    ]
+  },
+  {
+    "id": 90,
+    "full_prompt": "A photo of a brush without bristles, a handle, or color.",
+    "affirmative_prompt": "A brush.",
+    "negative_prompts": ["bristles", "handle", "color"],
+    "Question1": "Is this a brush?",
+    "Question2": [
+      "Does the image contain bristles?",
+      "Does the image contain a handle?",
+      "Does the image contain color on the brush?"
+    ]
+  },
+  {
+    "id": 91,
+    "full_prompt": "A photo of a candle without a flame, wax drips, or a holder.",
+    "affirmative_prompt": "A candle.",
+    "negative_prompts": ["flame", "wax drips", "holder"],
+    "Question1": "Is this a candle?",
+    "Question2": [
+      "Does the image contain a flame?",
+      "Does the image contain wax drips?",
+      "Does the image contain a holder?"
+    ]
+  },
+  {
+    "id": 92,
+    "full_prompt": "A photo of a painting without a frame, signature, or colors.",
+    "affirmative_prompt": "A painting.",
+    "negative_prompts": ["frame", "signature", "colors"],
+    "Question1": "Is this a painting?",
+    "Question2": [
+      "Does the image contain a frame?",
+      "Does the image contain a signature?",
+      "Does the image contain colors?"
+    ]
+  },
+  {
+    "id": 93,
+    "full_prompt": "A photo of a statue without a base, details, or texture.",
+    "affirmative_prompt": "A statue.",
+    "negative_prompts": ["base", "details", "texture"],
+    "Question1": "Is this a statue?",
+    "Question2": [
+      "Does the image contain a base?",
+      "Does the image contain details?",
+      "Does the image contain texture?"
+    ]
+  },
+  {
+    "id": 94,
+    "full_prompt": "A photo of a cup of tea without a handle, steam, or a saucer.",
+    "affirmative_prompt": "A cup of tea.",
+    "negative_prompts": ["handle", "steam", "saucer"],
+    "Question1": "Is this a cup of tea?",
+    "Question2": [
+      "Does the image contain a handle?",
+      "Does the image contain steam?",
+      "Does the image contain a saucer?"
+    ]
+  },
+  {
+    "id": 95,
+    "full_prompt": "A photo of a bowl of soup without a spoon, vegetables, or steam.",
+    "affirmative_prompt": "A bowl of soup.",
+    "negative_prompts": ["spoon", "vegetables", "steam"],
+    "Question1": "Is this a bowl of soup?",
+    "Question2": [
+      "Does the image contain a spoon?",
+      "Does the image contain vegetables?",
+      "Does the image contain steam?"
+    ]
+  },
+  {
+    "id": 96,
+    "full_prompt": "A photo of an orange without a peel, segments, or seeds.",
+    "affirmative_prompt": "An orange.",
+    "negative_prompts": ["peel", "segments", "seeds"],
+    "Question1": "Is this an orange?",
+    "Question2": [
+      "Does the image contain a peel?",
+      "Does the image contain segments?",
+      "Does the image contain seeds?"
+    ]
+  },
+  {
+    "id": 97,
+    "full_prompt": "A photo of a banana without a peel, spots, or a stem.",
+    "affirmative_prompt": "A banana.",
+    "negative_prompts": ["peel", "spots", "stem"],
+    "Question1": "Is this a banana?",
+    "Question2": [
+      "Does the image contain a peel?",
+      "Does the image contain spots?",
+      "Does the image contain a stem?"
+    ]
+  },
+  {
+    "id": 98,
+    "full_prompt": "A photo of a car wheel without spokes, a tire, or bolts.",
+    "affirmative_prompt": "A car wheel.",
+    "negative_prompts": ["spokes", "tire", "bolts"],
+    "Question1": "Is this a car wheel?",
+    "Question2": [
+      "Does the image contain spokes?",
+      "Does the image contain a tire?",
+      "Does the image contain bolts?"
+    ]
+  },
+  {
+    "id": 99,
+    "full_prompt": "A photo of a guitar without strings, frets, or a sound hole.",
+    "affirmative_prompt": "A guitar.",
+    "negative_prompts": ["strings", "frets", "sound hole"],
+    "Question1": "Is this a guitar?",
+    "Question2": [
+      "Does the image contain strings?",
+      "Does the image contain frets?",
+      "Does the image contain a sound hole?"
+    ]
+  },
+  {
+    "id": 100,
+    "full_prompt": "A photo of a piano without keys, pedals, or a lid.",
+    "affirmative_prompt": "A piano.",
+    "negative_prompts": ["keys", "pedals", "lid"],
+    "Question1": "Is this a piano?",
+    "Question2": [
+      "Does the image contain keys?",
+      "Does the image contain pedals?",
+      "Does the image contain a lid?"
+    ]
+  }
+]
