@@ -1,4 +1,4 @@
-# Vision-Language Models Can Understand Negation
+# SpaceVLM: Sub-Space Modeling of Negation in Vision-Language Models
 
 This repository contains the code accompanying the paper **"SpaceVLM: Sub-Space Modeling of Negation in Vision-Language Models"**.  
 
